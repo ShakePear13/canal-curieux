@@ -328,6 +328,12 @@ def _ressemble(a, b):
     return bool(a and b) and (a in b or b in a)
 
 
+def _langue_chaine(ucid):
+    """Langue dominante des titres récents d'une chaîne ('fr', 'en' ou None)."""
+    vids = videos_infos(dernieres_videos(ucid)[:25])
+    return langue_titres([v["t"] for v in vids.values()])
+
+
 def identifier_chaines(C, chans, infos):
     votes = collections.defaultdict(collections.Counter)
     for _, it in C.tous():
@@ -335,6 +341,23 @@ def identifier_chaines(C, chans, infos):
         if v and it["c"] != AUTRES:
             votes[slug(it["c"])][(v["cid"], v["ctitre"])] += 1
     for s, ch in chans.items():
+        # une chaîne reconnue seulement par son nom est contrôlée : ses titres doivent être dans la bonne langue
+        if ch.get("ucid") and ch.get("note", "").startswith("Identifiée par son nom") and not ch.get("verif"):
+            try:
+                if _langue_chaine(ch["ucid"]) == ch.get("l", "fr"):
+                    ch["verif"] = True
+                else:
+                    faux = ch.pop("ucid")
+                    ch.pop("maj", None)
+                    if faux in ch.get("url", ""):
+                        ch.pop("url")
+                    for c in C.cat.values():
+                        c["items"] = [it for it in c["items"] if infos.get(it["id"], {}).get("cid") != faux]
+                    ch["note"] = "Chaîne non identifiée : colle son lien YouTube dans l'onglet Chaînes."
+                    probleme(f"{ch['name']} : mauvaise chaîne retirée, lien à fournir.")
+                    continue
+            except ErreurApi:
+                pass
         if ch.get("ucid") or ch.get("status") == "exclue":
             continue
         url = ch.get("url", "")
@@ -363,8 +386,9 @@ def identifier_chaines(C, chans, infos):
                 if memes:
                     det = api("channels", part="statistics", id=",".join(memes)).get("items", [])
                     det.sort(key=lambda c: int(c.get("statistics", {}).get("subscriberCount", 0) or 0), reverse=True)
-                    if det:
+                    if det and _langue_chaine(det[0]["id"]) == ch.get("l", "fr"):
                         ucid, comment = det[0]["id"], "nom"
+                        ch["verif"] = True
                         ch["note"] = "Identifiée par son nom : ouvre le lien pour vérifier que c'est la bonne chaîne."
         except ErreurApi as e:
             probleme(f"{ch['name']} : identification impossible ({e.code}).")
