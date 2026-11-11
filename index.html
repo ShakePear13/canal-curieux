@@ -152,6 +152,13 @@ details.panel summary{font:700 1.1rem var(--f-display);cursor:pointer}
 .sbtn.ok{border-color:var(--seen);color:var(--seen)}
 .sbtn.no{color:var(--accent);border-color:var(--accent)}
 .warn{font-size:.84rem;color:var(--accent)}
+/* Curseur TV : le logo, ouverture en haut */
+#cur{position:fixed;left:0;top:0;width:52px;height:52px;margin:-26px 0 0 -26px;z-index:99;pointer-events:none;filter:drop-shadow(0 1px 3px rgb(0 0 0 / .75));transition:opacity .3s;will-change:transform}
+#cur.idle{opacity:0}
+.cc-hover{outline:3px solid var(--accent)!important;outline-offset:-3px}
+.tv .bar{position:static}
+.tvonly{display:none!important}
+.tv .tvonly{display:inline-block!important}
 /* Lecteur */
 .tvhint{display:none}
 .tv .tvhint{display:block;font:500 .8rem var(--f-mono);color:var(--muted);margin:0 0 8px}
@@ -299,7 +306,7 @@ details.panel summary{font:700 1.1rem var(--f-display);cursor:pointer}
 <div class="player" id="player" hidden role="dialog" aria-modal="true" aria-label="Lecteur">
   <div class="stage"><div class="frame" id="frame"></div></div>
   <div class="wrap pinfo">
-    <p class="tvhint">OK : pause / lecture · ◀ ▶ : reculer / avancer de 10 s · ▼ : options · Retour : fermer</p>
+    <p class="tvhint">Flèches : déplacer le curseur · OK : choisir (sur la vidéo : pause / lecture) · Retour : fermer</p>
     <div class="ptop">
       <div class="meta" id="p-meta"></div>
       <button class="sbtn" id="p-close">✕ Fermer</button>
@@ -307,6 +314,9 @@ details.panel summary{font:700 1.1rem var(--f-display);cursor:pointer}
     <h2 id="p-title"></h2>
     <div class="ch" id="p-ch"></div>
     <div class="pbar">
+      <button class="sbtn tvonly" id="p-rw">⏪ 10 s</button>
+      <button class="sbtn tvonly" id="p-pp">⏯ Pause / lecture</button>
+      <button class="sbtn tvonly" id="p-ff">10 s ⏩</button>
       <button class="sbtn" id="p-seen"></button>
       <button class="sbtn" id="p-later"></button>
       <button class="sbtn" id="p-up" aria-label="J'ai aimé">👍 J'aime</button>
@@ -779,6 +789,47 @@ $("frame").addEventListener("keydown",e=>{
 });
 document.addEventListener("keydown",e=>{if(e.key==="MediaPlayPause"&&P.yt&&!$("player").hidden){ytToggle();e.preventDefault()}});
 if(/CanalCurieuxTV/.test(navigator.userAgent))document.documentElement.classList.add("tv");
+/* ---------- Curseur TV : les flèches le déplacent, OK choisit ---------- */
+function curseurTv(){
+  const c=document.createElement("div"); c.id="cur";
+  c.innerHTML='<svg viewBox="0 0 100 100" width="52" height="52" aria-hidden="true"><circle cx="50" cy="50" r="33" fill="none" stroke="#141816" stroke-width="20" stroke-dasharray="127.5 56 23.8"/><circle cx="50" cy="50" r="33" fill="none" stroke="#fff7f2" stroke-width="14" stroke-dasharray="127.5 56 23.8"/><path d="M50 33 34 61h32z" fill="#e8774f" stroke="#141816" stroke-width="3" stroke-linejoin="round"/></svg>';
+  document.body.appendChild(c);
+  let x=innerWidth/2,y=innerHeight/2,pas=0,dernier=0,cible=null,veille=null;
+  const CLIC="button,a,select,input,textarea,label,summary";
+  const zone=()=>$("player").hidden?null:$("player");
+  function poser(){
+    x=Math.max(4,Math.min(innerWidth-4,x)); y=Math.max(4,Math.min(innerHeight-4,y));
+    c.style.transform="translate("+x+"px,"+y+"px)"; c.classList.remove("idle");
+    clearTimeout(veille); veille=setTimeout(()=>c.classList.add("idle"),6000);
+    const el=document.elementFromPoint(x,y), t=el&&el.closest?el.closest(CLIC):null;
+    if(t!==cible){if(cible)cible.classList.remove("cc-hover"); cible=t; if(cible)cible.classList.add("cc-hover")}
+  }
+  function defiler(dy){const z=zone(); if(z)z.scrollBy(0,dy); else window.scrollBy(0,dy)}
+  function choisir(){
+    const el=document.elementFromPoint(x,y); if(!el)return;
+    if(el.tagName==="IFRAME"||el.closest(".fallback")&&!el.closest("a")){if(P.yt)ytToggle();return}
+    const t=el.closest(CLIC); if(!t)return;
+    if(t.tagName==="SELECT"){t.selectedIndex=(t.selectedIndex+1)%t.options.length;t.dispatchEvent(new Event("change",{bubbles:true}));return}
+    if(t.tagName==="INPUT"&&!/checkbox|radio|submit|button/.test(t.type)||t.tagName==="TEXTAREA"){t.focus();return}
+    t.click(); setTimeout(poser,60);
+  }
+  document.addEventListener("keydown",e=>{
+    const a=document.activeElement, saisie=a&&(a.tagName==="TEXTAREA"||a.tagName==="INPUT"&&!/checkbox|radio|submit|button/.test(a.type));
+    if(saisie){if(e.key==="ArrowDown"||e.key==="ArrowUp"||e.key==="Escape"||e.key==="Enter"&&a.tagName==="INPUT"){a.blur();e.preventDefault();e.stopImmediatePropagation();poser()}return}
+    const d={ArrowLeft:[-1,0],ArrowRight:[1,0],ArrowUp:[0,-1],ArrowDown:[0,1]}[e.key];
+    if(d){
+      const now=Date.now(); pas=now-dernier<220?Math.min(70,pas+7):16; dernier=now;
+      if(d[1]>0&&y>innerHeight-90)defiler(pas*2.2); else if(d[1]<0&&y<90)defiler(-pas*2.2); else{x+=d[0]*pas;y+=d[1]*pas}
+      poser(); e.preventDefault(); e.stopImmediatePropagation(); if(a&&a!==document.body&&a.blur)a.blur();
+    }else if(e.key==="Enter"||e.key===" "){choisir(); e.preventDefault(); e.stopImmediatePropagation()}
+    else if(P.yt&&(e.key==="MediaRewind"||e.key==="MediaFastForward"||e.key==="MediaTrackPrevious"||e.key==="MediaTrackNext")){ytSaut(/Rewind|Previous/.test(e.key)?-10:10); e.preventDefault()}
+  },true);
+  window.addEventListener("scroll",poser,{passive:true}); $("player").addEventListener("scroll",poser,{passive:true});
+  window.addEventListener("resize",poser); poser();
+}
+function ytSaut(s){try{P.yt.seekTo(Math.max(0,P.yt.getCurrentTime()+s),true)}catch(e){}}
+$("p-rw").onclick=()=>ytSaut(-10); $("p-ff").onclick=()=>ytSaut(10); $("p-pp").onclick=()=>P.yt&&ytToggle();
+if(document.documentElement.classList.contains("tv")||/[?&]curseur=1/.test(location.search)){document.documentElement.classList.add("tv");curseurTv()}
 document.addEventListener("keydown",e=>{if(e.key==="Escape")closePlayer()});
 
 /* ---------- Démarrage ---------- */
