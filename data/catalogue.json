@@ -3573,6 +3573,101 @@
      "Guerres mondiales"
     ],
     "w": "Fait partie d'une série · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Kings and Generals",
+    "d": 1197,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "rUL538i8Oms",
+    "l": "en",
+    "p": "2022-01-18",
+    "s": {
+     "loose": true,
+     "name": "Kings and Generals – Pacific War"
+    },
+    "t": "Invasion of New Britain - Pacific War #9 Animated DOCUMENTARY",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Fait partie d'une série · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Kings and Generals",
+    "d": 1170,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "z7KaNtn2sFo",
+    "l": "en",
+    "p": "2022-01-25",
+    "s": {
+     "loose": true,
+     "name": "Kings and Generals – Pacific War"
+    },
+    "t": "Fall of Malaya - Pacific War #10 Animated DOCUMENTARY",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Fait partie d'une série · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Kings and Generals",
+    "d": 1186,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "XJMxr7ED8tI",
+    "l": "en",
+    "p": "2022-02-01",
+    "s": {
+     "loose": true,
+     "name": "Kings and Generals – Pacific War"
+    },
+    "t": "Battle of Makassar Strait - Pacific War #11 Animated DOCUMENTARY",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Fait partie d'une série · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Kings and Generals",
+    "d": 1270,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "d_xE4CVG3rY",
+    "l": "en",
+    "p": "2022-02-10",
+    "s": {
+     "loose": true,
+     "name": "Kings and Generals – Pacific War"
+    },
+    "t": "Fall of Singapore - Pacific War #12 Animated DOCUMENTARY",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Fait partie d'une série · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Kings and Generals",
+    "d": 1138,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "DA2HKaeu8w4",
+    "l": "en",
+    "p": "2022-02-15",
+    "s": {
+     "loose": true,
+     "name": "Kings and Generals – Pacific War"
+    },
+    "t": "Japanese Invasion of Sumatra - Pacific War #13 Animated DOCUMENTARY",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Fait partie d'une série · histoire militaire en cartes animées"
    }
   ],
   "label": "Histoire",
@@ -4199,6 +4294,8 @@
     "a": "2026-11-11",
     "c": "Rick Beato",
     "d": 1119,
+    "hn": 0,
+    "hnAt": "2026-11-11",
     "id": "_Xvc81GL5EI",
     "l": "en",
     "p": "2022-03-30",
@@ -4216,6 +4313,8 @@
     "a": "2026-11-11",
     "c": "Rick Beato",
     "d": 956,
+    "hn": 0,
+    "hnAt": "2026-11-11",
     "id": "6bU4R04fH4U",
     "l": "en",
     "p": "2022-02-28",
@@ -4233,6 +4332,8 @@
     "a": "2026-11-11",
     "c": "Rick Beato",
     "d": 1095,
+    "hn": 0,
+    "hnAt": "2026-11-11",
     "id": "dJgrXqvpXF0",
     "l": "en",
     "p": "2022-01-18",
@@ -4250,6 +4351,8 @@
     "a": "2026-11-11",
     "c": "Rick Beato",
     "d": 950,
+    "hn": 0,
+    "hnAt": "2026-11-11",
     "id": "rrlysChs-Fk",
     "l": "en",
     "p": "2022-01-07",
@@ -4267,6 +4370,8 @@
     "a": "2026-11-11",
     "c": "Rick Beato",
     "d": 383,
+    "hn": 0,
+    "hnAt": "2026-11-11",
     "id": "gnQLYm6xmfg",
     "l": "en",
     "p": "2026-11-05",
@@ -4280,6 +4385,8 @@
     "a": "2026-11-11",
     "c": "Rick Beato",
     "d": 500,
+    "hn": 0,
+    "hnAt": "2026-11-11",
     "id": "fJqfrjiOguE",
     "l": "en",
     "p": "2026-11-03",
@@ -4293,6 +4400,8 @@
     "a": "2026-11-11",
     "c": "Rick Beato",
     "d": 2385,
+    "hn": 0,
+    "hnAt": "2026-11-11",
     "id": "8fdDHfk-DfE",
     "l": "en",
     "p": "2026-10-27",
@@ -4306,6 +4415,8 @@
     "a": "2026-11-11",
     "c": "Rick Beato",
     "d": 1242,
+    "hn": 1,
+    "hnAt": "2026-11-11",
     "id": "qFVpSjRUD2E",
     "l": "en",
     "p": "2021-10-14",
@@ -4323,6 +4434,8 @@
     "a": "2026-11-11",
     "c": "Rick Beato",
     "d": 1185,
+    "hn": 0,
+    "hnAt": "2026-11-11",
     "id": "ql5FdnMJSG8",
     "l": "en",
     "p": "2021-08-16",
@@ -4340,6 +4453,8 @@
     "a": "2026-11-11",
     "c": "Rick Beato",
     "d": 1952,
+    "hn": 0,
+    "hnAt": "2026-11-11",
     "id": "Hhgoli8klLA",
     "l": "en",
     "p": "2021-06-08",
@@ -4357,6 +4472,8 @@
     "a": "2026-11-11",
     "c": "Rick Beato",
     "d": 1867,
+    "hn": 0,
+    "hnAt": "2026-11-11",
     "id": "5-gF-tmblA8",
     "l": "en",
     "p": "2021-06-02",
@@ -4374,6 +4491,8 @@
     "a": "2026-11-11",
     "c": "Rick Beato",
     "d": 1232,
+    "hn": 0,
+    "hnAt": "2026-11-11",
     "id": "sxhefSeDZag",
     "l": "en",
     "p": "2021-05-18",
@@ -4382,6 +4501,116 @@
      "name": "Rick Beato – What Makes This Song Great?"
     },
     "t": "What Makes This Song Great? \"G.O.A.T.\" Polyphia",
+    "tags": [
+     "Analyse de morceaux"
+    ],
+    "w": "Fait partie d'une série · un producteur décortique les morceaux"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Rick Beato",
+    "d": 4024,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "4NkknSTOhD0",
+    "l": "en",
+    "p": "2026-11-11",
+    "t": "Shinedown (The Band I Went Platinum With) Finally Sets The Record Straight",
+    "tags": [
+     "Analyse de morceaux"
+    ],
+    "w": "Sélection de départ · un producteur décortique les morceaux"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Rick Beato",
+    "d": 1467,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "oT3KjbnGrhw",
+    "l": "en",
+    "p": "2021-04-26",
+    "s": {
+     "loose": true,
+     "name": "Rick Beato – What Makes This Song Great?"
+    },
+    "t": "What Makes This Song Great? Ep.102 U2 \"I Still Haven't Found What I'm Looking For\"",
+    "tags": [
+     "Analyse de morceaux"
+    ],
+    "w": "Fait partie d'une série · un producteur décortique les morceaux"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Rick Beato",
+    "d": 1256,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "6ZkpF_CQpSY",
+    "l": "en",
+    "p": "2021-03-29",
+    "s": {
+     "loose": true,
+     "name": "Rick Beato – What Makes This Song Great?"
+    },
+    "t": "What Makes This Song Great? “Since U Been Gone” Kelly Clarkson",
+    "tags": [
+     "Analyse de morceaux"
+    ],
+    "w": "Fait partie d'une série · un producteur décortique les morceaux"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Rick Beato",
+    "d": 2073,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "7lCpTHZkvnc",
+    "l": "en",
+    "p": "2021-03-08",
+    "s": {
+     "loose": true,
+     "name": "Rick Beato – What Makes This Song Great?"
+    },
+    "t": "What Makes This Song Great? \"Do You Feel Like We Do\"  Peter Frampton",
+    "tags": [
+     "Analyse de morceaux"
+    ],
+    "w": "Fait partie d'une série · un producteur décortique les morceaux"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Rick Beato",
+    "d": 840,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "fXIhBY7pfFE",
+    "l": "en",
+    "p": "2020-11-17",
+    "s": {
+     "loose": true,
+     "name": "Rick Beato – What Makes This Song Great?"
+    },
+    "t": "What Makes This Song Great? \"Waste\" Phish",
+    "tags": [
+     "Analyse de morceaux"
+    ],
+    "w": "Fait partie d'une série · un producteur décortique les morceaux"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Rick Beato",
+    "d": 1372,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "UJtZJMNhdY4",
+    "l": "en",
+    "p": "2020-10-13",
+    "s": {
+     "loose": true,
+     "name": "Rick Beato – What Makes This Song Great?"
+    },
+    "t": "What Makes This Song Great? \"Weak and Powerless\" A Perfect Circle",
     "tags": [
      "Analyse de morceaux"
     ],
@@ -5549,6 +5778,8 @@
     "a": "2026-11-11",
     "c": "Veritasium",
     "d": 3956,
+    "hn": 1,
+    "hnAt": "2026-11-11",
     "id": "KfODG5REyss",
     "l": "en",
     "p": "2026-11-04",
@@ -5562,6 +5793,8 @@
     "a": "2026-11-11",
     "c": "Veritasium",
     "d": 2068,
+    "hn": 0,
+    "hnAt": "2026-11-11",
     "id": "eyZEqSPeMwg",
     "l": "en",
     "p": "2026-10-23",
@@ -5575,6 +5808,8 @@
     "a": "2026-11-11",
     "c": "Veritasium",
     "d": 2072,
+    "hn": 1,
+    "hnAt": "2026-11-11",
     "id": "NiCgcUTL9_Q",
     "l": "en",
     "p": "2026-10-12",
@@ -5614,6 +5849,8 @@
     "a": "2026-11-11",
     "c": "Kurzgesagt",
     "d": 840,
+    "hn": 0,
+    "hnAt": "2026-11-11",
     "id": "fEjvSbI_PT4",
     "l": "en",
     "p": "2026-11-10",
@@ -5627,6 +5864,8 @@
     "a": "2026-11-11",
     "c": "3Blue1Brown",
     "d": 534,
+    "hn": 0,
+    "hnAt": "2026-11-11",
     "id": "eu6i7WJeinw",
     "l": "en",
     "p": "2016-09-01",
@@ -5644,6 +5883,8 @@
     "a": "2026-11-11",
     "c": "3Blue1Brown",
     "d": 732,
+    "hn": 0,
+    "hnAt": "2026-11-11",
     "id": "jBsC34PxzoM",
     "l": "en",
     "p": "2019-03-17",
@@ -5661,6 +5902,8 @@
     "a": "2026-11-11",
     "c": "3Blue1Brown",
     "d": 771,
+    "hn": 0,
+    "hnAt": "2026-11-11",
     "id": "P2LTAUO1TdA",
     "l": "en",
     "p": "2016-09-11",
@@ -5678,6 +5921,8 @@
     "a": "2026-11-11",
     "c": "3Blue1Brown",
     "d": 793,
+    "hn": 0,
+    "hnAt": "2026-11-11",
     "id": "e50Bj7jn9IQ",
     "l": "en",
     "p": "2021-05-07",
@@ -5695,6 +5940,8 @@
     "a": "2026-11-11",
     "c": "3Blue1Brown",
     "d": 1006,
+    "hn": 1,
+    "hnAt": "2026-11-11",
     "id": "TgKwz5Ikpc8",
     "l": "en",
     "p": "2016-09-24",
@@ -5778,6 +6025,8 @@
     "a": "2026-11-11",
     "c": "3Blue1Brown",
     "d": 2444,
+    "hn": 6,
+    "hnAt": "2026-11-11",
     "id": "LKrwhjOI8Nc",
     "l": "en",
     "p": "2026-10-16",
