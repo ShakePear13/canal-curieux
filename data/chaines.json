@@ -387,10 +387,10 @@
   "cat": "histoire",
   "l": "fr",
   "name": "Manon Bril",
-  "note": "Chaîne non identifiée : colle son lien YouTube dans l'onglet Chaînes.",
   "origin": "initial",
   "sec": "2026-11-11",
-  "status": "suivie"
+  "status": "suivie",
+  "url": "https://www.youtube.com/@manonbrilcuah"
  },
  "micmaths": {
   "added": "2026-11-06",
@@ -720,9 +720,9 @@
   "cat": "geopol",
   "l": "fr",
   "name": "UPR TV",
-  "note": "Chaîne non identifiée : colle son lien YouTube dans l'onglet Chaînes.",
+  "note": "Retirée à ta demande.",
   "origin": "mathieu",
-  "status": "suivie"
+  "status": "exclue"
  },
  "va-plus": {
   "added": "2026-11-06",
