@@ -64,6 +64,7 @@ h1 span{color:var(--accent)}
 .chip[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
 .chips.sub .chip{font-size:.8rem;padding:4px 10px;background:var(--bg)}
 .chips.sub .chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+@media (min-width:900px){.chips,.tabs{flex-wrap:wrap;overflow:visible}.chips{row-gap:6px}}
 .tools{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;padding-block:14px 6px}
 .tools label{font-size:.9rem;color:var(--muted);display:flex;align-items:center;gap:6px;cursor:pointer}
 select{font:inherit;font-size:.9rem;background:var(--paper);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:6px 8px;max-width:100%}
@@ -825,6 +826,7 @@ function bind(){
   const l=lsGet("cc-lang","all"); if(l==="fr"||l==="en")segs.find(b=>b.dataset.l===l).click();
   document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible"&&$("player").hidden)synchroniser()});
 }
+document.addEventListener("focusin",e=>{const c=e.target.closest&&e.target.closest(".chips,.tabs");if(c)e.target.scrollIntoView({block:"nearest",inline:"nearest"})});
 bind(); render(); majSync();
 charger().then(()=>synchroniser());
 if("serviceWorker" in navigator&&/^https?:/.test(location.protocol)){window.addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}))}
