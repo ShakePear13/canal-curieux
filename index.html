@@ -153,6 +153,10 @@ details.panel summary{font:700 1.1rem var(--f-display);cursor:pointer}
 .sbtn.no{color:var(--accent);border-color:var(--accent)}
 .warn{font-size:.84rem;color:var(--accent)}
 /* Lecteur */
+.tvhint{display:none}
+.tv .tvhint{display:block;font:500 .8rem var(--f-mono);color:var(--muted);margin:0 0 8px}
+.tv .player .frame{max-height:100vh;max-width:none}
+.player .frame:focus{outline:none}
 .player{position:fixed;inset:0;z-index:30;background:var(--bg);overflow-y:auto;-webkit-overflow-scrolling:touch}
 .player .stage{background:#000;padding-top:env(safe-area-inset-top,0px)}
 .player .frame{position:relative;aspect-ratio:16/9;max-height:78vh;margin:0 auto;background:#000;max-width:calc(78vh * 16 / 9)}
@@ -295,6 +299,7 @@ details.panel summary{font:700 1.1rem var(--f-display);cursor:pointer}
 <div class="player" id="player" hidden role="dialog" aria-modal="true" aria-label="Lecteur">
   <div class="stage"><div class="frame" id="frame"></div></div>
   <div class="wrap pinfo">
+    <p class="tvhint">OK : pause / lecture · ◀ ▶ : reculer / avancer de 10 s · ▼ : options · Retour : fermer</p>
     <div class="ptop">
       <div class="meta" id="p-meta"></div>
       <button class="sbtn" id="p-close">✕ Fermer</button>
@@ -740,6 +745,7 @@ function openPlayer(v,list){
   $("p-yt").href=ytUrl(v);
   renderPlayerBar(); renderNext();
   $("player").hidden=false; document.body.classList.add("lock"); $("player").scrollTop=0;
+  f.tabIndex=0; setTimeout(()=>{try{f.focus({preventScroll:true})}catch(e){}},0);
   if(!wasOpen){try{history.pushState({cc:"player"},"")}catch(e){}}
 }
 function renderPlayerBar(){
@@ -764,6 +770,15 @@ function closePlayer(fromPop){
   if(!fromPop&&history.state&&history.state.cc==="player"){try{history.back()}catch(e){}}
 }
 window.addEventListener("popstate",()=>closePlayer(true));
+// Télécommande et clavier : OK/Espace = pause ou lecture, flèches gauche/droite = ±10 s (quand la vidéo a le focus)
+function ytToggle(){try{P.yt.getPlayerState()===1?P.yt.pauseVideo():P.yt.playVideo()}catch(e){}}
+$("frame").addEventListener("keydown",e=>{
+  if(e.target!==e.currentTarget||!P.yt)return;
+  if(e.key==="Enter"||e.key===" "){ytToggle();e.preventDefault()}
+  else if(e.key==="ArrowRight"||e.key==="ArrowLeft"){try{P.yt.seekTo(Math.max(0,P.yt.getCurrentTime()+(e.key==="ArrowRight"?10:-10)),true)}catch(x){} e.preventDefault()}
+});
+document.addEventListener("keydown",e=>{if(e.key==="MediaPlayPause"&&P.yt&&!$("player").hidden){ytToggle();e.preventDefault()}});
+if(/CanalCurieuxTV/.test(navigator.userAgent))document.documentElement.classList.add("tv");
 document.addEventListener("keydown",e=>{if(e.key==="Escape")closePlayer()});
 
 /* ---------- Démarrage ---------- */
