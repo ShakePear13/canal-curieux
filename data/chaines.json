@@ -29,6 +29,7 @@
   "amis": [],
   "cat": "musique",
   "l": "en",
+  "maj": "2026-11-02T18:54:43Z",
   "name": "Adam Neely",
   "origin": "initial",
   "sec": "2026-11-11",
@@ -70,6 +71,19 @@
   "status": "suivie",
   "ucid": "UCS_7tplUgzJG4DhA16re5Yg",
   "url": "https://www.youtube.com/@BaladeMentale"
+ },
+ "c-est-une-autre-histoire": {
+  "added": "2026-11-11",
+  "cat": "sciences",
+  "l": "fr",
+  "maj": "2026-09-06T14:11:42Z",
+  "name": "C'est une autre histoire",
+  "note": "Découverte citée par Balade Mentale, Histony et Manon Bril. Garde-la ou exclus-la.",
+  "origin": "découverte",
+  "status": "suggérée",
+  "ucid": "UCKjDY4joMPcoRMmd-G1yz1Q",
+  "url": "https://www.youtube.com/channel/UCKjDY4joMPcoRMmd-G1yz1Q",
+  "via": "citée par Balade Mentale, Histony et Manon Bril"
  },
  "confessions-d-histoire": {
   "added": "2026-11-11",
@@ -115,6 +129,7 @@
   "amis": [],
   "cat": "sciences",
   "l": "fr",
+  "maj": "2026-10-29T16:00:20Z",
   "name": "Fouloscopie",
   "origin": "initial",
   "sec": "2026-11-11",
@@ -134,7 +149,8 @@
   "sec": "2026-11-11",
   "status": "suivie",
   "ucid": "UCO_Ldj01LAaVlXDPwTmUQUg",
-  "url": "https://www.youtube.com/channel/UCO_Ldj01LAaVlXDPwTmUQUg"
+  "url": "https://www.youtube.com/channel/UCO_Ldj01LAaVlXDPwTmUQUg",
+  "verif": true
  },
  "heu-reka": {
   "added": "2026-11-06",
@@ -198,6 +214,7 @@
   ],
   "cat": "sciences",
   "l": "fr",
+  "maj": "2025-05-12T15:05:12Z",
   "name": "Hygiène Mentale",
   "origin": "initial",
   "sec": "2026-11-11",
@@ -253,6 +270,7 @@
   ],
   "cat": "sciences",
   "l": "en",
+  "maj": "2026-11-10T15:00:01Z",
   "name": "Kurzgesagt",
   "origin": "initial",
   "sec": "2026-11-11",
@@ -303,7 +321,8 @@
   "sec": "2026-11-11",
   "status": "suivie",
   "ucid": "UCvRgiAmogg7a_BgQ_Ftm6fA",
-  "url": "https://www.youtube.com/channel/UCvRgiAmogg7a_BgQ_Ftm6fA"
+  "url": "https://www.youtube.com/channel/UCvRgiAmogg7a_BgQ_Ftm6fA",
+  "verif": true
  },
  "le-reveilleur": {
   "added": "2026-11-06",
@@ -323,7 +342,8 @@
   "sec": "2026-11-11",
   "status": "suivie",
   "ucid": "UC1EacOJoqsKaYxaDomTCTEQ",
-  "url": "https://www.youtube.com/channel/UC1EacOJoqsKaYxaDomTCTEQ"
+  "url": "https://www.youtube.com/channel/UC1EacOJoqsKaYxaDomTCTEQ",
+  "verif": true
  },
  "legend": {
   "added": "2026-11-06",
@@ -367,12 +387,10 @@
   "cat": "histoire",
   "l": "fr",
   "name": "Manon Bril",
-  "note": "Identifiée par son nom : ouvre le lien pour vérifier que c'est la bonne chaîne.",
+  "note": "Chaîne non identifiée : colle son lien YouTube dans l'onglet Chaînes.",
   "origin": "initial",
   "sec": "2026-11-11",
-  "status": "suivie",
-  "ucid": "UCZ7a-R0nBLXGzh2B2GdoyZQ",
-  "url": "https://www.youtube.com/channel/UCZ7a-R0nBLXGzh2B2GdoyZQ"
+  "status": "suivie"
  },
  "micmaths": {
   "added": "2026-11-06",
@@ -388,6 +406,7 @@
   ],
   "cat": "sciences",
   "l": "fr",
+  "maj": "2025-12-17T13:56:20Z",
   "name": "Micmaths",
   "origin": "initial",
   "sec": "2026-11-11",
@@ -438,6 +457,7 @@
   ],
   "cat": "eco",
   "l": "en",
+  "maj": "2026-11-05T13:30:30Z",
   "name": "Money & Macro",
   "origin": "initial",
   "sec": "2026-11-11",
@@ -462,13 +482,15 @@
   "amis": [],
   "cat": "philo",
   "l": "fr",
+  "maj": "2026-10-10T16:31:43Z",
   "name": "Monsieur Phi",
   "note": "Identifiée par son nom : ouvre le lien pour vérifier que c'est la bonne chaîne.",
   "origin": "initial",
   "sec": "2026-11-11",
   "status": "suivie",
   "ucid": "UCqA8H22FwgBVcF3GJpp0MQw",
-  "url": "https://www.youtube.com/channel/UCqA8H22FwgBVcF3GJpp0MQw"
+  "url": "https://www.youtube.com/channel/UCqA8H22FwgBVcF3GJpp0MQw",
+  "verif": true
  },
  "nicolas-cheron": {
   "added": "2026-11-06",
@@ -510,26 +532,37 @@
   "amis": [],
   "cat": "energie",
   "l": "fr",
-  "maj": "2026-11-05T11:46:47Z",
   "name": "Oceanverse",
-  "note": "Identifiée par son nom : ouvre le lien pour vérifier que c'est la bonne chaîne.",
+  "note": "Chaîne non identifiée : colle son lien YouTube dans l'onglet Chaînes.",
   "origin": "mathieu",
   "sec": "2026-11-11",
-  "status": "suivie",
-  "ucid": "UCbQ9iBcYNjfOezB25XSlSxg",
-  "url": "https://www.youtube.com/channel/UCbQ9iBcYNjfOezB25XSlSxg"
+  "status": "suivie"
  },
  "oversimplified": {
   "added": "2026-11-06",
   "amis": [],
   "cat": "histoire",
   "l": "en",
+  "maj": "2025-01-18T19:30:06Z",
   "name": "OverSimplified",
   "origin": "initial",
   "sec": "2026-11-11",
   "status": "suivie",
   "ucid": "UCNIuvl7V8zACPpTmmNIqP2A",
   "url": "https://www.youtube.com/channel/UCNIuvl7V8zACPpTmmNIqP2A"
+ },
+ "passe-sauvage": {
+  "added": "2026-11-11",
+  "cat": "histoire",
+  "l": "fr",
+  "maj": "2026-06-03T15:30:04Z",
+  "name": "Passé sauvage",
+  "note": "Découverte citée par Histony et Le Mock. Garde-la ou exclus-la.",
+  "origin": "découverte",
+  "status": "suggérée",
+  "ucid": "UCLhOJJbPciPdocXTaAk2SdA",
+  "url": "https://www.youtube.com/channel/UCLhOJJbPciPdocXTaAk2SdA",
+  "via": "citée par Histony et Le Mock"
  },
  "patrick-boyle": {
   "added": "2026-11-06",
@@ -557,6 +590,7 @@
   ],
   "cat": "ingenierie",
   "l": "en",
+  "maj": "2026-11-07T16:32:11Z",
   "name": "Real Engineering",
   "origin": "initial",
   "sec": "2026-11-11",
@@ -608,6 +642,7 @@
   "amis": [],
   "cat": "sciences",
   "l": "fr",
+  "maj": "2026-10-08T15:00:22Z",
   "name": "Science Étonnante",
   "origin": "initial",
   "sec": "2026-11-11",
@@ -672,6 +707,7 @@
   ],
   "cat": "tech",
   "l": "fr",
+  "maj": "2026-11-05T14:45:58Z",
   "name": "Underscore_",
   "origin": "initial",
   "sec": "2026-11-11",
@@ -719,6 +755,7 @@
   ],
   "cat": "sciences",
   "l": "en",
+  "maj": "2026-11-04T15:52:59Z",
   "name": "Veritasium",
   "origin": "initial",
   "sec": "2026-11-11",
@@ -749,6 +786,7 @@
   ],
   "cat": "eco",
   "l": "en",
+  "maj": "2026-11-06T21:26:59Z",
   "name": "Wendover Productions",
   "origin": "initial",
   "sec": "2026-11-11",
