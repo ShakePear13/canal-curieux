@@ -1,0 +1,398 @@
+{
+ "3blue1brown": {
+  "added": "2026-11-06",
+  "cat": "sciences",
+  "l": "en",
+  "name": "3Blue1Brown",
+  "origin": "initial",
+  "status": "suivie",
+  "url": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"
+ },
+ "adam-neely": {
+  "added": "2026-11-06",
+  "cat": "musique",
+  "l": "en",
+  "name": "Adam Neely",
+  "origin": "initial",
+  "status": "suivie",
+  "url": "https://www.youtube.com/adamneely"
+ },
+ "aywen": {
+  "added": "2026-11-06",
+  "cat": "tech",
+  "l": "fr",
+  "name": "Aywen",
+  "origin": "mathieu",
+  "status": "suivie",
+  "url": "https://www.youtube.com/@Aywen"
+ },
+ "balade-mentale": {
+  "added": "2026-11-06",
+  "cat": "sciences",
+  "l": "fr",
+  "name": "Balade Mentale",
+  "origin": "initial",
+  "status": "suivie",
+  "url": "https://www.youtube.com/@BaladeMentale"
+ },
+ "electruc": {
+  "added": "2026-11-06",
+  "cat": "tech",
+  "l": "fr",
+  "name": "ElecTruc",
+  "note": "Chaîne trouvée, vidéos encore introuvables par la recherche : collez quelques liens.",
+  "origin": "mathieu",
+  "status": "suivie",
+  "url": "https://www.youtube.com/@Electrucs"
+ },
+ "finary": {
+  "added": "2026-11-06",
+  "cat": "finance",
+  "l": "fr",
+  "name": "Finary",
+  "origin": "mathieu",
+  "status": "suivie",
+  "url": "https://www.youtube.com/@Finary"
+ },
+ "fouloscopie": {
+  "added": "2026-11-06",
+  "cat": "sciences",
+  "l": "fr",
+  "name": "Fouloscopie",
+  "origin": "initial",
+  "status": "suivie",
+  "url": "https://www.youtube.com/@Fouloscopie"
+ },
+ "francelocalhistory": {
+  "added": "2026-11-06",
+  "cat": "histoire",
+  "l": "fr",
+  "name": "FranceLocalHistory",
+  "note": "Chaîne introuvable par la recherche : ajoutez son lien ou quelques vidéos.",
+  "origin": "mathieu",
+  "status": "suivie"
+ },
+ "heu-reka": {
+  "added": "2026-11-06",
+  "cat": "eco",
+  "l": "fr",
+  "name": "Heu?reka",
+  "origin": "initial",
+  "status": "suivie",
+  "url": "https://www.youtube.com/channel/UC7sXGI8p8PvKosLWagkK9wQ"
+ },
+ "histony": {
+  "added": "2026-11-06",
+  "cat": "histoire",
+  "l": "fr",
+  "name": "Histony",
+  "origin": "initial",
+  "status": "suivie",
+  "url": "https://www.youtube.com/channel/UCt8ctlakIflnSG0ebFps7cw"
+ },
+ "hygiene-mentale": {
+  "added": "2026-11-06",
+  "cat": "sciences",
+  "l": "fr",
+  "name": "Hygiène Mentale",
+  "origin": "initial",
+  "status": "suivie"
+ },
+ "jean-marc-jancovici": {
+  "added": "2026-11-06",
+  "cat": "energie",
+  "l": "fr",
+  "name": "Jean-Marc Jancovici",
+  "origin": "mathieu",
+  "status": "suivie"
+ },
+ "kings-and-generals": {
+  "added": "2026-11-06",
+  "cat": "histoire",
+  "l": "en",
+  "name": "Kings and Generals",
+  "origin": "initial",
+  "status": "suivie"
+ },
+ "kurzgesagt": {
+  "added": "2026-11-06",
+  "cat": "sciences",
+  "l": "en",
+  "name": "Kurzgesagt",
+  "origin": "initial",
+  "status": "suivie",
+  "url": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q"
+ },
+ "le-mock": {
+  "added": "2026-11-06",
+  "cat": "philo",
+  "l": "fr",
+  "name": "Le Mock",
+  "origin": "initial",
+  "status": "suivie",
+  "url": "https://www.youtube.com/channel/UC2XIqez2q8sk2bd8YcAok5Q"
+ },
+ "le-precepteur": {
+  "added": "2026-11-06",
+  "cat": "philo",
+  "l": "fr",
+  "name": "Le Précepteur",
+  "origin": "initial",
+  "status": "suivie"
+ },
+ "le-reveilleur": {
+  "added": "2026-11-06",
+  "cat": "energie",
+  "l": "fr",
+  "name": "Le Réveilleur",
+  "origin": "initial",
+  "status": "suivie"
+ },
+ "legend": {
+  "added": "2026-11-06",
+  "cat": "geopol",
+  "l": "fr",
+  "name": "LEGEND",
+  "origin": "mathieu",
+  "status": "suivie"
+ },
+ "linguisticae": {
+  "added": "2026-11-06",
+  "cat": "philo",
+  "l": "fr",
+  "name": "Linguisticae",
+  "origin": "initial",
+  "status": "suivie",
+  "url": "https://www.youtube.com/channel/UCofQxJWd4qkqc7ZgaLkZfcw"
+ },
+ "manon-bril": {
+  "added": "2026-11-06",
+  "cat": "histoire",
+  "l": "fr",
+  "name": "Manon Bril",
+  "origin": "initial",
+  "status": "suivie"
+ },
+ "micmaths": {
+  "added": "2026-11-06",
+  "cat": "sciences",
+  "l": "fr",
+  "name": "Micmaths",
+  "origin": "initial",
+  "status": "suivie",
+  "url": "https://www.youtube.com/@Micmaths"
+ },
+ "micode": {
+  "added": "2026-11-06",
+  "cat": "tech",
+  "l": "fr",
+  "name": "Micode",
+  "origin": "initial",
+  "status": "suivie"
+ },
+ "mister-geopolitix": {
+  "added": "2026-11-06",
+  "cat": "geopol",
+  "l": "fr",
+  "name": "Mister Geopolitix",
+  "origin": "initial",
+  "status": "suivie",
+  "url": "https://www.youtube.com/channel/UCX9lsdsTKfTi1eqoyL-RS-Q"
+ },
+ "money-macro": {
+  "added": "2026-11-06",
+  "cat": "eco",
+  "l": "en",
+  "name": "Money & Macro",
+  "origin": "initial",
+  "status": "suivie"
+ },
+ "monsieur-bidouille": {
+  "added": "2026-11-06",
+  "cat": "ingenierie",
+  "l": "fr",
+  "name": "Monsieur Bidouille",
+  "origin": "initial",
+  "status": "suivie"
+ },
+ "monsieur-phi": {
+  "added": "2026-11-06",
+  "cat": "philo",
+  "l": "fr",
+  "name": "Monsieur Phi",
+  "origin": "initial",
+  "status": "suivie"
+ },
+ "nicolas-cheron": {
+  "added": "2026-11-06",
+  "cat": "finance",
+  "l": "fr",
+  "name": "Nicolas Chéron",
+  "origin": "mathieu",
+  "status": "suivie",
+  "url": "https://www.youtube.com/@NCheron_bourse"
+ },
+ "nota-bene": {
+  "added": "2026-11-06",
+  "cat": "histoire",
+  "l": "fr",
+  "name": "Nota Bene",
+  "note": "Exclue à la demande de Mathieu.",
+  "origin": "mathieu",
+  "status": "exclue"
+ },
+ "oceanverse": {
+  "added": "2026-11-06",
+  "cat": "energie",
+  "l": "fr",
+  "name": "Oceanverse",
+  "note": "Chaîne introuvable par la recherche : ajoutez son lien ou quelques vidéos.",
+  "origin": "mathieu",
+  "status": "suivie"
+ },
+ "oversimplified": {
+  "added": "2026-11-06",
+  "cat": "histoire",
+  "l": "en",
+  "name": "OverSimplified",
+  "origin": "initial",
+  "status": "suivie"
+ },
+ "patrick-boyle": {
+  "added": "2026-11-06",
+  "cat": "finance",
+  "l": "en",
+  "name": "Patrick Boyle",
+  "origin": "initial",
+  "status": "suivie",
+  "url": "https://www.youtube.com/@PBoyle"
+ },
+ "real-engineering": {
+  "added": "2026-11-06",
+  "cat": "ingenierie",
+  "l": "en",
+  "name": "Real Engineering",
+  "origin": "initial",
+  "status": "suivie"
+ },
+ "reallifelore": {
+  "added": "2026-11-06",
+  "cat": "geopol",
+  "l": "en",
+  "name": "RealLifeLore",
+  "origin": "initial",
+  "status": "suivie"
+ },
+ "rick-beato": {
+  "added": "2026-11-06",
+  "cat": "musique",
+  "l": "en",
+  "name": "Rick Beato",
+  "origin": "initial",
+  "status": "suivie"
+ },
+ "sarah-knafo": {
+  "added": "2026-11-06",
+  "cat": "geopol",
+  "l": "fr",
+  "name": "Sarah Knafo",
+  "origin": "mathieu",
+  "status": "suivie"
+ },
+ "science-etonnante": {
+  "added": "2026-11-06",
+  "cat": "sciences",
+  "l": "fr",
+  "name": "Science Étonnante",
+  "origin": "initial",
+  "status": "suivie"
+ },
+ "tech-sans-filtre": {
+  "added": "2026-11-06",
+  "cat": "tech",
+  "l": "fr",
+  "name": "Tech Sans Filtre",
+  "note": "Chaîne trouvée, vidéos encore introuvables par la recherche : collez quelques liens.",
+  "origin": "mathieu",
+  "status": "suivie",
+  "url": "https://www.youtube.com/@techsansfiltre1"
+ },
+ "the-plain-bagel": {
+  "added": "2026-11-06",
+  "cat": "finance",
+  "l": "en",
+  "name": "The Plain Bagel",
+  "origin": "initial",
+  "status": "suivie",
+  "url": "https://www.youtube.com/@ThePlainBagel"
+ },
+ "thierry-watelet": {
+  "added": "2026-11-06",
+  "cat": "comm",
+  "l": "fr",
+  "name": "Thierry Watelet",
+  "origin": "mathieu",
+  "status": "suivie",
+  "url": "https://www.youtube.com/@thierrywatelet1405"
+ },
+ "thinkerview": {
+  "added": "2026-11-06",
+  "cat": "geopol",
+  "l": "fr",
+  "name": "Thinkerview",
+  "origin": "initial",
+  "status": "suivie"
+ },
+ "underscore": {
+  "added": "2026-11-06",
+  "cat": "tech",
+  "l": "fr",
+  "name": "Underscore_",
+  "origin": "initial",
+  "status": "suivie",
+  "url": "https://www.youtube.com/@Underscore_"
+ },
+ "upr-tv": {
+  "added": "2026-11-06",
+  "cat": "geopol",
+  "l": "fr",
+  "name": "UPR TV",
+  "origin": "mathieu",
+  "status": "suivie"
+ },
+ "va-plus": {
+  "added": "2026-11-06",
+  "cat": "geopol",
+  "l": "fr",
+  "name": "VA Plus",
+  "origin": "mathieu",
+  "status": "suivie",
+  "url": "https://www.youtube.com/channel/UCnIWNujSpiiuH29-TBCz9aw"
+ },
+ "veritasium": {
+  "added": "2026-11-06",
+  "cat": "sciences",
+  "l": "en",
+  "name": "Veritasium",
+  "origin": "initial",
+  "status": "suivie"
+ },
+ "vilebrequin": {
+  "added": "2026-11-06",
+  "cat": "auto",
+  "l": "fr",
+  "name": "Vilebrequin",
+  "origin": "mathieu",
+  "status": "suivie",
+  "url": "https://www.youtube.com/channel/UCC9mlCpyisiIpp9YA9xV-QA"
+ },
+ "wendover-productions": {
+  "added": "2026-11-06",
+  "cat": "eco",
+  "l": "en",
+  "name": "Wendover Productions",
+  "origin": "initial",
+  "status": "suivie",
+  "url": "https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ"
+ }
+}
