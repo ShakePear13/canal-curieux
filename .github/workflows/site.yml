@@ -22,11 +22,11 @@ jobs:
     if: github.event_name == 'schedule' && github.event.schedule == '23 3 * * 4'
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - name: Signe de vie à la base de synchro
-        env:
-          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
         run: |
+          SUPABASE_URL=$(sed -n 's/.*supabaseUrl: *"\([^"]*\)".*/\1/p' config.js)
+          SUPABASE_KEY=$(sed -n 's/.*supabaseKey: *"\([^"]*\)".*/\1/p' config.js)
           if [ -z "$SUPABASE_URL" ]; then echo "Synchro non configurée."; exit 0; fi
           curl -sS -m 20 -o /dev/null -w "%{http_code}\n" -X POST "$SUPABASE_URL/rest/v1/rpc/cc_lire" \
             -H "apikey: $SUPABASE_KEY" -H "Authorization: Bearer $SUPABASE_KEY" \
