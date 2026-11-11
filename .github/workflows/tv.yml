@@ -1,0 +1,46 @@
+name: Appli TV
+
+# Fabrique l'appli Android TV (une fenêtre plein écran sur le site) et la range dans tv/canal-curieux-tv.apk.
+# À lancer à la main (Actions > Appli TV > Run workflow), puis relancer « Canal Curieux » pour la publier.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  apk:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Construire l'appli
+        run: |
+          set -euo pipefail
+          SDK="${ANDROID_HOME:-${ANDROID_SDK_ROOT:-}}"
+          BT=$(ls -d "$SDK"/build-tools/* | sort -V | tail -1)
+          PLAT=$(ls -d "$SDK"/platforms/android-[0-9]* | sort -V | tail -1)
+          echo "Outils : $BT - plateforme : $PLAT"
+          rm -rf build && mkdir -p build/gen build/classes tv
+          N=${{ github.run_number }}
+          "$BT/aapt2" compile --dir tv-app/res -o build/res.zip
+          "$BT/aapt2" link -o build/app.apk -I "$PLAT/android.jar" --manifest tv-app/AndroidManifest.xml \
+            --java build/gen --min-sdk-version 23 --target-sdk-version 34 \
+            --version-code "$N" --version-name "1.$N" build/res.zip
+          javac -nowarn --release 8 -cp "$PLAT/android.jar" -d build/classes $(find tv-app/src build/gen -name '*.java')
+          find build/classes -name '*.class' > build/classes.txt
+          "$BT/d8" --lib "$PLAT/android.jar" --min-api 23 --output build @build/classes.txt
+          (cd build && zip -q app.apk classes.dex)
+          "$BT/zipalign" -f 4 build/app.apk build/aligne.apk
+          keytool -genkeypair -keystore build/cle.jks -storepass canalcurieux -keypass canalcurieux \
+            -alias tv -keyalg RSA -keysize 2048 -validity 10000 -dname "CN=Canal Curieux"
+          "$BT/apksigner" sign --ks build/cle.jks --ks-pass pass:canalcurieux --key-pass pass:canalcurieux \
+            --out tv/canal-curieux-tv.apk build/aligne.apk
+          "$BT/apksigner" verify --verbose tv/canal-curieux-tv.apk | head -5
+          ls -la tv/canal-curieux-tv.apk
+      - name: Enregistrer l'appli
+        run: |
+          git config user.name "Robot Canal Curieux"
+          git config user.email "robot@users.noreply.github.com"
+          git add tv/canal-curieux-tv.apk
+          git diff --cached --quiet || git commit -m "Appli TV (version 1.${{ github.run_number }})"
+          git push

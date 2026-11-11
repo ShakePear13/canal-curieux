@@ -63,6 +63,7 @@ jobs:
         run: |
           mkdir _site
           cp -r index.html config.js manifest.webmanifest sw.js icons data _site/
+          if [ -d tv ]; then cp -r tv _site/; fi
           touch _site/.nojekyll
 
       - uses: actions/configure-pages@v5
