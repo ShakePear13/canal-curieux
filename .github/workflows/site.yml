@@ -1,0 +1,73 @@
+name: Canal Curieux
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 2 * * 1"    # mise à jour du catalogue : nuit de dimanche à lundi (≈ 3-4 h à Paris)
+    - cron: "23 3 * * 4"    # jeudi : simple signe de vie pour que la base de synchro ne s'endorme pas
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: canal-curieux
+  cancel-in-progress: false
+
+jobs:
+  veille:
+    if: github.event_name == 'schedule' && github.event.schedule == '23 3 * * 4'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Signe de vie à la base de synchro
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: |
+          if [ -z "$SUPABASE_URL" ]; then echo "Synchro non configurée."; exit 0; fi
+          curl -sS -m 20 -o /dev/null -w "%{http_code}\n" -X POST "$SUPABASE_URL/rest/v1/rpc/cc_lire" \
+            -H "apikey: $SUPABASE_KEY" -H "Authorization: Bearer $SUPABASE_KEY" \
+            -H "Content-Type: application/json" -d '{"p_code":"signe-de-vie"}' || true
+
+  site:
+    if: github.event_name != 'schedule' || github.event.schedule == '17 2 * * 1'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploiement.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Mise à jour du catalogue (robot)
+        if: github.event_name != 'push'
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          SYNC_CODE: ${{ secrets.SYNC_CODE }}
+        run: python3 robot/maj.py
+
+      - name: Enregistrer le catalogue mis à jour
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "Robot Canal Curieux"
+          git config user.email "robot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Mise à jour du catalogue ($(date -u +%F))"
+          git push
+
+      - name: Préparer le site
+        run: |
+          mkdir _site
+          cp -r index.html config.js manifest.webmanifest sw.js icons data _site/
+          touch _site/.nojekyll
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deploiement
+        uses: actions/deploy-pages@v4
