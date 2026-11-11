@@ -260,6 +260,13 @@ class Catalogue:
 # ------------------------------------------------------------------ 1. décisions prises sur le site
 def lire_etat():
     url, cle, code = (os.environ.get(k, "").strip() for k in ("SUPABASE_URL", "SUPABASE_KEY", "SYNC_CODE"))
+    if not (url and cle):  # sans secrets, l'adresse et la clé publiques de la base sont lues dans config.js
+        try:
+            cfg = open(os.path.join(RACINE, "config.js"), encoding="utf-8").read()
+            url = url or (re.search(r'supabaseUrl:\s*"([^"]*)"', cfg) or [None, ""])[1]
+            cle = cle or (re.search(r'supabaseKey:\s*"([^"]*)"', cfg) or [None, ""])[1]
+        except OSError:
+            pass
     if not (url and cle and code):
         print("Synchro non configurée : le robot tourne sans tes 👍 ni tes ajouts de chaînes.")
         return {}
