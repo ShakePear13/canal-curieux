@@ -1,235 +1,486 @@
 {
  "3blue1brown": {
   "added": "2026-11-06",
+  "amis": [
+   "UC1_uAIS3r8Vu6JjXWvastJg",
+   "UConVfxXodg78Tzh5nNu85Ew",
+   "UCFk__1iexL3T5gvGcMpeHNA",
+   "UCSju5G2aFaWMqn-_0YBtq5A",
+   "UCoxcjq-8xIDTYp3uz647V5A",
+   "UCu7Zwf4X_OQ-TEnou0zdyRA",
+   "UC3O_3ANkml4_3wSK1yPG5DQ",
+   "UCS0N5baNlQWJCUrhCEo8WlA",
+   "UCK8XIGR5kRidIw2fWqwyHRA",
+   "UCKzJFdi57J53Vr_BkTfN3uQ",
+   "UCrv269YwJzuZL3dH5PCgxUw",
+   "UC9yt3wz-6j19RwD5m5f6HSg"
+  ],
   "cat": "sciences",
   "l": "en",
   "name": "3Blue1Brown",
   "origin": "initial",
+  "sec": "2026-11-11",
   "status": "suivie",
+  "ucid": "UCYO_jab_esuFRV4b17AJtAw",
   "url": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"
  },
  "adam-neely": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "musique",
   "l": "en",
   "name": "Adam Neely",
   "origin": "initial",
+  "sec": "2026-11-11",
   "status": "suivie",
+  "ucid": "UCnkp4xDOwqqJD7sSM3xdUiQ",
   "url": "https://www.youtube.com/adamneely"
  },
  "aywen": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "tech",
   "l": "fr",
+  "maj": "2026-11-08T20:54:04Z",
   "name": "Aywen",
   "origin": "mathieu",
+  "sec": "2026-11-11",
   "status": "suivie",
+  "ucid": "UCZo7D6E3ejS7KpsmpfVRRzw",
   "url": "https://www.youtube.com/@Aywen"
  },
  "balade-mentale": {
   "added": "2026-11-06",
+  "amis": [
+   "UCyiUSvcNTC50KW-z2LbvbzA",
+   "UCyJDHgrsUKuWLe05GvC2lng",
+   "UCjsHDXUU3BjBCG7OaCbNDyQ",
+   "UCzj9-ZfpJ74vYv1RZzAWTVg",
+   "UCelK-UQLyXKzFnus9IzuDCw",
+   "UCMFcMhePnH4onVHt2-ItPZw",
+   "UCKjDY4joMPcoRMmd-G1yz1Q",
+   "UC5X4e8ScZI2AFd_vkjSoyoQ",
+   "UC0S4u-bCabhCJGkuPtFhmjA"
+  ],
   "cat": "sciences",
   "l": "fr",
   "name": "Balade Mentale",
   "origin": "initial",
+  "sec": "2026-11-11",
   "status": "suivie",
+  "ucid": "UCS_7tplUgzJG4DhA16re5Yg",
   "url": "https://www.youtube.com/@BaladeMentale"
+ },
+ "confessions-d-histoire": {
+  "added": "2026-11-11",
+  "cat": "sciences",
+  "l": "fr",
+  "maj": "2026-06-12T17:50:14Z",
+  "name": "Confessions d'Histoire",
+  "note": "Découverte citée par Balade Mentale et Histony. Garde-la ou exclus-la.",
+  "origin": "découverte",
+  "status": "suggérée",
+  "ucid": "UCzj9-ZfpJ74vYv1RZzAWTVg",
+  "url": "https://www.youtube.com/channel/UCzj9-ZfpJ74vYv1RZzAWTVg",
+  "via": "citée par Balade Mentale et Histony"
  },
  "electruc": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "tech",
   "l": "fr",
+  "maj": "2026-11-11T15:26:19Z",
   "name": "ElecTruc",
-  "note": "Chaîne trouvée, vidéos encore introuvables par la recherche : collez quelques liens.",
   "origin": "mathieu",
+  "sec": "2026-11-11",
   "status": "suivie",
+  "ucid": "UC_x1DVxSxSnCUeUiggWAmyA",
   "url": "https://www.youtube.com/@Electrucs"
  },
  "finary": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "finance",
   "l": "fr",
+  "maj": "2026-11-11T17:00:30Z",
   "name": "Finary",
   "origin": "mathieu",
+  "sec": "2026-11-11",
   "status": "suivie",
+  "ucid": "UCRCCAnVyzDTcqNYh0pDcq7Q",
   "url": "https://www.youtube.com/@Finary"
  },
  "fouloscopie": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "sciences",
   "l": "fr",
   "name": "Fouloscopie",
   "origin": "initial",
+  "sec": "2026-11-11",
   "status": "suivie",
+  "ucid": "UCLXDNUOO3EQ80VmD9nQBHPg",
   "url": "https://www.youtube.com/@Fouloscopie"
  },
  "francelocalhistory": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "histoire",
   "l": "fr",
+  "maj": "2026-11-11T17:00:28Z",
   "name": "FranceLocalHistory",
-  "note": "Chaîne introuvable par la recherche : ajoutez son lien ou quelques vidéos.",
+  "note": "Identifiée par son nom : ouvre le lien pour vérifier que c'est la bonne chaîne.",
   "origin": "mathieu",
-  "status": "suivie"
+  "sec": "2026-11-11",
+  "status": "suivie",
+  "ucid": "UCO_Ldj01LAaVlXDPwTmUQUg",
+  "url": "https://www.youtube.com/channel/UCO_Ldj01LAaVlXDPwTmUQUg"
  },
  "heu-reka": {
   "added": "2026-11-06",
+  "amis": [
+   "UCUHW94eEFW7hkUMVaZz4eDg",
+   "UC1EacOJoqsKaYxaDomTCTEQ",
+   "UC2C_jShtL725hvbm1arSV9w",
+   "UCS-NkJiYhYku2YtKi2W4p3w",
+   "UCaNlbnghtwlsGF-KzAFThqA",
+   "UCqA8H22FwgBVcF3GJpp0MQw",
+   "UCmZCyJW81hmnHXVuLU7qKBw"
+  ],
   "cat": "eco",
   "l": "fr",
   "name": "Heu?reka",
   "origin": "initial",
+  "sec": "2026-11-11",
   "status": "suivie",
+  "ucid": "UC7sXGI8p8PvKosLWagkK9wQ",
   "url": "https://www.youtube.com/channel/UC7sXGI8p8PvKosLWagkK9wQ"
  },
  "histony": {
   "added": "2026-11-06",
+  "amis": [
+   "UCg5FNJwUy-xejtdNCUsY3WQ",
+   "UCLhOJJbPciPdocXTaAk2SdA",
+   "UCzj9-ZfpJ74vYv1RZzAWTVg",
+   "UCGeFgMJfWclTWuPw8Ok5FUQ",
+   "UCMFcMhePnH4onVHt2-ItPZw",
+   "UC_KidpuCqhbvqZedgq2DPpA",
+   "UCmDMRVBFUyeNscAf1UmILzA",
+   "UCP46_MXP_WG_auH88FnfS1A",
+   "UC0yPCUmdMZIGtnxSnx5_ifA",
+   "UCdEPWcO3hkkuZXMQAA7m_2Q",
+   "UCgk2_ngj9EVfQdnWNtOPINg",
+   "UCKjDY4joMPcoRMmd-G1yz1Q",
+   "UCiWrr_SnP8eK-_9yJWFzbEA",
+   "UCWWzB99AURYo2KLzCReWqmA"
+  ],
   "cat": "histoire",
   "l": "fr",
   "name": "Histony",
   "origin": "initial",
+  "sec": "2026-11-11",
   "status": "suivie",
+  "ucid": "UCt8ctlakIflnSG0ebFps7cw",
   "url": "https://www.youtube.com/channel/UCt8ctlakIflnSG0ebFps7cw"
  },
  "hygiene-mentale": {
   "added": "2026-11-06",
+  "amis": [
+   "UCU0FhLr6fr7U9GOn6OiQHpQ",
+   "UCDvU86s09gZEQUHJLKE9GKA",
+   "UCq-8pBMM3I40QlrhM9ExXJQ",
+   "UC8Ux-LOyEXeioYQ4LFzpBXw",
+   "UCg47pIhBRJbz52-ABnm0uxw",
+   "UCJ9kIKgFuAB23GkEko1hHDg",
+   "UCvOMVsh8ks3Ix0LW5kUd_TA",
+   "UCY2w3Jdy5e65LZUepePht0g",
+   "UCvtMQXNgBROo1Sh2D3Qiulw"
+  ],
   "cat": "sciences",
   "l": "fr",
   "name": "Hygiène Mentale",
   "origin": "initial",
-  "status": "suivie"
+  "sec": "2026-11-11",
+  "status": "suivie",
+  "ucid": "UCMFcMhePnH4onVHt2-ItPZw",
+  "url": "https://www.youtube.com/channel/UCMFcMhePnH4onVHt2-ItPZw"
  },
  "jean-marc-jancovici": {
   "added": "2026-11-06",
+  "amis": [
+   "UCGv05UJHKH5EclUmms753Zw"
+  ],
   "cat": "energie",
   "l": "fr",
+  "maj": "2026-10-19T12:37:48Z",
   "name": "Jean-Marc Jancovici",
   "origin": "mathieu",
-  "status": "suivie"
+  "sec": "2026-11-11",
+  "status": "suivie",
+  "ucid": "UCNovJemYKcdKt7PDdptJZfQ",
+  "url": "https://www.youtube.com/channel/UCNovJemYKcdKt7PDdptJZfQ"
  },
  "kings-and-generals": {
   "added": "2026-11-06",
+  "amis": [
+   "UCCGvq-qmjFmmMD4e-PLQqGg",
+   "UCwqY9GjXBdSYeUZiinbFXyQ",
+   "UCXm9SBe5GM46NLFkubLqjGw",
+   "UCUovg_6zJZM5J9H1G7bTIcQ",
+   "UCbp8JMZizR4zak9wpM3Fvrw"
+  ],
   "cat": "histoire",
   "l": "en",
   "name": "Kings and Generals",
   "origin": "initial",
-  "status": "suivie"
+  "sec": "2026-11-11",
+  "status": "suivie",
+  "ucid": "UCMmaBzfCCwZ2KqaBJjkj0fw",
+  "url": "https://www.youtube.com/channel/UCMmaBzfCCwZ2KqaBJjkj0fw"
  },
  "kurzgesagt": {
   "added": "2026-11-06",
+  "amis": [
+   "UCq8ZAAsI89IoJ-fn1gYpO3g",
+   "UCwRH985XgMYXQ6NxXDo8npw",
+   "UCZcvCpFcLxOKGbMocVgLjEA",
+   "UCzMHLUJ8xTqDq6xsk0N5IdQ",
+   "UCIR1LQvYrHOWBpOGq5nFo0Q",
+   "UCzw2KK537iRgsrYnWaEMs8Q",
+   "UCCYb8bp7v9maNk5n3nfw-Lg",
+   "UCn5ASYdp7CzbFH2qtqjIJ9w",
+   "UC8rKCy_tipwTEY3RdkNCKmw"
+  ],
   "cat": "sciences",
   "l": "en",
   "name": "Kurzgesagt",
   "origin": "initial",
+  "sec": "2026-11-11",
   "status": "suivie",
+  "ucid": "UCsXVk37bltHxD1rDPwtNM8Q",
   "url": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q"
  },
  "le-mock": {
   "added": "2026-11-06",
+  "amis": [
+   "UCtpRdVgkgUChGBIBGDUWgWA",
+   "UCO-YDXoZJNVJFmF1UJ17rEw",
+   "UCfuphWV9Lv4jGAVDxkPuSyw",
+   "UC4MTt1roHhqUSV1g7XBSujw",
+   "UCkv82c0G9Qn1vUZ2mBcOn4A",
+   "UCLhOJJbPciPdocXTaAk2SdA"
+  ],
   "cat": "philo",
   "l": "fr",
   "name": "Le Mock",
   "origin": "initial",
+  "sec": "2026-11-11",
   "status": "suivie",
+  "ucid": "UC2XIqez2q8sk2bd8YcAok5Q",
   "url": "https://www.youtube.com/channel/UC2XIqez2q8sk2bd8YcAok5Q"
  },
  "le-precepteur": {
   "added": "2026-11-06",
+  "amis": [
+   "UCZEGRI1CfpVm9yBidbiK-GQ",
+   "UCyWM4YRwHwAxld74qQ-6wMA",
+   "UCvgTL-BYU_3I69Sa-aq89JQ",
+   "UCTECnKE4enOWy56Ug17otOA",
+   "UCNzTrZJ2augJrh54aj-57WQ",
+   "UCQlJ8F6VtTThflbkhdJmXWA",
+   "UCEpC-NMA18-o3oQfhLlgfGg",
+   "UCTo1Vv_uPeigTE46RCjOuTg",
+   "UCZPBwQQ9t_a2ylygqcFeB7A",
+   "UCC01UudMvRjMDH8ZVdf_85w",
+   "UCXhG7pjtLbZyRs0JvZViaUA",
+   "UC6Id75C9UMflAZHAd_-MfVQ"
+  ],
   "cat": "philo",
   "l": "fr",
   "name": "Le Précepteur",
+  "note": "Identifiée par son nom : ouvre le lien pour vérifier que c'est la bonne chaîne.",
   "origin": "initial",
-  "status": "suivie"
+  "sec": "2026-11-11",
+  "status": "suivie",
+  "ucid": "UCvRgiAmogg7a_BgQ_Ftm6fA",
+  "url": "https://www.youtube.com/channel/UCvRgiAmogg7a_BgQ_Ftm6fA"
  },
  "le-reveilleur": {
   "added": "2026-11-06",
+  "amis": [
+   "UC7sXGI8p8PvKosLWagkK9wQ",
+   "UCdKTlsmvczkdvGjiLinQwmw",
+   "UCSULDz1yaHLVQWHpm4g_GHA",
+   "UCq-8pBMM3I40QlrhM9ExXJQ",
+   "UCMFcMhePnH4onVHt2-ItPZw",
+   "UCJgYXYDJV9UZfxMcKuvc-0g"
+  ],
   "cat": "energie",
   "l": "fr",
   "name": "Le Réveilleur",
+  "note": "Identifiée par son nom : ouvre le lien pour vérifier que c'est la bonne chaîne.",
   "origin": "initial",
-  "status": "suivie"
+  "sec": "2026-11-11",
+  "status": "suivie",
+  "ucid": "UC1EacOJoqsKaYxaDomTCTEQ",
+  "url": "https://www.youtube.com/channel/UC1EacOJoqsKaYxaDomTCTEQ"
  },
  "legend": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "geopol",
   "l": "fr",
+  "maj": "2026-11-11T10:00:09Z",
   "name": "LEGEND",
   "origin": "mathieu",
-  "status": "suivie"
+  "sec": "2026-11-11",
+  "status": "suivie",
+  "ucid": "UCIh7PDUAP226Pa_NtjN9Jqw",
+  "url": "https://www.youtube.com/channel/UCIh7PDUAP226Pa_NtjN9Jqw"
  },
  "linguisticae": {
   "added": "2026-11-06",
+  "amis": [
+   "UCo1zPlQvMGsYRL1Vz0Jg-Qg",
+   "UC0efyK_-Athm8yhyjNSqndQ",
+   "UCO-YDXoZJNVJFmF1UJ17rEw",
+   "UCNgqo37ZR6hkgvfCc-VLGtA",
+   "UCNhX3WQEkraW3VHPyup8jkQ",
+   "UCMk_WSPy3EE16aK5HLzCJzw",
+   "UC1ipKNAWcHhmcqKUEGg1RMg",
+   "UCeEb8pfFV5zWNX2fCiG6UDw",
+   "UC8miF2H8VfLDDGeslNaWHfQ"
+  ],
   "cat": "philo",
   "l": "fr",
+  "maj": "2026-09-10T14:14:21Z",
   "name": "Linguisticae",
   "origin": "initial",
+  "sec": "2026-11-11",
   "status": "suivie",
+  "ucid": "UCofQxJWd4qkqc7ZgaLkZfcw",
   "url": "https://www.youtube.com/channel/UCofQxJWd4qkqc7ZgaLkZfcw"
  },
  "manon-bril": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "histoire",
   "l": "fr",
   "name": "Manon Bril",
+  "note": "Identifiée par son nom : ouvre le lien pour vérifier que c'est la bonne chaîne.",
   "origin": "initial",
-  "status": "suivie"
+  "sec": "2026-11-11",
+  "status": "suivie",
+  "ucid": "UCZ7a-R0nBLXGzh2B2GdoyZQ",
+  "url": "https://www.youtube.com/channel/UCZ7a-R0nBLXGzh2B2GdoyZQ"
  },
  "micmaths": {
   "added": "2026-11-06",
+  "amis": [
+   "UCoxcjq-8xIDTYp3uz647V5A",
+   "UCgkhWgBGRp0sdFy2MHDWfSg",
+   "UC7myUXybJN3i_gLdSBlD_3g",
+   "UC2_OG1L8DLTzQ7UrZVOk7OA",
+   "UCt2Tzl1Nr-mZxmALIYGxMsg",
+   "UCeR8BYZS7IHYjk_9Mh5JgkA",
+   "UCtqICqGbPSbTN09K1_7VZ3Q",
+   "UCC_Uk-ByD_o3ZvsvRvHlX-A"
+  ],
   "cat": "sciences",
   "l": "fr",
   "name": "Micmaths",
   "origin": "initial",
+  "sec": "2026-11-11",
   "status": "suivie",
+  "ucid": "UC4PasDd25MXqlXBogBw9CAg",
   "url": "https://www.youtube.com/@Micmaths"
  },
  "micode": {
   "added": "2026-11-06",
+  "amis": [
+   "UCWedHS9qKebauVIK2J7383g"
+  ],
   "cat": "tech",
   "l": "fr",
   "name": "Micode",
   "origin": "initial",
-  "status": "suivie"
+  "sec": "2026-11-11",
+  "status": "suivie",
+  "ucid": "UCYnvxJ-PKiGXo_tYXpWAC-w",
+  "url": "https://www.youtube.com/channel/UCYnvxJ-PKiGXo_tYXpWAC-w"
  },
  "mister-geopolitix": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "geopol",
   "l": "fr",
   "name": "Mister Geopolitix",
   "origin": "initial",
+  "sec": "2026-11-11",
   "status": "suivie",
+  "ucid": "UCX9lsdsTKfTi1eqoyL-RS-Q",
   "url": "https://www.youtube.com/channel/UCX9lsdsTKfTi1eqoyL-RS-Q"
  },
  "money-macro": {
   "added": "2026-11-06",
+  "amis": [
+   "UCA2CiHJ0xCLC6Dt7w5_Hxvw",
+   "UCFCEuCsyWP0YkP3CZ3Mr01Q",
+   "UC4V_jMdRbbTrmBVJB6FDzgw",
+   "UCASM0cgfkJxQ1ICmRilfHLw",
+   "UCkCGANrihzExmu9QiqZpPlQ",
+   "UCE15AMB_5cRRNjKUil9fGCg",
+   "UCii9ezsUa_mBiSdw0PtSOaw",
+   "UCT0dmfFCLWuVKPWZ6wcdKyg",
+   "UCDXTQ8nWmx_EhZ2v-kp7QxA",
+   "UC5Axef4J11DIu17y2RKVqNQ",
+   "UCczAxLCL79gHXKYaEc9k-ZQ"
+  ],
   "cat": "eco",
   "l": "en",
   "name": "Money & Macro",
   "origin": "initial",
-  "status": "suivie"
+  "sec": "2026-11-11",
+  "status": "suivie",
+  "ucid": "UCCKpicnIwBP3VPxBAZWDeNA",
+  "url": "https://www.youtube.com/channel/UCCKpicnIwBP3VPxBAZWDeNA"
  },
  "monsieur-bidouille": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "ingenierie",
   "l": "fr",
   "name": "Monsieur Bidouille",
   "origin": "initial",
-  "status": "suivie"
+  "sec": "2026-11-11",
+  "status": "suivie",
+  "ucid": "UCSULDz1yaHLVQWHpm4g_GHA",
+  "url": "https://www.youtube.com/channel/UCSULDz1yaHLVQWHpm4g_GHA"
  },
  "monsieur-phi": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "philo",
   "l": "fr",
   "name": "Monsieur Phi",
+  "note": "Identifiée par son nom : ouvre le lien pour vérifier que c'est la bonne chaîne.",
   "origin": "initial",
-  "status": "suivie"
+  "sec": "2026-11-11",
+  "status": "suivie",
+  "ucid": "UCqA8H22FwgBVcF3GJpp0MQw",
+  "url": "https://www.youtube.com/channel/UCqA8H22FwgBVcF3GJpp0MQw"
  },
  "nicolas-cheron": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "finance",
   "l": "fr",
+  "maj": "2026-11-05T17:00:11Z",
   "name": "Nicolas Chéron",
   "origin": "mathieu",
+  "sec": "2026-11-11",
   "status": "suivie",
+  "ucid": "UCq0ziDwwrbypsReqS44bfJw",
   "url": "https://www.youtube.com/@NCheron_bourse"
  },
  "nota-bene": {
@@ -241,115 +492,191 @@
   "origin": "mathieu",
   "status": "exclue"
  },
+ "numberphile": {
+  "added": "2026-11-11",
+  "cat": "sciences",
+  "l": "en",
+  "maj": "2026-11-09T12:43:16Z",
+  "name": "Numberphile",
+  "note": "Découverte citée par 3Blue1Brown et Micmaths. Garde-la ou exclus-la.",
+  "origin": "découverte",
+  "status": "suggérée",
+  "ucid": "UCoxcjq-8xIDTYp3uz647V5A",
+  "url": "https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A",
+  "via": "citée par 3Blue1Brown et Micmaths"
+ },
  "oceanverse": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "energie",
   "l": "fr",
+  "maj": "2026-11-05T11:46:47Z",
   "name": "Oceanverse",
-  "note": "Chaîne introuvable par la recherche : ajoutez son lien ou quelques vidéos.",
+  "note": "Identifiée par son nom : ouvre le lien pour vérifier que c'est la bonne chaîne.",
   "origin": "mathieu",
-  "status": "suivie"
+  "sec": "2026-11-11",
+  "status": "suivie",
+  "ucid": "UCbQ9iBcYNjfOezB25XSlSxg",
+  "url": "https://www.youtube.com/channel/UCbQ9iBcYNjfOezB25XSlSxg"
  },
  "oversimplified": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "histoire",
   "l": "en",
   "name": "OverSimplified",
   "origin": "initial",
-  "status": "suivie"
+  "sec": "2026-11-11",
+  "status": "suivie",
+  "ucid": "UCNIuvl7V8zACPpTmmNIqP2A",
+  "url": "https://www.youtube.com/channel/UCNIuvl7V8zACPpTmmNIqP2A"
  },
  "patrick-boyle": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "finance",
   "l": "en",
   "name": "Patrick Boyle",
   "origin": "initial",
+  "sec": "2026-11-11",
   "status": "suivie",
+  "ucid": "UCASM0cgfkJxQ1ICmRilfHLw",
   "url": "https://www.youtube.com/@PBoyle"
  },
  "real-engineering": {
   "added": "2026-11-06",
+  "amis": [
+   "UC176GAQozKKjhz62H8u9vQQ",
+   "UC9RM-iSvTu1uPJb8X5yp3EQ",
+   "UCgRBRE1DUP2w7HTH9j_L4OQ",
+   "UCpa-Zb0ZcQjTCPP1Dx_1M8Q",
+   "UCG-KntY7aVnIGXYEBQvmBAQ",
+   "UCIRiWCPZoUyZDbydIqitHtQ",
+   "UCQkd05iAYed2-LOmhjzDG6g",
+   "UCP5tjEmvPItGyLhmjdwP7Ww"
+  ],
   "cat": "ingenierie",
   "l": "en",
   "name": "Real Engineering",
   "origin": "initial",
-  "status": "suivie"
+  "sec": "2026-11-11",
+  "status": "suivie",
+  "ucid": "UCR1IuLEqb6UEA_zQ81kwXfg",
+  "url": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg"
  },
  "reallifelore": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "geopol",
   "l": "en",
   "name": "RealLifeLore",
   "origin": "initial",
-  "status": "suivie"
+  "sec": "2026-11-11",
+  "status": "suivie",
+  "ucid": "UCP5tjEmvPItGyLhmjdwP7Ww",
+  "url": "https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww"
  },
  "rick-beato": {
   "added": "2026-11-06",
+  "amis": [
+   "UCcp-HjtmTMeIJ-0RrSHSGLA"
+  ],
   "cat": "musique",
   "l": "en",
   "name": "Rick Beato",
   "origin": "initial",
-  "status": "suivie"
+  "sec": "2026-11-11",
+  "status": "suivie",
+  "ucid": "UCJquYOG5EL82sKTfH9aMA9Q",
+  "url": "https://www.youtube.com/channel/UCJquYOG5EL82sKTfH9aMA9Q"
  },
  "sarah-knafo": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "geopol",
   "l": "fr",
+  "maj": "2026-11-10T18:08:34Z",
   "name": "Sarah Knafo",
   "origin": "mathieu",
-  "status": "suivie"
+  "sec": "2026-11-11",
+  "status": "suivie",
+  "ucid": "UC8ba7bn2fuU_lsVweb4YM4Q",
+  "url": "https://www.youtube.com/channel/UC8ba7bn2fuU_lsVweb4YM4Q"
  },
  "science-etonnante": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "sciences",
   "l": "fr",
   "name": "Science Étonnante",
   "origin": "initial",
-  "status": "suivie"
+  "sec": "2026-11-11",
+  "status": "suivie",
+  "ucid": "UCaNlbnghtwlsGF-KzAFThqA",
+  "url": "https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA"
  },
  "tech-sans-filtre": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "tech",
   "l": "fr",
+  "maj": "2026-11-11T17:23:55Z",
   "name": "Tech Sans Filtre",
-  "note": "Chaîne trouvée, vidéos encore introuvables par la recherche : collez quelques liens.",
   "origin": "mathieu",
+  "sec": "2026-11-11",
   "status": "suivie",
+  "ucid": "UCObRPsF3m32lbmNldNyAxiw",
   "url": "https://www.youtube.com/@techsansfiltre1"
  },
  "the-plain-bagel": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "finance",
   "l": "en",
   "name": "The Plain Bagel",
   "origin": "initial",
+  "sec": "2026-11-11",
   "status": "suivie",
+  "ucid": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
   "url": "https://www.youtube.com/@ThePlainBagel"
  },
  "thierry-watelet": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "comm",
   "l": "fr",
+  "maj": "2026-10-12T00:56:12Z",
   "name": "Thierry Watelet",
   "origin": "mathieu",
+  "sec": "2026-11-11",
   "status": "suivie",
+  "ucid": "UCPL3LBJU1rO1Tbc4oelDNFA",
   "url": "https://www.youtube.com/@thierrywatelet1405"
  },
  "thinkerview": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "geopol",
   "l": "fr",
   "name": "Thinkerview",
   "origin": "initial",
-  "status": "suivie"
+  "sec": "2026-11-11",
+  "status": "suivie",
+  "ucid": "UCQgWpmt02UtJkyO32HGUASQ",
+  "url": "https://www.youtube.com/channel/UCQgWpmt02UtJkyO32HGUASQ"
  },
  "underscore": {
   "added": "2026-11-06",
+  "amis": [
+   "UCYnvxJ-PKiGXo_tYXpWAC-w"
+  ],
   "cat": "tech",
   "l": "fr",
   "name": "Underscore_",
   "origin": "initial",
+  "sec": "2026-11-11",
   "status": "suivie",
+  "ucid": "UCWedHS9qKebauVIK2J7383g",
   "url": "https://www.youtube.com/@Underscore_"
  },
  "upr-tv": {
@@ -357,42 +684,76 @@
   "cat": "geopol",
   "l": "fr",
   "name": "UPR TV",
+  "note": "Chaîne non identifiée : colle son lien YouTube dans l'onglet Chaînes.",
   "origin": "mathieu",
   "status": "suivie"
  },
  "va-plus": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "geopol",
   "l": "fr",
+  "maj": "2026-11-11T16:30:05Z",
   "name": "VA Plus",
   "origin": "mathieu",
+  "sec": "2026-11-11",
   "status": "suivie",
+  "ucid": "UCnIWNujSpiiuH29-TBCz9aw",
   "url": "https://www.youtube.com/channel/UCnIWNujSpiiuH29-TBCz9aw"
  },
  "veritasium": {
   "added": "2026-11-06",
+  "amis": [
+   "UC1UmujXTizWokDHojdEOdow",
+   "UCODHrzPMGbNv67e84WDZhQQ",
+   "UC-9b7aDP6ZN0coj9-xFnrtw",
+   "UCwpHKudUkP5tNgmMdexB3ow",
+   "UCWBtLCE-BnzZx3DneqDiXWQ",
+   "UC2LZO6swZ9SLUEOks3WnsfA",
+   "UCGRB1ZjIqAiaGwt-XLq9CnA",
+   "UCXtxgWwk55kVJo9lCCZRdmg",
+   "UCOgK3J7WTOl5f5Fd51kcoSg",
+   "UCnopJilYkHmuK-sdl07vkVg",
+   "UCxHeOI0pg0I0x4CFOyUni9Q",
+   "UCY6zVRa3Km52bsBmpyQnk6A"
+  ],
   "cat": "sciences",
   "l": "en",
   "name": "Veritasium",
   "origin": "initial",
-  "status": "suivie"
+  "sec": "2026-11-11",
+  "status": "suivie",
+  "ucid": "UCHnyfMqiRRG1u-2MsSQLbXA",
+  "url": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA"
  },
  "vilebrequin": {
   "added": "2026-11-06",
+  "amis": [],
   "cat": "auto",
   "l": "fr",
+  "maj": "2023-12-07T17:15:03Z",
   "name": "Vilebrequin",
   "origin": "mathieu",
+  "sec": "2026-11-11",
   "status": "suivie",
+  "ucid": "UCC9mlCpyisiIpp9YA9xV-QA",
   "url": "https://www.youtube.com/channel/UCC9mlCpyisiIpp9YA9xV-QA"
  },
  "wendover-productions": {
   "added": "2026-11-06",
+  "amis": [
+   "UCTWKe1zATFV6d0o6oLS9sgw",
+   "UCuCkxoKLYO_EQ2GeFtbM_bw",
+   "UCDA1X6RrhzZQOHOGvC3KsWg",
+   "UCxkM67T_Iele-mRVUiBkRqg"
+  ],
   "cat": "eco",
   "l": "en",
   "name": "Wendover Productions",
   "origin": "initial",
+  "sec": "2026-11-11",
   "status": "suivie",
+  "ucid": "UC9RM-iSvTu1uPJb8X5yp3EQ",
   "url": "https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ"
  }
 }

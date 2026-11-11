@@ -1,408 +1,326 @@
 {
- "finance": {
+ "auto": {
   "items": [
    {
     "a": "2026-11-06",
-    "c": "Finary",
-    "id": "x7z5TGO_2gI",
+    "c": "Vilebrequin",
+    "d": 506,
+    "id": "vb5FAQjfkB8",
     "l": "fr",
-    "t": "Un banquier privé Finary analyse ce patrimoine de 850 k€",
+    "p": "2018-06-22",
+    "t": "Renault Avantime : le plus gros échec automobile français",
     "tags": [
-     "Patrimoine"
+     "Histoire de l'auto"
     ],
-    "w": "Ton choix · patrimoine et investissement expliqués"
+    "w": "Ton choix · essais et culture automobile"
    },
    {
     "a": "2026-11-06",
-    "c": "Finary",
-    "id": "ezKgGybwI5Q",
+    "c": "Vilebrequin",
+    "d": 1201,
+    "id": "DiBHMf4tgak",
     "l": "fr",
-    "t": "Je réponds aux critiques et aux questions sur Finary en toute transparence",
+    "p": "2020-01-30",
+    "t": "La pire Lamborghini : essai du Lamborghini Urus",
     "tags": [
-     "Bourse"
+     "Essais"
     ],
-    "w": "Ton choix · patrimoine et investissement expliqués"
+    "w": "Ton choix · essais et culture automobile"
    },
    {
     "a": "2026-11-06",
-    "c": "Finary",
-    "id": "X2gfYyOPkdo",
+    "c": "Vilebrequin",
+    "d": 1296,
+    "id": "rjX5MeKARFI",
     "l": "fr",
-    "t": "Le Chrono Finary – extrait Finary Talk avec Éric Bertrand",
+    "p": "2020-02-27",
+    "t": "Le permis va sauter ! Essai de la BMW M2 Compétition 410 ch",
     "tags": [
-     "Bourse"
+     "Essais"
     ],
-    "w": "Ton choix · patrimoine et investissement expliqués"
+    "w": "Ton choix · essais et culture automobile"
    },
    {
     "a": "2026-11-06",
-    "c": "Finary",
-    "id": "hI0lBinHr4c",
+    "c": "Vilebrequin",
+    "d": 1396,
+    "id": "9ftp0hrrIDQ",
     "l": "fr",
-    "t": "Créer une holding pour booster son patrimoine",
+    "p": "2022-06-16",
+    "t": "Essai Mercedes McLaren SLR : échouer en beauté",
     "tags": [
-     "Patrimoine"
+     "Essais"
     ],
-    "w": "Ton choix · patrimoine et investissement expliqués"
+    "w": "Ton choix · essais et culture automobile"
    },
    {
     "a": "2026-11-06",
-    "c": "Finary",
-    "id": "H8AE10PY_G0",
+    "c": "Vilebrequin",
+    "d": 1978,
+    "id": "olWSZ4kDCtw",
     "l": "fr",
-    "t": "J'enquête sur la fin de la retraite",
+    "p": "2022-12-15",
+    "t": "Essai Honda NSX : la Ferrari japonaise",
     "tags": [
-     "Patrimoine"
+     "Essais"
     ],
-    "w": "Ton choix · patrimoine et investissement expliqués"
+    "w": "Ton choix · essais et culture automobile"
    },
    {
     "a": "2026-11-06",
-    "c": "Finary",
-    "id": "zOmxjdwVzwM",
+    "c": "Vilebrequin",
+    "d": 1866,
+    "id": "dz-N7JHDWDw",
     "l": "fr",
-    "t": "Finary crypto : investir de manière passive (frais, risque)",
+    "p": "2023-06-22",
+    "t": "Essai Volkswagen Phaeton W12 : le luxe ultime",
     "tags": [
-     "ETF & placement",
-     "Crypto"
+     "Essais"
     ],
-    "w": "Ton choix · patrimoine et investissement expliqués"
+    "w": "Ton choix · essais et culture automobile"
    },
    {
     "a": "2026-11-06",
-    "c": "Autres créateurs",
-    "id": "cCKtMLlcJ_k",
+    "c": "Vilebrequin",
+    "d": 614,
+    "id": "n2kdKu6njXI",
     "l": "fr",
-    "t": "Comment s'enrichir en partant de 0 en 2026 ? (avec Finary)",
+    "p": "2018-09-07",
+    "t": "Cadillac Fleetwood 1980 : hier ne meurt jamais",
     "tags": [
-     "Patrimoine"
+     "Histoire de l'auto"
     ],
-    "w": "Invité d'une chaîne que tu suis · trouvée en cherchant ce thème"
+    "w": "Ton choix · essais et culture automobile"
    },
    {
     "a": "2026-11-06",
-    "c": "Autres créateurs",
-    "id": "IoEDYSOmhxQ",
+    "c": "Vilebrequin",
+    "d": 925,
+    "id": "0SmZ_ToNkSA",
     "l": "fr",
-    "t": "J'ai rarement vu une telle maturité financière – analyse de patrimoine",
+    "p": "2020-12-30",
+    "t": "Quelle voiture pour 500 € ? (guide achat occasion)",
     "tags": [
-     "Patrimoine"
+     "Guide d'achat"
     ],
-    "w": "Sélection de départ · trouvée en cherchant ce thème"
+    "w": "Ton choix · essais et culture automobile"
    },
    {
     "a": "2026-11-06",
-    "c": "Autres créateurs",
-    "id": "Q_qTohy15jY",
+    "c": "Vilebrequin",
+    "d": 722,
+    "id": "OeG55UbMu1U",
     "l": "fr",
-    "t": "J'analyse le patrimoine de Mounir Laggoune (CEO Finary)",
+    "p": "2019-10-03",
+    "t": "Guide achat : quelle voiture pour 100 000 € ?",
     "tags": [
-     "Patrimoine"
+     "Guide d'achat"
     ],
-    "w": "Invité d'une chaîne que tu suis · trouvée en cherchant ce thème"
+    "w": "Ton choix · essais et culture automobile"
    },
    {
     "a": "2026-11-06",
-    "c": "Autres créateurs",
-    "id": "ew75dePb1Bg",
+    "c": "Vilebrequin",
+    "d": 1381,
+    "id": "VBkge3I56oc",
     "l": "fr",
-    "t": "Silver économie : l'opportunité d'investissement que tout le monde sous-estime",
+    "p": "2022-09-29",
+    "t": "Les marques avec la pire fiabilité (et les conseils pour les repérer)",
     "tags": [
-     "ETF & placement",
-     "Capitalisme & croissance"
+     "Guide d'achat"
     ],
-    "w": "Sélection de départ · trouvée en cherchant ce thème"
+    "w": "Ton choix · essais et culture automobile"
    },
    {
     "a": "2026-11-06",
-    "c": "Autres créateurs",
-    "id": "MbFvVXVDbc4",
+    "c": "Vilebrequin",
+    "d": 982,
+    "id": "f8HTgdREXxE",
     "l": "fr",
-    "t": "Comment construire un portefeuille solide face à tous les scénarios économiques",
+    "p": "2019-05-17",
+    "t": "Le pire daily du monde (Sylvain présente sa voiture)",
     "tags": [
-     "ETF & placement"
+     "Essais"
     ],
-    "w": "Sélection de départ · trouvée en cherchant ce thème"
+    "w": "Ton choix · essais et culture automobile"
    },
    {
     "a": "2026-11-06",
-    "c": "Autres créateurs",
-    "id": "K_RS1crfCJE",
+    "c": "Vilebrequin",
+    "d": 2450,
+    "id": "dE7aHyX_0PY",
     "l": "fr",
-    "t": "Investir dans les émergents : comprendre leur sous-performance et le tournant actuel",
+    "p": "2023-11-02",
+    "t": "On a trouvé notre reconversion : l'escouade Vilebrequin",
     "tags": [
-     "ETF & placement"
+     "Essais"
     ],
-    "w": "Sélection de départ · trouvée en cherchant ce thème"
+    "w": "Ton choix · essais et culture automobile"
    },
    {
     "a": "2026-11-06",
-    "c": "Autres créateurs",
-    "id": "X97dza_0Eho",
+    "c": "Vilebrequin",
+    "d": 374,
+    "id": "hRElcwjFWog",
     "l": "fr",
-    "t": "ETF, gestion passive et Smart Beta : comprendre les nouvelles stratégies",
+    "p": "2018-10-12",
+    "t": "À la recherche de la voiture la moins puissante – le Mondial de l'Auto",
     "tags": [
-     "Bourse",
-     "ETF & placement"
+     "Essais"
     ],
-    "w": "Sélection de départ · trouvée en cherchant ce thème"
+    "w": "Ton choix · essais et culture automobile"
    },
    {
     "a": "2026-11-06",
-    "c": "Autres créateurs",
-    "id": "RUnmQuTOHCI",
+    "c": "Vilebrequin",
+    "d": 415,
+    "id": "chnU2mreBJM",
     "l": "fr",
-    "t": "Tout savoir sur l'investissement via des ETF",
+    "p": "2022-04-28",
+    "t": "Pierre et Sylvain racontent la folle histoire de Vilebrequin",
     "tags": [
-     "ETF & placement"
+     "Histoire de l'auto"
     ],
-    "w": "Sélection de départ · trouvée en cherchant ce thème"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Nicolas Chéron",
-    "id": "mHLeGENZ0BY",
-    "l": "fr",
-    "t": "La stratégie d'investissement 70/20/10",
-    "tags": [
-     "Bourse",
-     "ETF & placement"
-    ],
-    "w": "Ton choix · stratégie boursière et lecture des marchés"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Nicolas Chéron",
-    "id": "A9sxs4-6rnc",
-    "l": "fr",
-    "t": "L'art de gagner en Bourse",
-    "tags": [
-     "Bourse"
-    ],
-    "w": "Ton choix · stratégie boursière et lecture des marchés"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Nicolas Chéron",
-    "id": "NXH6Qz0glPE",
-    "l": "fr",
-    "t": "Les meilleures stratégies pour gagner en Bourse",
-    "tags": [
-     "Bourse"
-    ],
-    "w": "Ton choix · stratégie boursière et lecture des marchés"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Nicolas Chéron",
-    "id": "RS4RfSGDJS8",
-    "l": "fr",
-    "t": "L'analyse fondamentale est-elle un piège ?",
-    "tags": [
-     "Bourse"
-    ],
-    "w": "Ton choix · stratégie boursière et lecture des marchés"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Nicolas Chéron",
-    "id": "D5C34hHEqZ0",
-    "l": "fr",
-    "t": "Adapter sa stratégie au contexte du marché",
-    "tags": [
-     "Bourse"
-    ],
-    "w": "Ton choix · stratégie boursière et lecture des marchés"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Nicolas Chéron",
-    "id": "ENU5X7Ks3Wk",
-    "l": "fr",
-    "t": "Investir dans l'énergie, avec Nicolas Chéron",
-    "tags": [
-     "ETF & placement",
-     "Énergie"
-    ],
-    "w": "Ton choix · stratégie boursière et lecture des marchés"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Nicolas Chéron",
-    "id": "38-_-3yrZX0",
-    "l": "fr",
-    "t": "Point de marché avec Nicolas Chéron",
-    "tags": [
-     "Bourse"
-    ],
-    "w": "Ton choix · stratégie boursière et lecture des marchés"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Nicolas Chéron",
-    "id": "8lf68YZ-dyg",
-    "l": "fr",
-    "t": "Les marchés en live avec Nicolas Chéron",
-    "tags": [
-     "Bourse"
-    ],
-    "w": "Ton choix · stratégie boursière et lecture des marchés"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Nicolas Chéron",
-    "id": "OessHBf18Q8",
-    "l": "fr",
-    "t": "Zonebourse : « Prendre quelques bénéfices avant les vacances »",
-    "tags": [
-     "Bourse"
-    ],
-    "w": "Ton choix · stratégie boursière et lecture des marchés"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Nicolas Chéron",
-    "id": "n1zxTBdoE34",
-    "l": "fr",
-    "t": "Nicolas Chéron fait un point sur l'actu des marchés",
-    "tags": [
-     "Bourse"
-    ],
-    "w": "Ton choix · stratégie boursière et lecture des marchés"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Nicolas Chéron",
-    "id": "F0j3Q6uFBko",
-    "l": "fr",
-    "t": "Nicolas Chéron : « J'ai tout arrêté en plein krach »",
-    "tags": [
-     "Bourse"
-    ],
-    "w": "Ton choix · stratégie boursière et lecture des marchés"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Patrick Boyle",
-    "id": "_6REqWXy6JM",
-    "l": "en",
-    "t": "Lessons from Financial History and False Expectations in the Markets",
-    "tags": [
-     "Bourse"
-    ],
-    "w": "Sélection de départ · ex-gérant de fonds, finance et marchés"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Patrick Boyle",
-    "id": "MloKMQx6slo",
-    "l": "en",
-    "t": "Is Modern Capitalism Broken?",
-    "tags": [
-     "Capitalisme & croissance"
-    ],
-    "w": "Sélection de départ · ex-gérant de fonds, finance et marchés"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Patrick Boyle",
-    "id": "4pNQRI3LXEU",
-    "l": "en",
-    "t": "The Real Problem Is Accounting, Not Politics",
-    "tags": [
-     "Capitalisme & croissance"
-    ],
-    "w": "Sélection de départ · ex-gérant de fonds, finance et marchés"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Patrick Boyle",
-    "id": "HrggKazP2zk",
-    "l": "en",
-    "t": "SpaceX, Europe's China Problem, and the Populist Backlash",
-    "tags": [
-     "Bourse"
-    ],
-    "w": "Sélection de départ · ex-gérant de fonds, finance et marchés"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Patrick Boyle",
-    "id": "fhsrkvEY55s",
-    "l": "en",
-    "t": "The Infinite Money Glitch is Broken!",
-    "tags": [
-     "Monnaie & banques centrales"
-    ],
-    "w": "Sélection de départ · ex-gérant de fonds, finance et marchés"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "The Plain Bagel",
-    "id": "QFj7gVatEeM",
-    "l": "en",
-    "t": "What Exactly Are Hedge Funds (And Why Are They Always Causing Problems)?",
-    "tags": [
-     "Bourse"
-    ],
-    "w": "Sélection de départ · bases de l'investissement, analyste financier"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "The Plain Bagel",
-    "id": "NeTsh--UEe4",
-    "l": "en",
-    "t": "Should You Invest With An Advisor?",
-    "tags": [
-     "ETF & placement"
-    ],
-    "w": "Sélection de départ · bases de l'investissement, analyste financier"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "The Plain Bagel",
-    "id": "I81xqr8HzBE",
-    "l": "en",
-    "t": "The Fundamentals",
-    "tags": [
-     "Bourse"
-    ],
-    "w": "Sélection de départ · bases de l'investissement, analyste financier"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "The Plain Bagel",
-    "id": "T1cqSZUviiQ",
-    "l": "en",
-    "t": "Investing",
-    "tags": [
-     "Bourse",
-     "ETF & placement"
-    ],
-    "w": "Sélection de départ · bases de l'investissement, analyste financier"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "The Plain Bagel",
-    "id": "vZCGsi5pfso",
-    "l": "en",
-    "t": "Stocks",
-    "tags": [
-     "Bourse"
-    ],
-    "w": "Sélection de départ · bases de l'investissement, analyste financier"
+    "w": "Ton choix · essais et culture automobile"
    }
   ],
-  "label": "Finance & bourse",
-  "order": 0
+  "label": "Automobile",
+  "order": 10
+ },
+ "comm": {
+  "items": [
+   {
+    "a": "2026-11-06",
+    "c": "Thierry Watelet",
+    "d": 42,
+    "id": "VD5CCbx7IX4",
+    "l": "fr",
+    "p": "2021-07-23",
+    "t": "L'art oratoire par Thierry Watelet",
+    "tags": [
+     "Art oratoire"
+    ],
+    "w": "Ton choix · art oratoire et rhétorique"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Thierry Watelet",
+    "id": "jA0oe8YSmTg",
+    "l": "fr",
+    "t": "1er principe de la rhétorique : la sincérité",
+    "tags": [
+     "Rhétorique"
+    ],
+    "w": "Ton choix · art oratoire et rhétorique",
+    "x": 1
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Thierry Watelet",
+    "d": 276,
+    "id": "xCJpoeldNlE",
+    "l": "fr",
+    "p": "2017-06-22",
+    "t": "Pour convaincre lors de la prise de parole, soyez vous-même !",
+    "tags": [
+     "Art oratoire"
+    ],
+    "w": "Ton choix · art oratoire et rhétorique"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Thierry Watelet",
+    "d": 4175,
+    "id": "3snBVDtxuU8",
+    "l": "fr",
+    "p": "2025-04-12",
+    "t": "Un expert en éloquence partage ses meilleurs conseils pour les dirigeants",
+    "tags": [
+     "Art oratoire",
+     "Communication d'entreprise"
+    ],
+    "w": "Ton choix · Thierry Watelet invité"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Thierry Watelet",
+    "d": 212,
+    "id": "BPPDGE9rVVc",
+    "l": "fr",
+    "p": "2016-11-01",
+    "t": "Thierry Watelet : l'éloquence au service de l'entreprise",
+    "tags": [
+     "Communication d'entreprise"
+    ],
+    "w": "Ton choix · Thierry Watelet invité"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Thierry Watelet",
+    "d": 5560,
+    "id": "tFh6IxUqVS4",
+    "l": "fr",
+    "p": "2021-05-07",
+    "t": "La parole, outil premier et essentiel – Thierry Watelet",
+    "tags": [
+     "Art oratoire"
+    ],
+    "w": "Ton choix · Thierry Watelet invité"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Thierry Watelet",
+    "d": 1354,
+    "id": "rwSL6kD3aq0",
+    "l": "fr",
+    "p": "2021-04-27",
+    "t": "« Être et parler à son écran » et « Être et raconter » – Thierry Watelet",
+    "tags": [
+     "Art oratoire"
+    ],
+    "w": "Ton choix · Thierry Watelet invité"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Autres créateurs",
+    "c2": "TEDx Talks",
+    "d": 1095,
+    "id": "lomBrws_MyE",
+    "l": "fr",
+    "p": "2021-12-13",
+    "t": "L'éloquence du gazouillis",
+    "tags": [
+     "Rhétorique"
+    ],
+    "w": "Sélection de départ · trouvée en cherchant Thierry Watelet"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Autres créateurs",
+    "c2": "Nicolas Mel | Art oratoire ",
+    "d": 213,
+    "id": "eqThAtMzoTM",
+    "l": "fr",
+    "p": "2023-09-10",
+    "t": "Cours d'art oratoire #14",
+    "tags": [
+     "Art oratoire"
+    ],
+    "w": "Sélection de départ · trouvée en cherchant Thierry Watelet"
+   }
+  ],
+  "label": "Éloquence & communication",
+  "order": 11
  },
  "eco": {
   "items": [
    {
     "a": "2026-11-06",
     "c": "Heu?reka",
+    "d": 1742,
     "id": "mhLfTX4fjoY",
     "l": "fr",
+    "p": "2020-07-11",
     "t": "Tout sur l'économie (ou presque) : comprendre ce qui cloche dans le système",
     "tags": [
      "Capitalisme & croissance"
@@ -412,8 +330,10 @@
    {
     "a": "2026-11-06",
     "c": "Heu?reka",
+    "d": 4333,
     "id": "zRPiNFhkb0w",
     "l": "fr",
+    "p": "2020-10-01",
     "t": "Les marchés financiers sont-ils efficients ?",
     "tags": [
      "Capitalisme & croissance"
@@ -423,8 +343,10 @@
    {
     "a": "2026-11-06",
     "c": "Heu?reka",
+    "d": 2491,
     "id": "s41wQ4fqfBU",
     "l": "fr",
+    "p": "2018-11-15",
     "t": "Croissance & énergie : l'erreur des économistes ?",
     "tags": [
      "Capitalisme & croissance"
@@ -434,8 +356,10 @@
    {
     "a": "2026-11-06",
     "c": "Heu?reka",
+    "d": 6258,
     "id": "n1Kuomt_wgw",
     "l": "fr",
+    "p": "2022-08-21",
     "t": "Mort par inflation ? La faute des banques centrales ?",
     "tags": [
      "Monnaie & banques centrales"
@@ -445,8 +369,10 @@
    {
     "a": "2026-11-06",
     "c": "Heu?reka",
+    "d": 5435,
     "id": "qoazqJEBGsc",
     "l": "fr",
+    "p": "2021-03-06",
     "t": "Peut-on annuler la dette publique ?",
     "tags": [
      "Dette publique"
@@ -456,8 +382,10 @@
    {
     "a": "2026-11-06",
     "c": "Heu?reka",
+    "d": 1326,
     "id": "uTox1bXamW0",
     "l": "fr",
+    "p": "2020-05-10",
     "t": "Et si l'argent tombait du ciel ?",
     "tags": [
      "Monnaie & banques centrales"
@@ -467,8 +395,10 @@
    {
     "a": "2026-11-06",
     "c": "Heu?reka",
+    "d": 870,
     "id": "Sunf1VvF5ZU",
     "l": "fr",
+    "p": "2026-10-28",
     "t": "Pourquoi les banques centrales temporisent-elles ?",
     "tags": [
      "Monnaie & banques centrales"
@@ -478,8 +408,10 @@
    {
     "a": "2026-11-06",
     "c": "Heu?reka",
+    "d": 885,
     "id": "nN0dAUdL0I4",
     "l": "fr",
+    "p": "2016-05-21",
     "t": "La France pour les nuls",
     "tags": [
      "Politique française"
@@ -489,8 +421,10 @@
    {
     "a": "2026-11-06",
     "c": "Heu?reka",
+    "d": 538,
     "id": "ZAFXDl-Lszc",
     "l": "fr",
+    "p": "2020-03-23",
     "t": "Le plan pour sauver l'économie du coco",
     "tags": [
      "Capitalisme & croissance"
@@ -500,8 +434,10 @@
    {
     "a": "2026-11-06",
     "c": "Heu?reka",
+    "d": 774,
     "id": "NKYBz-E_g9U",
     "l": "fr",
+    "p": "2016-01-16",
     "t": "Le double visage de l'argent",
     "tags": [
      "Monnaie & banques centrales"
@@ -511,8 +447,10 @@
    {
     "a": "2026-11-06",
     "c": "Heu?reka",
+    "d": 3884,
     "id": "r_NiQoD1g5Y",
     "l": "fr",
+    "p": "2026-02-11",
     "t": "Quand l'État contrôlait les financiers (le circuit du Trésor)",
     "tags": [
      "Monnaie & banques centrales"
@@ -522,8 +460,11 @@
    {
     "a": "2026-11-06",
     "c": "Autres créateurs",
+    "c2": "L'Économie-Gestion Simplement",
+    "d": 659,
     "id": "9HHiJidTNUM",
     "l": "fr",
+    "p": "2026-04-12",
     "s": {
      "loose": true,
      "n": 10,
@@ -538,8 +479,12 @@
    {
     "a": "2026-11-06",
     "c": "Money & Macro",
+    "d": 1952,
+    "hn": 0,
+    "hnAt": "2026-11-11",
     "id": "tP8pi86MQ_U",
     "l": "en",
+    "p": "2024-10-27",
     "t": "Why Europeans Are Getting Poorer And Headed For Worse",
     "tags": [
      "Capitalisme & croissance"
@@ -549,8 +494,12 @@
    {
     "a": "2026-11-06",
     "c": "Money & Macro",
+    "d": 1085,
+    "hn": 0,
+    "hnAt": "2026-11-11",
     "id": "F-9RCKKvoJw",
     "l": "en",
+    "p": "2025-12-15",
     "t": "How scientists radically reduced US gun violence (no gun ban)",
     "tags": [
      "Capitalisme & croissance"
@@ -560,8 +509,12 @@
    {
     "a": "2026-11-06",
     "c": "Money & Macro",
+    "d": 2877,
+    "hn": 0,
+    "hnAt": "2026-11-11",
     "id": "MPtMtZDtX7A",
     "l": "en",
+    "p": "2025-04-11",
     "t": "Can the Fed Handle a Tariff Shock?",
     "tags": [
      "Monnaie & banques centrales"
@@ -571,8 +524,12 @@
    {
     "a": "2026-11-06",
     "c": "Wendover Productions",
+    "d": 1475,
+    "hn": 1,
+    "hnAt": "2026-11-11",
     "id": "73ygHs4Kwcs",
     "l": "en",
+    "p": "2023-07-14",
     "t": "The Broken Economics of the Oceans",
     "tags": [
      "Capitalisme & croissance"
@@ -582,8 +539,12 @@
    {
     "a": "2026-11-06",
     "c": "Wendover Productions",
+    "d": 1243,
+    "hn": 0,
+    "hnAt": "2026-11-11",
     "id": "44l6f7iXGAk",
     "l": "en",
+    "p": "2023-10-03",
     "t": "Why West Virginia is so Poor",
     "tags": [
      "Capitalisme & croissance"
@@ -593,8 +554,12 @@
    {
     "a": "2026-11-06",
     "c": "Wendover Productions",
+    "d": 1552,
+    "hn": 0,
+    "hnAt": "2026-11-11",
     "id": "S46iJIk3t70",
     "l": "en",
+    "p": "2023-04-18",
     "t": "How Corporate Consolidation is Killing Ski Towns",
     "tags": [
      "Capitalisme & croissance"
@@ -605,1478 +570,15 @@
   "label": "Économie",
   "order": 1
  },
- "sciences": {
-  "items": [
-   {
-    "a": "2026-11-06",
-    "c": "Science Étonnante",
-    "id": "trWrEWfhTVg",
-    "l": "fr",
-    "t": "Le deep learning",
-    "tags": [
-     "IA"
-    ],
-    "w": "Sélection de départ · physique et IA par un docteur en physique"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Autres créateurs",
-    "id": "O4wFxNl4uWM",
-    "l": "fr",
-    "t": "Trou noir : l'hypothèse de Stephen Hawking testée en labo",
-    "tags": [
-     "Astronomie"
-    ],
-    "w": "Sélection de départ · trouvée en cherchant ce thème"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Autres créateurs",
-    "id": "GkVIXH1gKYA",
-    "l": "fr",
-    "t": "La gravitation quantique à boucles transforme les trous noirs en trous blancs",
-    "tags": [
-     "Astronomie",
-     "Physique"
-    ],
-    "w": "Sélection de départ · trouvée en cherchant ce thème"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Autres créateurs",
-    "id": "v3eSu9ac7Wk",
-    "l": "fr",
-    "t": "Le plus gros problème de la mécanique quantique : la mesure",
-    "tags": [
-     "Physique"
-    ],
-    "w": "Sélection de départ · trouvée en cherchant ce thème"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Autres créateurs",
-    "id": "vU9g3HwlUYg",
-    "l": "fr",
-    "t": "Que faire si vous tombez dans un trou noir ?",
-    "tags": [
-     "Astronomie"
-    ],
-    "w": "Sélection de départ · trouvée en cherchant ce thème"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Autres créateurs",
-    "id": "xThsKav2TpE",
-    "l": "fr",
-    "t": "L'électricité n'est pas ce que vous croyez : le paradoxe le plus choquant",
-    "tags": [
-     "Physique"
-    ],
-    "w": "Sélection de départ · trouvée en cherchant ce thème"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Balade Mentale",
-    "id": "66HgM5z0MBc",
-    "l": "fr",
-    "t": "L'univers est-il infini ?",
-    "tags": [
-     "Astronomie"
-    ],
-    "w": "Sélection de départ · astronomie et cosmos, très visuel"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Balade Mentale",
-    "id": "37M2Cv5RZsM",
-    "l": "fr",
-    "t": "Univers parallèles et multivers, combien sont-ils ?",
-    "tags": [
-     "Astronomie"
-    ],
-    "w": "Sélection de départ · astronomie et cosmos, très visuel"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Balade Mentale",
-    "id": "0j6Cy6IGzGU",
-    "l": "fr",
-    "t": "Voyage dans le système solaire",
-    "tags": [
-     "Astronomie"
-    ],
-    "w": "Sélection de départ · astronomie et cosmos, très visuel"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Balade Mentale",
-    "id": "JkQs9baTyGs",
-    "l": "fr",
-    "t": "Toutes les formes possibles de galaxies dans l'univers",
-    "tags": [
-     "Astronomie"
-    ],
-    "w": "Sélection de départ · astronomie et cosmos, très visuel"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Balade Mentale",
-    "id": "_p1YSNa1Tdw",
-    "l": "fr",
-    "t": "Le calendrier cosmique : tout le temps qui s'est écoulé",
-    "tags": [
-     "Astronomie"
-    ],
-    "w": "Sélection de départ · astronomie et cosmos, très visuel"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Balade Mentale",
-    "id": "NFJk2fmIidU",
-    "l": "fr",
-    "t": "Des milliards d'autres planètes !",
-    "tags": [
-     "Astronomie"
-    ],
-    "w": "Sélection de départ · astronomie et cosmos, très visuel"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Balade Mentale",
-    "id": "SX2Nvsa2EnA",
-    "l": "fr",
-    "t": "En cachant le Soleil, ils découvrent de nouvelles planètes",
-    "tags": [
-     "Astronomie"
-    ],
-    "w": "Sélection de départ · astronomie et cosmos, très visuel"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Balade Mentale",
-    "id": "O4Wa9vc69ew",
-    "l": "fr",
-    "t": "Le son de l'univers : les sons des planètes",
-    "tags": [
-     "Astronomie"
-    ],
-    "w": "Sélection de départ · astronomie et cosmos, très visuel"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Fouloscopie",
-    "id": "hlnZA89hVwo",
-    "l": "fr",
-    "t": "Guide de survie dans une foule en panique",
-    "tags": [
-     "Comportements humains"
-    ],
-    "w": "Sélection de départ · science des foules par un chercheur"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Fouloscopie",
-    "id": "r2oiCmsCDWM",
-    "l": "fr",
-    "t": "Ce que la foule dit de nous – Mehdi Moussaïd",
-    "tags": [
-     "Comportements humains"
-    ],
-    "w": "Sélection de départ · science des foules par un chercheur"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Fouloscopie",
-    "id": "CygtLxxDnlA",
-    "l": "fr",
-    "t": "Comment fonctionne la foule ? (avec Fouloscopie)",
-    "tags": [
-     "Comportements humains"
-    ],
-    "w": "Sélection de départ · science des foules par un chercheur"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Fouloscopie",
-    "id": "XhC9EnAj7mU",
-    "l": "fr",
-    "t": "Un influenceur peut-il réellement influencer une élection ? (avec Fouloscopie)",
-    "tags": [
-     "Comportements humains"
-    ],
-    "w": "Sélection de départ · science des foules par un chercheur"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Micmaths",
-    "id": "tYf3CpbqAVo",
-    "l": "fr",
-    "t": "Le calcul qui divise : 6÷2(1+2)",
-    "tags": [
-     "Mathématiques"
-    ],
-    "w": "Sélection de départ · maths récréatives"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Micmaths",
-    "id": "DKvV1S3B4Uc",
-    "l": "fr",
-    "t": "Le théorème de Launay",
-    "tags": [
-     "Mathématiques"
-    ],
-    "w": "Sélection de départ · maths récréatives"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Hygiène Mentale",
-    "id": "wtJwVZGuiOY",
-    "l": "fr",
-    "s": {
-     "n": 2,
-     "name": "Hygiène Mentale – la série"
-    },
-    "t": "L'ouverture d'esprit et ses limites",
-    "tags": [
-     "Esprit critique"
-    ],
-    "w": "Sélection de départ · esprit critique et méthode"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Hygiène Mentale",
-    "id": "2XPtzAQxMPw",
-    "l": "fr",
-    "s": {
-     "n": 3,
-     "name": "Hygiène Mentale – la série"
-    },
-    "t": "L'autodéfense intellectuelle : des outils pour la recherche d'information",
-    "tags": [
-     "Esprit critique"
-    ],
-    "w": "Sélection de départ · esprit critique et méthode"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Hygiène Mentale",
-    "id": "h5PrMtmonkU",
-    "l": "fr",
-    "t": "L'approche bayésienne peut-elle enrichir la pensée critique ?",
-    "tags": [
-     "Esprit critique"
-    ],
-    "w": "Sélection de départ · esprit critique et méthode"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Veritasium",
-    "id": "DxL2HoqLbyA",
-    "l": "en",
-    "t": "The Most Misunderstood Concept in Physics",
-    "tags": [
-     "Physique"
-    ],
-    "w": "Sélection de départ · physique contre-intuitive"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Veritasium",
-    "id": "-QTkPfq7w1A",
-    "l": "en",
-    "t": "The most counterintuitive device you'll ever see",
-    "tags": [
-     "Physique"
-    ],
-    "w": "Sélection de départ · physique contre-intuitive"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Veritasium",
-    "id": "mqo1lQL59VI",
-    "l": "en",
-    "t": "This Is The Perfect Bowling Strategy",
-    "tags": [
-     "Physique"
-    ],
-    "w": "Sélection de départ · physique contre-intuitive"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "3Blue1Brown",
-    "id": "kjBOesZCoqc",
-    "l": "en",
-    "s": {
-     "n": 0,
-     "name": "3Blue1Brown – Essence of linear algebra"
-    },
-    "t": "Essence of linear algebra – preview",
-    "tags": [
-     "Mathématiques"
-    ],
-    "w": "Fait partie d'une série · les maths visualisées, référence mondiale"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "3Blue1Brown",
-    "id": "fNk_zzaMoSs",
-    "l": "en",
-    "s": {
-     "n": 1,
-     "name": "3Blue1Brown – Essence of linear algebra"
-    },
-    "t": "Vectors",
-    "tags": [
-     "Mathématiques"
-    ],
-    "w": "Sélection de départ · les maths visualisées, référence mondiale"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "3Blue1Brown",
-    "id": "kYB8IZa5AuE",
-    "l": "en",
-    "s": {
-     "n": 3,
-     "name": "3Blue1Brown – Essence of linear algebra"
-    },
-    "t": "Linear transformations and matrices",
-    "tags": [
-     "Mathématiques"
-    ],
-    "w": "Sélection de départ · les maths visualisées, référence mondiale"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "3Blue1Brown",
-    "id": "Ip3X9LOh2dk",
-    "l": "en",
-    "s": {
-     "n": 6,
-     "name": "3Blue1Brown – Essence of linear algebra"
-    },
-    "t": "The determinant",
-    "tags": [
-     "Mathématiques"
-    ],
-    "w": "Sélection de départ · les maths visualisées, référence mondiale"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "3Blue1Brown",
-    "id": "LyGKycYT2v0",
-    "l": "en",
-    "s": {
-     "n": 9,
-     "name": "3Blue1Brown – Essence of linear algebra"
-    },
-    "t": "Dot products and duality",
-    "tags": [
-     "Mathématiques"
-    ],
-    "w": "Sélection de départ · les maths visualisées, référence mondiale"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "3Blue1Brown",
-    "id": "BaM7OCEm3G0",
-    "l": "en",
-    "s": {
-     "n": 11,
-     "name": "3Blue1Brown – Essence of linear algebra"
-    },
-    "t": "Cross products in the light of linear transformations",
-    "tags": [
-     "Mathématiques"
-    ],
-    "w": "Sélection de départ · les maths visualisées, référence mondiale"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "3Blue1Brown",
-    "id": "PFDu9oVAE-g",
-    "l": "en",
-    "s": {
-     "n": 14,
-     "name": "3Blue1Brown – Essence of linear algebra"
-    },
-    "t": "Eigenvectors and eigenvalues",
-    "tags": [
-     "Mathématiques"
-    ],
-    "w": "Sélection de départ · les maths visualisées, référence mondiale"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Kurzgesagt",
-    "id": "Pj-h6MEgE7I",
-    "l": "en",
-    "t": "You Are Not Where You Think You Are",
-    "tags": [
-     "Physique"
-    ],
-    "w": "Sélection de départ · sciences en animation"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Kurzgesagt",
-    "id": "_y9JuojAIg0",
-    "l": "en",
-    "t": "We Finally Know More About Humanity's First Civilization",
-    "tags": [
-     "Physique"
-    ],
-    "w": "Sélection de départ · sciences en animation"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Kurzgesagt",
-    "id": "yDAAlojz8NU",
-    "l": "en",
-    "t": "This Is the Scariest Place in The Universe",
-    "tags": [
-     "Astronomie"
-    ],
-    "w": "Sélection de départ · sciences en animation"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Kurzgesagt",
-    "id": "wo_e0EvEZn8",
-    "l": "en",
-    "t": "Why Your Brain Blinds You For 2 Hours Every Day",
-    "tags": [
-     "Comportements humains"
-    ],
-    "w": "Sélection de départ · sciences en animation"
-   }
-  ],
-  "label": "Sciences",
-  "order": 2
- },
- "ingenierie": {
-  "items": [
-   {
-    "a": "2026-11-06",
-    "c": "Monsieur Bidouille",
-    "id": "QbTrTaFylOs",
-    "l": "fr",
-    "t": "ITER est-il obsolète ? L'avenir de la fusion nucléaire",
-    "tags": [
-     "Nucléaire"
-    ],
-    "w": "Sélection de départ · coulisses de l'industrie et du nucléaire"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Monsieur Bidouille",
-    "id": "kax3mKAJfIg",
-    "l": "fr",
-    "t": "Faut-il construire la plus grande expérience du monde ?",
-    "tags": [
-     "Industrie & infrastructures"
-    ],
-    "w": "Sélection de départ · coulisses de l'industrie et du nucléaire"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Monsieur Bidouille",
-    "id": "AMzaRhpaqNU",
-    "l": "fr",
-    "t": "Le délicat problème des vieux ponts ferroviaires",
-    "tags": [
-     "Industrie & infrastructures"
-    ],
-    "w": "Sélection de départ · coulisses de l'industrie et du nucléaire"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Monsieur Bidouille",
-    "id": "Cirg1NmGaKU",
-    "l": "fr",
-    "t": "Pourquoi enrichir l'uranium est si difficile ?",
-    "tags": [
-     "Nucléaire"
-    ],
-    "w": "Sélection de départ · coulisses de l'industrie et du nucléaire"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Monsieur Bidouille",
-    "id": "UDIdE8n6FoM",
-    "l": "fr",
-    "t": "La mesure la plus précise possible",
-    "tags": [
-     "Industrie & infrastructures"
-    ],
-    "w": "Sélection de départ · coulisses de l'industrie et du nucléaire"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Monsieur Bidouille",
-    "id": "lnM7UVT2i-o",
-    "l": "fr",
-    "t": "Comment les makers ont créé une usine géante en une semaine contre le covid",
-    "tags": [
-     "Industrie & infrastructures"
-    ],
-    "w": "Sélection de départ · coulisses de l'industrie et du nucléaire"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Monsieur Bidouille",
-    "id": "7aQZOzjjlC0",
-    "l": "fr",
-    "t": "À l'intérieur d'une usine d'aluminium",
-    "tags": [
-     "Industrie & infrastructures"
-    ],
-    "w": "Sélection de départ · coulisses de l'industrie et du nucléaire"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Monsieur Bidouille",
-    "id": "MZkmz24Nwbs",
-    "l": "fr",
-    "t": "Ce réacteur nucléaire ne produira pas d'énergie",
-    "tags": [
-     "Nucléaire"
-    ],
-    "w": "Sélection de départ · coulisses de l'industrie et du nucléaire"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Monsieur Bidouille",
-    "id": "O5RGCTvkXfM",
-    "l": "fr",
-    "t": "Les trains-usines : à l'intérieur d'un chantier ferroviaire",
-    "tags": [
-     "Industrie & infrastructures"
-    ],
-    "w": "Sélection de départ · coulisses de l'industrie et du nucléaire"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Monsieur Bidouille",
-    "id": "JVkg7Ookt6Y",
-    "l": "fr",
-    "t": "Au cœur d'une centrale nucléaire",
-    "tags": [
-     "Nucléaire"
-    ],
-    "w": "Sélection de départ · coulisses de l'industrie et du nucléaire"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Real Engineering",
-    "id": "RVxgyz_avQM",
-    "l": "en",
-    "t": "How NASA Reinvented the Rocket Engine",
-    "tags": [
-     "Industrie & infrastructures"
-    ],
-    "w": "Sélection de départ · ingénierie expliquée"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Real Engineering",
-    "id": "EhhOin2p5Qs",
-    "l": "en",
-    "t": "The Insane Engineering of the F-16",
-    "tags": [
-     "Industrie & infrastructures"
-    ],
-    "w": "Sélection de départ · ingénierie expliquée"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Real Engineering",
-    "id": "wk6Qr6OO5Xo",
-    "l": "en",
-    "t": "The Insane Engineering of the A-10 Warthog",
-    "tags": [
-     "Industrie & infrastructures"
-    ],
-    "w": "Sélection de départ · ingénierie expliquée"
-   }
-  ],
-  "label": "Ingénierie & industrie",
-  "order": 3
- },
- "tech": {
-  "items": [
-   {
-    "a": "2026-11-06",
-    "c": "Micode",
-    "id": "9YRk_7pYWXo",
-    "l": "fr",
-    "t": "Le jour où un employé a rançonné son propre patron",
-    "tags": [
-     "Cybersécurité"
-    ],
-    "w": "Sélection de départ · enquêtes cybersécurité"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Micode",
-    "id": "gXtp6C-3JKo",
-    "l": "fr",
-    "t": "Le virus le plus flippant de l'Histoire",
-    "tags": [
-     "Cybersécurité"
-    ],
-    "w": "Sélection de départ · enquêtes cybersécurité"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Micode",
-    "id": "PDllw6Y3CuY",
-    "l": "fr",
-    "t": "Qui se cache derrière les arnaques par SMS ? Micode raconte son enquête",
-    "tags": [
-     "Cybersécurité"
-    ],
-    "w": "Sélection de départ · enquêtes cybersécurité"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Micode",
-    "id": "4FYBf0VY-k0",
-    "l": "fr",
-    "t": "Micode décrypte les scènes de hacking et d'IA au cinéma",
-    "tags": [
-     "Cybersécurité"
-    ],
-    "w": "Sélection de départ · enquêtes cybersécurité"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Underscore_",
-    "id": "jvudfH02Z0g",
-    "l": "fr",
-    "t": "Il hacke une intelligence artificielle avec un masque",
-    "tags": [
-     "IA",
-     "Cybersécurité"
-    ],
-    "w": "Sélection de départ · émission tech et IA"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Underscore_",
-    "id": "uvnZOjPeV6M",
-    "l": "fr",
-    "t": "Pourquoi ChatGPT vient de se faire détrôner",
-    "tags": [
-     "IA"
-    ],
-    "w": "Sélection de départ · émission tech et IA"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Underscore_",
-    "id": "S_kBkezX1ME",
-    "l": "fr",
-    "t": "Des chercheurs en IA s'apprêtent à décoder la communication animale",
-    "tags": [
-     "IA"
-    ],
-    "w": "Sélection de départ · émission tech et IA"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Aywen",
-    "id": "juQyLfgAiSI",
-    "l": "fr",
-    "t": "J'ai ouvert un site sur le Dark Web",
-    "tags": [
-     "Cybersécurité"
-    ],
-    "w": "Ton choix · informatique et défis de code"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Aywen",
-    "id": "N6wD3DNZsj0",
-    "l": "fr",
-    "t": "Un abonné a tenté de me hacker en m'envoyant un jeu",
-    "tags": [
-     "Cybersécurité"
-    ],
-    "w": "Ton choix · informatique et défis de code"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Aywen",
-    "id": "0l4rQi9RcJc",
-    "l": "fr",
-    "t": "J'ai forcé 8 développeurs à coder un jeu sans se parler",
-    "tags": [
-     "Programmation"
-    ],
-    "w": "Ton choix · informatique et défis de code"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Aywen",
-    "id": "iklvKvf3rQU",
-    "l": "fr",
-    "t": "J'ai forcé 10 développeurs à coder un jeu de stratégie sans se parler",
-    "tags": [
-     "Programmation"
-    ],
-    "w": "Ton choix · informatique et défis de code"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Aywen",
-    "id": "IIyZSnjMB3I",
-    "l": "fr",
-    "t": "J'ai forcé 9 développeurs à coder un jeu Roblox sans se parler",
-    "tags": [
-     "Programmation"
-    ],
-    "w": "Ton choix · informatique et défis de code"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Aywen",
-    "id": "jYJtSADkpwM",
-    "l": "fr",
-    "t": "J'ai laissé 4 IA coder un jeu d'horreur",
-    "tags": [
-     "IA",
-     "Programmation"
-    ],
-    "w": "Ton choix · informatique et défis de code"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Aywen",
-    "id": "MKkk6qRqwWg",
-    "l": "fr",
-    "s": {
-     "n": 1,
-     "name": "Aywen – Je code vos idées"
-    },
-    "t": "Je code vos idées les plus débiles",
-    "tags": [
-     "Programmation"
-    ],
-    "w": "Ton choix · informatique et défis de code"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Aywen",
-    "id": "H5VyDTUIFAQ",
-    "l": "fr",
-    "s": {
-     "n": 2,
-     "name": "Aywen – Je code vos idées"
-    },
-    "t": "Je code vos idées les plus stupides #2",
-    "tags": [
-     "Programmation"
-    ],
-    "w": "Ton choix · informatique et défis de code"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Aywen",
-    "id": "vZTPPrtzkTg",
-    "l": "fr",
-    "t": "La vérité sur ma vidéo la plus dangereuse (#3)",
-    "tags": [
-     "Programmation"
-    ],
-    "w": "Ton choix · informatique et défis de code"
-   }
-  ],
-  "label": "Tech & numérique",
-  "order": 4
- },
- "histoire": {
-  "items": [
-   {
-    "a": "2026-11-06",
-    "c": "Histony",
-    "id": "qAp_EaLZhWQ",
-    "l": "fr",
-    "s": {
-     "n": 1,
-     "name": "Histony – Tout savoir sur le Titanic"
-    },
-    "t": "Tout savoir sur le Titanic – partie 1",
-    "tags": [
-     "Époque moderne"
-    ],
-    "w": "Fait partie d'une série · histoire par un historien"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Histony",
-    "id": "jjMHsVhCLKg",
-    "l": "fr",
-    "s": {
-     "n": 4,
-     "name": "Histony – Tout savoir sur le Titanic"
-    },
-    "t": "Tout savoir sur le Titanic – partie 4",
-    "tags": [
-     "Époque moderne"
-    ],
-    "w": "Fait partie d'une série · histoire par un historien"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Histony",
-    "id": "wdbwDP7rNGw",
-    "l": "fr",
-    "t": "Traverser l'Atlantique au XIXe siècle",
-    "tags": [
-     "Époque moderne"
-    ],
-    "w": "Sélection de départ · histoire par un historien"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Histony",
-    "id": "suj4O-VobZQ",
-    "l": "fr",
-    "t": "Histoire du clivage gauche/droite",
-    "tags": [
-     "Histoire générale"
-    ],
-    "w": "Sélection de départ · histoire par un historien"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Histony",
-    "id": "QeggeljFWg4",
-    "l": "fr",
-    "t": "Histoire, mémoire & politique",
-    "tags": [
-     "Histoire générale"
-    ],
-    "w": "Sélection de départ · histoire par un historien"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Manon Bril",
-    "id": "Mct70eT96TM",
-    "l": "fr",
-    "t": "Les femmes trancheuses de têtes",
-    "tags": [
-     "Époque moderne"
-    ],
-    "w": "Sélection de départ · histoire par une docteure en histoire"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Manon Bril",
-    "id": "gzJxYB-rLIU",
-    "l": "fr",
-    "t": "Comment s'évader d'un labyrinthe à tous les coups ? (avec Manon Bril)",
-    "tags": [
-     "Histoire générale"
-    ],
-    "w": "Sélection de départ · histoire par une docteure en histoire"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Autres créateurs",
-    "id": "_Q6Xj6kLijw",
-    "l": "fr",
-    "t": "L'histoire complète de la France en 25 minutes",
-    "tags": [
-     "Histoire de France"
-    ],
-    "w": "Sélection de départ · trouvée en cherchant ce thème"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Autres créateurs",
-    "id": "OfbQQEiF80Q",
-    "l": "fr",
-    "t": "L'histoire de France en 38 minutes",
-    "tags": [
-     "Histoire de France"
-    ],
-    "w": "Sélection de départ · trouvée en cherchant ce thème"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Autres créateurs",
-    "id": "vypt9y0Ru7g",
-    "l": "fr",
-    "t": "Toute l'histoire de la France en 42 minutes",
-    "tags": [
-     "Histoire de France"
-    ],
-    "w": "Sélection de départ · trouvée en cherchant ce thème"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "UPR TV",
-    "id": "k34iCt7ghiU",
-    "l": "fr",
-    "t": "François Asselineau – L'histoire de France (conférence)",
-    "tags": [
-     "Histoire de France"
-    ],
-    "w": "Ton choix · conférences longues de François Asselineau"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "UPR TV",
-    "id": "Wq6NP2h0Fo4",
-    "l": "fr",
-    "t": "Les vrais enseignements de la Première Guerre mondiale",
-    "tags": [
-     "Guerres mondiales"
-    ],
-    "w": "Ton choix · conférences longues de François Asselineau"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "UPR TV",
-    "id": "Qj5utZJm1dA",
-    "l": "fr",
-    "t": "Les origines cachées de la « construction européenne »",
-    "tags": [
-     "Europe & UE"
-    ],
-    "w": "Ton choix · conférences longues de François Asselineau"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "OverSimplified",
-    "id": "lsbcN9-jU1Y",
-    "l": "en",
-    "s": {
-     "n": 1,
-     "name": "OverSimplified – The Second Punic War"
-    },
-    "t": "The Second Punic War (Part 1)",
-    "tags": [
-     "Antiquité"
-    ],
-    "w": "Sélection de départ · grandes périodes racontées en animation"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "OverSimplified",
-    "id": "N4-iJvZ8jFs",
-    "l": "en",
-    "t": "The Russian Revolution",
-    "tags": [
-     "Époque moderne"
-    ],
-    "w": "Sélection de départ · grandes périodes racontées en animation"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "OverSimplified",
-    "id": "xBYVNjxwLHM",
-    "l": "en",
-    "t": "The War That Changed English",
-    "tags": [
-     "Histoire générale"
-    ],
-    "w": "Sélection de départ · grandes périodes racontées en animation"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Kings and Generals",
-    "id": "s40yYSWkrzk",
-    "l": "en",
-    "t": "Battle of Granicus 334 BC – Alexander's Conquests",
-    "tags": [
-     "Antiquité"
-    ],
-    "w": "Sélection de départ · histoire militaire en cartes animées"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Kings and Generals",
-    "id": "2QBA6ZPmj3Q",
-    "l": "en",
-    "t": "Pyrrhus and the Pyrrhic War",
-    "tags": [
-     "Antiquité"
-    ],
-    "w": "Sélection de départ · histoire militaire en cartes animées"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Kings and Generals",
-    "id": "mZzaaORehzs",
-    "l": "en",
-    "t": "Battle of Agincourt 1415 – Hundred Years' War",
-    "tags": [
-     "Moyen Âge"
-    ],
-    "w": "Sélection de départ · histoire militaire en cartes animées"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Kings and Generals",
-    "id": "qCfxCth9gzM",
-    "l": "en",
-    "t": "The Crusader-Mongol Alliance",
-    "tags": [
-     "Moyen Âge"
-    ],
-    "w": "Sélection de départ · histoire militaire en cartes animées"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Kings and Generals",
-    "id": "WTC8vdLGAtE",
-    "l": "en",
-    "t": "Battle of Trenton 1776 – American Independence War",
-    "tags": [
-     "Époque moderne"
-    ],
-    "w": "Sélection de départ · histoire militaire en cartes animées"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Kings and Generals",
-    "id": "akciSbEka_E",
-    "l": "en",
-    "t": "American Civil War begins with Fort Sumter and Bull Run",
-    "tags": [
-     "Époque moderne"
-    ],
-    "w": "Sélection de départ · histoire militaire en cartes animées"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Kings and Generals",
-    "id": "_jDBQijICTo",
-    "l": "en",
-    "t": "Battle of Greece and Battle of Crete – World War II",
-    "tags": [
-     "Guerres mondiales"
-    ],
-    "w": "Sélection de départ · histoire militaire en cartes animées"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Kings and Generals",
-    "id": "kPqYKZY6Iac",
-    "l": "en",
-    "s": {
-     "loose": true,
-     "n": 48,
-     "name": "Kings and Generals – Pacific War"
-    },
-    "t": "Battle for Henderson Field – Pacific War #48",
-    "tags": [
-     "Guerres mondiales"
-    ],
-    "w": "Sélection de départ · histoire militaire en cartes animées"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Autres créateurs",
-    "id": "kxfP_BSnmyw",
-    "l": "en",
-    "t": "First Crusade – Full Story, Every Battle",
-    "tags": [
-     "Moyen Âge"
-    ],
-    "w": "Sélection de départ · trouvée en cherchant ce thème"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Autres créateurs",
-    "id": "I_vNNKzwVq4",
-    "l": "en",
-    "t": "Full History of France: From Ancient Times to Today",
-    "tags": [
-     "Histoire de France"
-    ],
-    "w": "Sélection de départ · trouvée en cherchant ce thème"
-   }
-  ],
-  "label": "Histoire",
-  "order": 5
- },
- "geopol": {
-  "items": [
-   {
-    "a": "2026-11-06",
-    "c": "UPR TV",
-    "id": "Bb8dB7d3BdE",
-    "l": "fr",
-    "t": "Qui gouverne la France et l'Europe ? (version intégrale)",
-    "tags": [
-     "Europe & UE",
-     "Politique française"
-    ],
-    "w": "Ton choix · conférences longues de François Asselineau"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "UPR TV",
-    "id": "yFVClzPPyYw",
-    "l": "fr",
-    "t": "La France face au basculement du monde vers l'Asie",
-    "tags": [
-     "Politique française",
-     "Géopolitique"
-    ],
-    "w": "Ton choix · conférences longues de François Asselineau"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "UPR TV",
-    "id": "QyOxaRR7lp4",
-    "l": "fr",
-    "t": "François Asselineau – Contre le choc des civilisations",
-    "tags": [
-     "Politique française",
-     "Géopolitique"
-    ],
-    "w": "Ton choix · conférences longues de François Asselineau"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "UPR TV",
-    "id": "OxtfDaKMnrg",
-    "l": "fr",
-    "t": "« Quel avenir pour l'UE ? » à l'Université Jean-Moulin de Lyon",
-    "tags": [
-     "Géopolitique"
-    ],
-    "w": "Ton choix · conférences longues de François Asselineau"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "UPR TV",
-    "id": "D7ISb1mJBe8",
-    "l": "fr",
-    "t": "Politique, géopolitique, ZFE, DPE & présidentielle 2027",
-    "tags": [
-     "Politique française",
-     "Géopolitique"
-    ],
-    "w": "Ton choix · conférences longues de François Asselineau"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "UPR TV",
-    "id": "Vd3mDhbkstc",
-    "l": "fr",
-    "s": {
-     "loose": true,
-     "n": 116,
-     "name": "UPR TV – Directs questions-réponses"
-    },
-    "t": "Direct n°116 – François Asselineau répond à vos questions",
-    "tags": [
-     "Politique française"
-    ],
-    "w": "Ton choix · conférences longues de François Asselineau"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "UPR TV",
-    "id": "_CWNkNq_CQk",
-    "l": "fr",
-    "s": {
-     "loose": true,
-     "n": 91,
-     "name": "UPR TV – Directs questions-réponses"
-    },
-    "t": "Direct n°91 – François Asselineau répond à vos questions",
-    "tags": [
-     "Politique française"
-    ],
-    "w": "Ton choix · conférences longues de François Asselineau"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Thinkerview",
-    "id": "x8LptIHGww8",
-    "l": "fr",
-    "t": "Frexit : le destin de la France face aux dangers de l'Europe ? François Asselineau",
-    "tags": [
-     "Europe & UE",
-     "Politique française"
-    ],
-    "w": "Sélection de départ · longs entretiens sans coupe"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Thinkerview",
-    "id": "_xAZi4tJYSk",
-    "l": "fr",
-    "t": "Pensée stratégique française, ils naviguent à vue ? Hubert Védrine",
-    "tags": [
-     "Géopolitique"
-    ],
-    "w": "Sélection de départ · longs entretiens sans coupe"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Thinkerview",
-    "id": "gzlHOiqeQCY",
-    "l": "fr",
-    "t": "La République, les affaires, que peut encore faire le journalisme ? Marc Endeweld",
-    "tags": [
-     "Politique française",
-     "Médias"
-    ],
-    "w": "Sélection de départ · longs entretiens sans coupe"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Thinkerview",
-    "id": "BGVJW7lMey0",
-    "l": "fr",
-    "t": "Relever la tête et sauver le pays ? Jon de Lorraine",
-    "tags": [
-     "Géopolitique"
-    ],
-    "w": "Sélection de départ · longs entretiens sans coupe"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Thinkerview",
-    "id": "0QSlS8ifBbo",
-    "l": "fr",
-    "t": "Bruno Le Maire sans filtre",
-    "tags": [
-     "Politique française"
-    ],
-    "w": "Sélection de départ · longs entretiens sans coupe"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Sarah Knafo",
-    "id": "BngSiZt_3IM",
-    "l": "fr",
-    "t": "Débat sur l'intelligence artificielle : Sarah Knafo face à la classe politique",
-    "tags": [
-     "IA",
-     "Politique française"
-    ],
-    "w": "Ton choix · prises de parole de Sarah Knafo"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Sarah Knafo",
-    "id": "BXrbDbN7_K0",
-    "l": "fr",
-    "t": "Sarah Knafo : je réponds aux accusations de Complément d'enquête",
-    "tags": [
-     "Politique française"
-    ],
-    "w": "Ton choix · prises de parole de Sarah Knafo"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Sarah Knafo",
-    "id": "2ReP5Pb0EKw",
-    "l": "fr",
-    "t": "Sarah Knafo : « Jamais je ne ferai perdre la droite »",
-    "tags": [
-     "Politique française"
-    ],
-    "w": "Ton choix · prises de parole de Sarah Knafo"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Mister Geopolitix",
-    "id": "ExM2zIJZiWo",
-    "l": "fr",
-    "t": "Comprendre la géopolitique du Moyen-Orient en 30 min",
-    "tags": [
-     "Géopolitique"
-    ],
-    "w": "Sélection de départ · géopolitique accessible"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Mister Geopolitix",
-    "id": "3fGafkRbggk",
-    "l": "fr",
-    "t": "Mieux comprendre la RDC et le Rwanda",
-    "tags": [
-     "Géopolitique"
-    ],
-    "w": "Sélection de départ · géopolitique accessible"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Mister Geopolitix",
-    "id": "fUQvUOwu6es",
-    "l": "fr",
-    "t": "Comment cartographier notre planète ?",
-    "tags": [
-     "Géographie & cartes"
-    ],
-    "w": "Sélection de départ · géopolitique accessible"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Mister Geopolitix",
-    "id": "oYZhXPaNR2w",
-    "l": "fr",
-    "t": "Voici pourquoi l'humain crée des fake news (8 raisons)",
-    "tags": [
-     "Géopolitique"
-    ],
-    "w": "Sélection de départ · géopolitique accessible"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Mister Geopolitix",
-    "id": "HLlEALjQKOY",
-    "l": "fr",
-    "t": "La réalité du métier d'humanitaire",
-    "tags": [
-     "Géopolitique"
-    ],
-    "w": "Sélection de départ · géopolitique accessible"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "VA Plus",
-    "id": "WiTBG_T-c1E",
-    "l": "fr",
-    "t": "Notre vidéo la plus importante",
-    "tags": [
-     "Géopolitique"
-    ],
-    "w": "Ton choix · format magazine de VA Plus"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "VA Plus",
-    "id": "O923StevMR8",
-    "l": "fr",
-    "t": "La vidéo la plus importante de notre chaîne",
-    "tags": [
-     "Géopolitique"
-    ],
-    "w": "Ton choix · format magazine de VA Plus"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "LEGEND",
-    "id": "0855lIq1Hg4",
-    "l": "fr",
-    "t": "Guillaume Pley dévoile comment fonctionne le média LEGEND à Mathieu Kassovitz",
-    "tags": [
-     "Médias"
-    ],
-    "w": "Ton choix · grands entretiens"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "LEGEND",
-    "id": "x3b4qQVx0NM",
-    "l": "fr",
-    "t": "Journaliste pour Brut : pourquoi on ne fait plus confiance aux médias ?",
-    "tags": [
-     "Médias"
-    ],
-    "w": "Ton choix · grands entretiens"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "RealLifeLore",
-    "id": "BubAF7KSs64",
-    "l": "en",
-    "t": "How Geography Made The US Ridiculously OP",
-    "tags": [
-     "Géographie & cartes"
-    ],
-    "w": "Sélection de départ · géographie et géopolitique"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "RealLifeLore",
-    "id": "ki-hoy-3ea8",
-    "l": "en",
-    "t": "How 1 Photo From Space Explains ALL of History",
-    "tags": [
-     "Géopolitique"
-    ],
-    "w": "Sélection de départ · géographie et géopolitique"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "RealLifeLore",
-    "id": "ZfFvLJyPf3o",
-    "l": "en",
-    "t": "How Earth's Geography Will Change With Climate Change",
-    "tags": [
-     "Climat & CO2",
-     "Géographie & cartes"
-    ],
-    "w": "Sélection de départ · géographie et géopolitique"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "RealLifeLore",
-    "id": "W9fnmLPpAvM",
-    "l": "en",
-    "t": "Why South America's Geography is Way Weirder Than You Think",
-    "tags": [
-     "Géographie & cartes"
-    ],
-    "w": "Sélection de départ · géographie et géopolitique"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "RealLifeLore",
-    "id": "dVpEEBcE8tc",
-    "l": "en",
-    "t": "Why New Orleans' Geography Sucks",
-    "tags": [
-     "Géographie & cartes"
-    ],
-    "w": "Sélection de départ · géographie et géopolitique"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "RealLifeLore",
-    "id": "eAL1kYjsVHE",
-    "l": "en",
-    "t": "Why Mexico City's Geography Sucks",
-    "tags": [
-     "Géographie & cartes"
-    ],
-    "w": "Sélection de départ · géographie et géopolitique"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "RealLifeLore",
-    "id": "pySHMxf_Qvk",
-    "l": "en",
-    "t": "How Maps Lie To You",
-    "tags": [
-     "Géographie & cartes"
-    ],
-    "w": "Sélection de départ · géographie et géopolitique"
-   }
-  ],
-  "label": "Géopolitique & politique",
-  "order": 6
- },
  "energie": {
   "items": [
    {
     "a": "2026-11-06",
     "c": "Jean-Marc Jancovici",
+    "d": 9149,
     "id": "xgy0rW0oaFI",
     "l": "fr",
+    "p": "2019-07-30",
     "s": {
      "n": 1,
      "name": "Jancovici – Cours des Mines 2019"
@@ -2090,8 +592,10 @@
    {
     "a": "2026-11-06",
     "c": "Jean-Marc Jancovici",
+    "d": 8282,
     "id": "Z4teA8ciuRU",
     "l": "fr",
+    "p": "2019-08-09",
     "s": {
      "n": 7,
      "name": "Jancovici – Cours des Mines 2019"
@@ -2105,8 +609,10 @@
    {
     "a": "2026-11-06",
     "c": "Jean-Marc Jancovici",
+    "d": 4607,
     "id": "zd_BYpDxWnk",
     "l": "fr",
+    "p": "2013-02-26",
     "s": {
      "n": 1,
      "name": "Jancovici – Cours énergie-climat Mines 2008"
@@ -2126,13 +632,16 @@
     "tags": [
      "Énergie"
     ],
-    "w": "Ton choix · énergie et climat par Jancovici"
+    "w": "Ton choix · énergie et climat par Jancovici",
+    "x": 1
    },
    {
     "a": "2026-11-06",
     "c": "Jean-Marc Jancovici",
+    "d": 268,
     "id": "WD17wqllAGU",
     "l": "fr",
+    "p": "2026-08-09",
     "t": "Masterclass de Jancovici, à connaître",
     "tags": [
      "Énergie"
@@ -2142,8 +651,10 @@
    {
     "a": "2026-11-06",
     "c": "Jean-Marc Jancovici",
+    "d": 711,
     "id": "LX0h1iypJno",
     "l": "fr",
+    "p": "2025-04-19",
     "t": "Masterclass de Jancovici sur l'énergie",
     "tags": [
      "Énergie"
@@ -2153,8 +664,10 @@
    {
     "a": "2026-11-06",
     "c": "Jean-Marc Jancovici",
+    "d": 1013,
     "id": "7jtMpFT-NFg",
     "l": "fr",
+    "p": "2025-11-30",
     "t": "La masterclass de Jancovici sur l'effondrement énergétique",
     "tags": [
      "Énergie"
@@ -2164,8 +677,10 @@
    {
     "a": "2026-11-06",
     "c": "Jean-Marc Jancovici",
+    "d": 515,
     "id": "IGvXTbvIczo",
     "l": "fr",
+    "p": "2025-11-09",
     "t": "Le plan radical de Jancovici pour sauver la France sans argent",
     "tags": [
      "Énergie"
@@ -2181,13 +696,16 @@
     "tags": [
      "Énergie"
     ],
-    "w": "Ton choix · énergie et climat par Jancovici"
+    "w": "Ton choix · énergie et climat par Jancovici",
+    "x": 1
    },
    {
     "a": "2026-11-06",
     "c": "Jean-Marc Jancovici",
+    "d": 5843,
     "id": "W1b2NLTDxNs",
     "l": "fr",
+    "p": "2023-06-07",
     "t": "Énergies, climat, souveraineté et sécurité – École de guerre",
     "tags": [
      "Climat & CO2",
@@ -2198,8 +716,10 @@
    {
     "a": "2026-11-06",
     "c": "Jean-Marc Jancovici",
+    "d": 7205,
     "id": "PYDNV0Ro1x0",
     "l": "fr",
+    "p": "2023-11-29",
     "t": "Conférence de Jean-Marc Jancovici à CentraleSupélec",
     "tags": [
      "Énergie"
@@ -2209,8 +729,10 @@
    {
     "a": "2026-11-06",
     "c": "Jean-Marc Jancovici",
+    "d": 5222,
     "id": "dV8E6O35_v8",
     "l": "fr",
+    "p": "2023-11-16",
     "t": "Quelle Suisse dans un monde neutre en carbone ?",
     "tags": [
      "Climat & CO2"
@@ -2220,8 +742,10 @@
    {
     "a": "2026-11-06",
     "c": "Jean-Marc Jancovici",
+    "d": 3790,
     "id": "nTrwE--ousk",
     "l": "fr",
+    "p": "2023-10-09",
     "t": "Transition énergétique : introduction (GART-UTP)",
     "tags": [
      "Énergie"
@@ -2231,8 +755,10 @@
    {
     "a": "2026-11-06",
     "c": "Jean-Marc Jancovici",
+    "d": 8619,
     "id": "yjHsLBLLRKU",
     "l": "en",
+    "p": "2021-03-24",
     "s": {
      "n": 3,
      "name": "Jancovici – Mines ParisTech course (EN)"
@@ -2246,8 +772,10 @@
    {
     "a": "2026-11-06",
     "c": "Le Réveilleur",
+    "d": 7041,
     "id": "NkFy93m-s4c",
     "l": "fr",
+    "p": "2020-10-16",
     "t": "Climat et énergie : problèmes et solutions avec Rodolphe (Le Réveilleur)",
     "tags": [
      "Climat & CO2",
@@ -2258,8 +786,10 @@
    {
     "a": "2026-11-06",
     "c": "Le Réveilleur",
+    "d": 839,
     "id": "GVJRZqI6h2k",
     "l": "fr",
+    "p": "2022-07-17",
     "t": "Qui réchauffe le climat (et comment) ? (avec Le Réveilleur)",
     "tags": [
      "Climat & CO2"
@@ -2269,8 +799,10 @@
    {
     "a": "2026-11-06",
     "c": "Le Réveilleur",
+    "d": 745,
     "id": "sDxvadwizw8",
     "l": "fr",
+    "p": "2023-04-23",
     "t": "La France émet trop de CO2, voici comment (avec Le Réveilleur)",
     "tags": [
      "Climat & CO2"
@@ -2280,8 +812,10 @@
    {
     "a": "2026-11-06",
     "c": "Le Réveilleur",
+    "d": 597,
     "id": "JQDRb7jE9qQ",
     "l": "fr",
+    "p": "2024-03-03",
     "t": "Climat : les riches polluent plus que les pauvres ? (avec Le Réveilleur)",
     "tags": [
      "Climat & CO2"
@@ -2291,8 +825,10 @@
    {
     "a": "2026-11-06",
     "c": "Le Réveilleur",
+    "d": 5305,
     "id": "TH6vzuDnjOw",
     "l": "fr",
+    "p": "2022-04-06",
     "t": "De quelles énergies a-t-on besoin ? Avec Le Réveilleur et Stéphane Sarrade",
     "tags": [
      "Énergie"
@@ -2302,185 +838,2141 @@
    {
     "a": "2026-11-06",
     "c": "Le Réveilleur",
+    "d": 5286,
     "id": "BBPBF5Q1Euc",
     "l": "fr",
+    "p": "2024-10-14",
     "t": "6 fois où Jancovici se trompe (avec Le Réveilleur)",
     "tags": [
      "Énergie"
     ],
     "w": "Sélection de départ · climat et énergie, sources à l'appui"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Oceanverse",
+    "d": 735,
+    "id": "zfZ4nI8AiPA",
+    "l": "fr",
+    "p": "2026-11-05",
+    "t": "TUGAS 7 PKM",
+    "tags": [
+     "Énergie"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Oceanverse",
+    "d": 877,
+    "id": "pLZiXuRZmpA",
+    "l": "fr",
+    "p": "2026-11-05",
+    "t": "TUGAS 6 PKM",
+    "tags": [
+     "Énergie"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Oceanverse",
+    "d": 980,
+    "id": "sBdfNniC-NI",
+    "l": "fr",
+    "p": "2026-10-30",
+    "t": "TUGAS 5 PKM",
+    "tags": [
+     "Énergie"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Oceanverse",
+    "d": 1071,
+    "id": "WLeT2bnqCjA",
+    "l": "fr",
+    "p": "2026-10-12",
+    "t": "TUGAS 3 PKM",
+    "tags": [
+     "Énergie"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Oceanverse",
+    "d": 605,
+    "id": "OrQbDfBbRh8",
+    "l": "fr",
+    "p": "2026-10-08",
+    "t": "TUGAS 2 PKM BURHAN 877603606",
+    "tags": [
+     "Énergie"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Oceanverse",
+    "d": 1107,
+    "id": "T8MGfBHjOso",
+    "l": "fr",
+    "p": "2026-10-01",
+    "t": "TUGAS 1 PKM BURHAN 877603606",
+    "tags": [
+     "Énergie"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Jean-Marc Jancovici",
+    "d": 855,
+    "id": "ISc7hjTWUR0",
+    "l": "fr",
+    "p": "2026-10-19",
+    "t": "Jancovici : pourquoi nos dirigeants ne voient pas venir la crise",
+    "tags": [
+     "Énergie"
+    ],
+    "w": "Ton choix · énergie et climat par Jancovici"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Jean-Marc Jancovici",
+    "d": 982,
+    "id": "cG5Ei7hQU6A",
+    "l": "fr",
+    "p": "2026-10-16",
+    "t": "JANCOVICI face à BFMTV : « Vous croyez vraiment que la technologie va nous sauver ? »",
+    "tags": [
+     "Énergie"
+    ],
+    "w": "Ton choix · énergie et climat par Jancovici"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Jean-Marc Jancovici",
+    "d": 9302,
+    "id": "1NHPgrH5lcQ",
+    "l": "fr",
+    "p": "2019-07-30",
+    "s": {
+     "n": 2,
+     "name": "Jancovici – Cours des Mines 2019"
+    },
+    "t": "2 - Les énergies fossiles - Cours des Mines 2019 - Jancovici -  [EN subtitles available]",
+    "tags": [
+     "Énergie"
+    ],
+    "w": "Fait partie d'une série · énergie et climat par Jancovici"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Jean-Marc Jancovici",
+    "d": 8619,
+    "id": "l8pdSClyRds",
+    "l": "fr",
+    "p": "2019-07-30",
+    "s": {
+     "n": 3,
+     "name": "Jancovici – Cours des Mines 2019"
+    },
+    "t": "3 - Le changement climatique (1) - Cours des Mines 2019  - Jancovici -  [EN subtitles available]",
+    "tags": [
+     "Climat & CO2"
+    ],
+    "w": "Fait partie d'une série · énergie et climat par Jancovici"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Jean-Marc Jancovici",
+    "d": 9099,
+    "id": "JKoRsO5fkAQ",
+    "l": "fr",
+    "p": "2019-07-31",
+    "s": {
+     "n": 4,
+     "name": "Jancovici – Cours des Mines 2019"
+    },
+    "t": "4 - Le changement climatique (2) - Cours des Mines 2019 - Jancovici -  [EN subtitles available]",
+    "tags": [
+     "Climat & CO2"
+    ],
+    "w": "Fait partie d'une série · énergie et climat par Jancovici"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Jean-Marc Jancovici",
+    "d": 9616,
+    "id": "PEY6LmscKc4",
+    "l": "fr",
+    "p": "2019-07-31",
+    "s": {
+     "n": 5,
+     "name": "Jancovici – Cours des Mines 2019"
+    },
+    "t": "5 - Les économies d'énergie - Cours des Mines 2019 - Jancovici -  [EN subtitles available]",
+    "tags": [
+     "Énergie"
+    ],
+    "w": "Fait partie d'une série · énergie et climat par Jancovici"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Jean-Marc Jancovici",
+    "d": 7803,
+    "id": "t0Xp6CCte0U",
+    "l": "fr",
+    "p": "2019-07-31",
+    "s": {
+     "n": 6,
+     "name": "Jancovici – Cours des Mines 2019"
+    },
+    "t": "6 - Le nucléaire - Cours des Mines 2019 - Jancovici -  [EN subtitles available]",
+    "tags": [
+     "Nucléaire"
+    ],
+    "w": "Fait partie d'une série · énergie et climat par Jancovici"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Jean-Marc Jancovici",
+    "d": 3458,
+    "id": "R4JquwLmDGc",
+    "l": "fr",
+    "p": "2013-02-26",
+    "s": {
+     "n": 2,
+     "name": "Jancovici – Cours énergie-climat Mines 2008"
+    },
+    "t": "Jancovici Cours 1-2 \"Du big bang (ou presque) à nos jours\" Mines2008",
+    "tags": [
+     "Énergie"
+    ],
+    "w": "Fait partie d'une série · énergie et climat par Jancovici"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Jean-Marc Jancovici",
+    "d": 4098,
+    "id": "q93M5tzi_wI",
+    "l": "fr",
+    "p": "2013-02-26",
+    "s": {
+     "n": 3,
+     "name": "Jancovici – Cours énergie-climat Mines 2008"
+    },
+    "t": "Jancovici Cours 2-1 \"Pétrole apocalypse ou carbon paradise?\" Mines2008",
+    "tags": [
+     "Énergie"
+    ],
+    "w": "Fait partie d'une série · énergie et climat par Jancovici"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Jean-Marc Jancovici",
+    "d": 3998,
+    "id": "YN6KhRjfNzg",
+    "l": "fr",
+    "p": "2013-02-26",
+    "s": {
+     "n": 4,
+     "name": "Jancovici – Cours énergie-climat Mines 2008"
+    },
+    "t": "Jancovici Cours 2-2 \"Pétrole apocalypse ou carbon paradise?\" Mines2008",
+    "tags": [
+     "Énergie"
+    ],
+    "w": "Fait partie d'une série · énergie et climat par Jancovici"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Jean-Marc Jancovici",
+    "d": 4049,
+    "id": "BWONiJZaZjs",
+    "l": "fr",
+    "p": "2013-02-26",
+    "s": {
+     "n": 5,
+     "name": "Jancovici – Cours énergie-climat Mines 2008"
+    },
+    "t": "Jancovici Cours 3-1 \"Quel climat pour (après)demain ?\" Mines2008",
+    "tags": [
+     "Climat & CO2"
+    ],
+    "w": "Fait partie d'une série · énergie et climat par Jancovici"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Jean-Marc Jancovici",
+    "d": 4115,
+    "id": "TfzNXCkSZ4s",
+    "l": "fr",
+    "p": "2013-02-26",
+    "s": {
+     "n": 6,
+     "name": "Jancovici – Cours énergie-climat Mines 2008"
+    },
+    "t": "Jancovici Cours 3-2 \"Quel climat pour (après)demain ?\" Mines2008",
+    "tags": [
+     "Climat & CO2"
+    ],
+    "w": "Fait partie d'une série · énergie et climat par Jancovici"
    }
   ],
   "label": "Énergie & climat",
   "order": 7
  },
- "philo": {
+ "finance": {
   "items": [
    {
     "a": "2026-11-06",
-    "c": "Monsieur Phi",
-    "id": "Uu6K0uR9bus",
+    "c": "Finary",
+    "d": 1661,
+    "id": "x7z5TGO_2gI",
     "l": "fr",
-    "t": "La morale des gens heureux : l'utilitarisme",
+    "p": "2024-09-29",
+    "t": "Un banquier privé Finary analyse ce patrimoine de 850 k€",
     "tags": [
-     "Philosophie morale"
+     "Patrimoine"
     ],
-    "w": "Sélection de départ · philosophie par un prof de philo"
+    "w": "Ton choix · patrimoine et investissement expliqués"
    },
    {
     "a": "2026-11-06",
-    "c": "Monsieur Phi",
-    "id": "FhuF81yJOUI",
+    "c": "Finary",
+    "d": 1150,
+    "id": "ezKgGybwI5Q",
     "l": "fr",
-    "t": "La philo morale",
+    "p": "2024-01-26",
+    "t": "Je réponds aux critiques et aux questions sur Finary en toute transparence",
     "tags": [
-     "Philosophie morale"
+     "Bourse"
     ],
-    "w": "Sélection de départ · philosophie par un prof de philo"
+    "w": "Ton choix · patrimoine et investissement expliqués"
    },
    {
     "a": "2026-11-06",
-    "c": "Monsieur Phi",
-    "id": "LfhoynwQ3oA",
+    "c": "Finary",
+    "d": 87,
+    "id": "X2gfYyOPkdo",
     "l": "fr",
-    "t": "Un philosophe note des scènes cultes de science-fiction",
+    "p": "2025-04-23",
+    "t": "Le Chrono Finary – extrait Finary Talk avec Éric Bertrand",
     "tags": [
-     "Philosophie morale"
+     "Bourse"
     ],
-    "w": "Sélection de départ · philosophie par un prof de philo"
+    "w": "Ton choix · patrimoine et investissement expliqués"
    },
    {
     "a": "2026-11-06",
-    "c": "Le Précepteur",
-    "id": "fI61MzGgI2M",
+    "c": "Finary",
+    "d": 43,
+    "id": "hI0lBinHr4c",
     "l": "fr",
-    "t": "Le stoïcisme, c'est quoi ?",
+    "p": "2025-02-23",
+    "t": "Créer une holding pour booster son patrimoine",
     "tags": [
-     "Philosophie morale"
+     "Patrimoine"
     ],
-    "w": "Sélection de départ · philosophie par un prof de philo"
+    "w": "Ton choix · patrimoine et investissement expliqués"
    },
    {
     "a": "2026-11-06",
-    "c": "Le Précepteur",
-    "id": "g1C5OSuP66Q",
+    "c": "Finary",
+    "d": 1181,
+    "id": "H8AE10PY_G0",
     "l": "fr",
-    "t": "Spinoza est putaclic – avec Le Précepteur",
+    "p": "2026-02-11",
+    "t": "J'enquête sur la fin de la retraite",
     "tags": [
-     "Philosophie morale"
+     "Patrimoine"
     ],
-    "w": "Sélection de départ · philosophie par un prof de philo"
+    "w": "Ton choix · patrimoine et investissement expliqués"
    },
    {
     "a": "2026-11-06",
-    "c": "Le Précepteur",
-    "id": "Cf2Vf8RJZfg",
+    "c": "Finary",
+    "d": 792,
+    "id": "zOmxjdwVzwM",
     "l": "fr",
-    "t": "Réconcilier le corps et l'esprit",
+    "p": "2024-06-21",
+    "t": "Finary crypto : investir de manière passive (frais, risque)",
     "tags": [
-     "Philosophie morale"
+     "ETF & placement",
+     "Crypto"
     ],
-    "w": "Sélection de départ · philosophie par un prof de philo"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Le Précepteur",
-    "id": "P0iVVOPElaA",
-    "l": "fr",
-    "t": "La manipulation pour 2027 a déjà commencé : un philosophe explique",
-    "tags": [
-     "Philosophie morale"
-    ],
-    "w": "Sélection de départ · philosophie par un prof de philo"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Le Mock",
-    "id": "IOF_-dCt11E",
-    "l": "fr",
-    "t": "Comment Théophile Gautier a inventé « Delacroix »",
-    "tags": [
-     "Littérature"
-    ],
-    "w": "Sélection de départ · littérature classique"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Le Mock",
-    "id": "zWEDZaGW7NE",
-    "l": "fr",
-    "t": "Les classiques de la littérature ne l'ont pas toujours été",
-    "tags": [
-     "Littérature"
-    ],
-    "w": "Sélection de départ · littérature classique"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Le Mock",
-    "id": "ntnitckAgWA",
-    "l": "fr",
-    "t": "Conférence : ces classiques qui nous parlent d'aujourd'hui",
-    "tags": [
-     "Littérature"
-    ],
-    "w": "Sélection de départ · littérature classique"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Le Mock",
-    "id": "tGHh8L5BFZM",
-    "l": "fr",
-    "t": "Le plus grand roman du XXe siècle ?",
-    "tags": [
-     "Littérature"
-    ],
-    "w": "Sélection de départ · littérature classique"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Linguisticae",
-    "id": "C4e_EEPHml0",
-    "l": "fr",
-    "t": "L'histoire des langues",
-    "tags": [
-     "Langue française"
-    ],
-    "w": "Sélection de départ · linguistique"
+    "w": "Ton choix · patrimoine et investissement expliqués"
    },
    {
     "a": "2026-11-06",
     "c": "Autres créateurs",
-    "id": "STFg1rMn2Hk",
+    "c2": "Matthieu Louvet - S'investir",
+    "d": 4329,
+    "id": "cCKtMLlcJ_k",
     "l": "fr",
-    "t": "La story de la langue française",
+    "p": "2026-01-22",
+    "t": "Comment s'enrichir en partant de 0 en 2026 ? (avec Finary)",
     "tags": [
-     "Langue française"
+     "Patrimoine"
+    ],
+    "w": "Invité d'une chaîne que tu suis · trouvée en cherchant ce thème"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Finary",
+    "d": 1667,
+    "id": "IoEDYSOmhxQ",
+    "l": "fr",
+    "p": "2025-10-05",
+    "t": "J'ai rarement vu une telle maturité financière – analyse de patrimoine",
+    "tags": [
+     "Patrimoine"
     ],
     "w": "Sélection de départ · trouvée en cherchant ce thème"
    },
    {
     "a": "2026-11-06",
     "c": "Autres créateurs",
-    "id": "Ji_WjbCB8tc",
+    "c2": "Canopi",
+    "d": 949,
+    "id": "Q_qTohy15jY",
     "l": "fr",
-    "t": "Histoire du français",
+    "p": "2025-03-24",
+    "t": "J'analyse le patrimoine de Mounir Laggoune (CEO Finary)",
     "tags": [
-     "Langue française"
+     "Patrimoine"
+    ],
+    "w": "Invité d'une chaîne que tu suis · trouvée en cherchant ce thème"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Autres créateurs",
+    "c2": "Finary Clips",
+    "d": 673,
+    "id": "ew75dePb1Bg",
+    "l": "fr",
+    "p": "2025-12-07",
+    "t": "Silver économie : l'opportunité d'investissement que tout le monde sous-estime",
+    "tags": [
+     "ETF & placement",
+     "Capitalisme & croissance"
     ],
     "w": "Sélection de départ · trouvée en cherchant ce thème"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Autres créateurs",
+    "c2": "Finary Clips",
+    "d": 482,
+    "id": "MbFvVXVDbc4",
+    "l": "fr",
+    "p": "2025-10-15",
+    "t": "Comment construire un portefeuille solide face à tous les scénarios économiques",
+    "tags": [
+     "ETF & placement"
+    ],
+    "w": "Sélection de départ · trouvée en cherchant ce thème"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Autres créateurs",
+    "c2": "Finary Clips",
+    "d": 631,
+    "id": "K_RS1crfCJE",
+    "l": "fr",
+    "p": "2026-04-28",
+    "t": "Investir dans les émergents : comprendre leur sous-performance et le tournant actuel",
+    "tags": [
+     "ETF & placement"
+    ],
+    "w": "Sélection de départ · trouvée en cherchant ce thème"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Autres créateurs",
+    "c2": "Finary Clips",
+    "d": 390,
+    "id": "X97dza_0Eho",
+    "l": "fr",
+    "p": "2025-11-23",
+    "t": "ETF, gestion passive et Smart Beta : comprendre les nouvelles stratégies",
+    "tags": [
+     "Bourse",
+     "ETF & placement"
+    ],
+    "w": "Sélection de départ · trouvée en cherchant ce thème"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Finary",
+    "d": 3739,
+    "id": "RUnmQuTOHCI",
+    "l": "fr",
+    "p": "2024-02-28",
+    "t": "Tout savoir sur l'investissement via des ETF",
+    "tags": [
+     "ETF & placement"
+    ],
+    "w": "Sélection de départ · trouvée en cherchant ce thème"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Nicolas Chéron",
+    "d": 3582,
+    "id": "mHLeGENZ0BY",
+    "l": "fr",
+    "p": "2026-01-06",
+    "t": "La stratégie d'investissement 70/20/10",
+    "tags": [
+     "Bourse",
+     "ETF & placement"
+    ],
+    "w": "Ton choix · stratégie boursière et lecture des marchés"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Nicolas Chéron",
+    "d": 3802,
+    "id": "A9sxs4-6rnc",
+    "l": "fr",
+    "p": "2024-06-13",
+    "t": "L'art de gagner en Bourse",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Ton choix · stratégie boursière et lecture des marchés"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Nicolas Chéron",
+    "d": 5500,
+    "id": "NXH6Qz0glPE",
+    "l": "fr",
+    "p": "2021-11-20",
+    "t": "Les meilleures stratégies pour gagner en Bourse",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Ton choix · stratégie boursière et lecture des marchés"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Nicolas Chéron",
+    "d": 7192,
+    "id": "RS4RfSGDJS8",
+    "l": "fr",
+    "p": "2026-03-23",
+    "t": "L'analyse fondamentale est-elle un piège ?",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Ton choix · stratégie boursière et lecture des marchés"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Nicolas Chéron",
+    "d": 26,
+    "id": "D5C34hHEqZ0",
+    "l": "fr",
+    "p": "2023-06-21",
+    "t": "Adapter sa stratégie au contexte du marché",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Ton choix · stratégie boursière et lecture des marchés"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Nicolas Chéron",
+    "d": 4745,
+    "id": "ENU5X7Ks3Wk",
+    "l": "fr",
+    "p": "2023-12-21",
+    "t": "Investir dans l'énergie, avec Nicolas Chéron",
+    "tags": [
+     "ETF & placement",
+     "Énergie"
+    ],
+    "w": "Ton choix · stratégie boursière et lecture des marchés"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Nicolas Chéron",
+    "d": 3496,
+    "id": "38-_-3yrZX0",
+    "l": "fr",
+    "p": "2026-10-20",
+    "t": "Point de marché avec Nicolas Chéron",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Ton choix · stratégie boursière et lecture des marchés"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Nicolas Chéron",
+    "d": 3384,
+    "id": "8lf68YZ-dyg",
+    "l": "fr",
+    "p": "2023-06-14",
+    "t": "Les marchés en live avec Nicolas Chéron",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Ton choix · stratégie boursière et lecture des marchés"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Nicolas Chéron",
+    "d": 477,
+    "id": "OessHBf18Q8",
+    "l": "fr",
+    "p": "2021-07-01",
+    "t": "Zonebourse : « Prendre quelques bénéfices avant les vacances »",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Ton choix · stratégie boursière et lecture des marchés"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Nicolas Chéron",
+    "d": 530,
+    "id": "n1zxTBdoE34",
+    "l": "fr",
+    "p": "2018-01-09",
+    "t": "Nicolas Chéron fait un point sur l'actu des marchés",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Ton choix · stratégie boursière et lecture des marchés"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Nicolas Chéron",
+    "d": 2727,
+    "e": 0,
+    "id": "F0j3Q6uFBko",
+    "l": "fr",
+    "p": "2026-03-07",
+    "t": "Nicolas Chéron : « J'ai tout arrêté en plein krach »",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Ton choix · stratégie boursière et lecture des marchés"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Patrick Boyle",
+    "d": 4807,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "_6REqWXy6JM",
+    "l": "en",
+    "p": "2023-02-08",
+    "t": "Lessons from Financial History and False Expectations in the Markets",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Sélection de départ · ex-gérant de fonds, finance et marchés"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Patrick Boyle",
+    "d": 3344,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "MloKMQx6slo",
+    "l": "en",
+    "p": "2024-08-19",
+    "t": "Is Modern Capitalism Broken?",
+    "tags": [
+     "Capitalisme & croissance"
+    ],
+    "w": "Sélection de départ · ex-gérant de fonds, finance et marchés"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Patrick Boyle",
+    "d": 39,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "4pNQRI3LXEU",
+    "l": "en",
+    "p": "2026-06-19",
+    "t": "The Real Problem Is Accounting, Not Politics",
+    "tags": [
+     "Capitalisme & croissance"
+    ],
+    "w": "Sélection de départ · ex-gérant de fonds, finance et marchés"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Patrick Boyle",
+    "d": 3173,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "HrggKazP2zk",
+    "l": "en",
+    "p": "2026-07-20",
+    "t": "SpaceX, Europe's China Problem, and the Populist Backlash",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Sélection de départ · ex-gérant de fonds, finance et marchés"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Patrick Boyle",
+    "d": 1496,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "fhsrkvEY55s",
+    "l": "en",
+    "p": "2025-12-08",
+    "t": "The Infinite Money Glitch is Broken!",
+    "tags": [
+     "Monnaie & banques centrales"
+    ],
+    "w": "Sélection de départ · ex-gérant de fonds, finance et marchés"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "The Plain Bagel",
+    "d": 794,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "QFj7gVatEeM",
+    "l": "en",
+    "p": "2021-05-07",
+    "t": "What Exactly Are Hedge Funds (And Why Are They Always Causing Problems)?",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Sélection de départ · bases de l'investissement, analyste financier"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "The Plain Bagel",
+    "d": 772,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "NeTsh--UEe4",
+    "l": "en",
+    "p": "2021-02-12",
+    "t": "Should You Invest With An Advisor?",
+    "tags": [
+     "ETF & placement"
+    ],
+    "w": "Sélection de départ · bases de l'investissement, analyste financier"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "The Plain Bagel",
+    "d": 545,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "I81xqr8HzBE",
+    "l": "en",
+    "p": "2017-09-15",
+    "t": "The Fundamentals",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Sélection de départ · bases de l'investissement, analyste financier"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "The Plain Bagel",
+    "d": 529,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "T1cqSZUviiQ",
+    "l": "en",
+    "p": "2018-05-11",
+    "t": "Investing",
+    "tags": [
+     "Bourse",
+     "ETF & placement"
+    ],
+    "w": "Sélection de départ · bases de l'investissement, analyste financier"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "The Plain Bagel",
+    "d": 471,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "vZCGsi5pfso",
+    "l": "en",
+    "p": "2017-10-13",
+    "t": "Stocks",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Sélection de départ · bases de l'investissement, analyste financier"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Finary",
+    "d": 1128,
+    "id": "xzwRbCd7Ezc",
+    "l": "fr",
+    "p": "2026-11-11",
+    "t": "La vie folle de la famille la plus riche d'Espagne",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Ton choix · patrimoine et investissement expliqués"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Finary",
+    "d": 2763,
+    "id": "4-YzPNa2P70",
+    "l": "fr",
+    "p": "2026-11-08",
+    "t": "Deux concurrents, un détecteur de mensonges, 23 questions",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Ton choix · patrimoine et investissement expliqués"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Finary",
+    "d": 1087,
+    "id": "b_f-jeRMss4",
+    "l": "fr",
+    "p": "2026-11-06",
+    "t": "BYD : le géant qu'Elon Musk n'a pas vu venir",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Ton choix · patrimoine et investissement expliqués"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Nicolas Chéron",
+    "d": 1339,
+    "id": "ECvZGX10W-Q",
+    "l": "fr",
+    "p": "2026-11-05",
+    "t": "ETF : l’outil le plus puissant de la finance moderne",
+    "tags": [
+     "ETF & placement"
+    ],
+    "w": "Ton choix · stratégie boursière et lecture des marchés"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Nicolas Chéron",
+    "d": 2135,
+    "id": "48_vsgqhgZQ",
+    "l": "fr",
+    "p": "2026-10-25",
+    "t": "Retraites : ces 5 pays ont réglé le problème",
+    "tags": [
+     "Patrimoine"
+    ],
+    "w": "Ton choix · stratégie boursière et lecture des marchés"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Nicolas Chéron",
+    "d": 1472,
+    "id": "c4D7EfmUlVs",
+    "l": "fr",
+    "p": "2026-10-17",
+    "t": "Comment j'analyse une action en quelques clics (ProRealTime)",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Ton choix · stratégie boursière et lecture des marchés"
    }
   ],
-  "label": "Philo, lettres & langue",
-  "order": 8
+  "label": "Finance & bourse",
+  "order": 0
+ },
+ "geopol": {
+  "items": [
+   {
+    "a": "2026-11-06",
+    "c": "UPR TV",
+    "d": 15328,
+    "id": "Bb8dB7d3BdE",
+    "l": "fr",
+    "p": "2013-01-22",
+    "t": "Qui gouverne la France et l'Europe ? (version intégrale)",
+    "tags": [
+     "Europe & UE",
+     "Politique française"
+    ],
+    "w": "Ton choix · conférences longues de François Asselineau"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "UPR TV",
+    "d": 10354,
+    "id": "yFVClzPPyYw",
+    "l": "fr",
+    "p": "2026-10-23",
+    "t": "La France face au basculement du monde vers l'Asie",
+    "tags": [
+     "Politique française",
+     "Géopolitique"
+    ],
+    "w": "Ton choix · conférences longues de François Asselineau"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "UPR TV",
+    "d": 1864,
+    "id": "QyOxaRR7lp4",
+    "l": "fr",
+    "p": "2026-08-09",
+    "t": "François Asselineau – Contre le choc des civilisations",
+    "tags": [
+     "Politique française",
+     "Géopolitique"
+    ],
+    "w": "Ton choix · conférences longues de François Asselineau"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "UPR TV",
+    "d": 6680,
+    "id": "OxtfDaKMnrg",
+    "l": "fr",
+    "p": "2020-01-23",
+    "t": "« Quel avenir pour l'UE ? » à l'Université Jean-Moulin de Lyon",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Ton choix · conférences longues de François Asselineau"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "UPR TV",
+    "d": 6455,
+    "id": "D7ISb1mJBe8",
+    "l": "fr",
+    "p": "2025-07-01",
+    "t": "Politique, géopolitique, ZFE, DPE & présidentielle 2027",
+    "tags": [
+     "Politique française",
+     "Géopolitique"
+    ],
+    "w": "Ton choix · conférences longues de François Asselineau"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "UPR TV",
+    "d": 8211,
+    "id": "Vd3mDhbkstc",
+    "l": "fr",
+    "p": "2026-06-17",
+    "s": {
+     "loose": true,
+     "n": 116,
+     "name": "UPR TV – Directs questions-réponses"
+    },
+    "t": "Direct n°116 – François Asselineau répond à vos questions",
+    "tags": [
+     "Politique française"
+    ],
+    "w": "Ton choix · conférences longues de François Asselineau"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "UPR TV",
+    "d": 7452,
+    "id": "_CWNkNq_CQk",
+    "l": "fr",
+    "p": "2025-12-17",
+    "s": {
+     "loose": true,
+     "n": 91,
+     "name": "UPR TV – Directs questions-réponses"
+    },
+    "t": "Direct n°91 – François Asselineau répond à vos questions",
+    "tags": [
+     "Politique française"
+    ],
+    "w": "Ton choix · conférences longues de François Asselineau"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Thinkerview",
+    "d": 12035,
+    "id": "x8LptIHGww8",
+    "l": "fr",
+    "p": "2024-12-19",
+    "t": "Frexit : le destin de la France face aux dangers de l'Europe ? François Asselineau",
+    "tags": [
+     "Europe & UE",
+     "Politique française"
+    ],
+    "w": "Sélection de départ · longs entretiens sans coupe"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Thinkerview",
+    "d": 10194,
+    "id": "_xAZi4tJYSk",
+    "l": "fr",
+    "p": "2024-04-10",
+    "t": "Pensée stratégique française, ils naviguent à vue ? Hubert Védrine",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Sélection de départ · longs entretiens sans coupe"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Thinkerview",
+    "d": 13679,
+    "id": "gzlHOiqeQCY",
+    "l": "fr",
+    "p": "2025-03-11",
+    "t": "La République, les affaires, que peut encore faire le journalisme ? Marc Endeweld",
+    "tags": [
+     "Politique française",
+     "Médias"
+    ],
+    "w": "Sélection de départ · longs entretiens sans coupe"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Thinkerview",
+    "d": 7467,
+    "id": "BGVJW7lMey0",
+    "l": "fr",
+    "p": "2026-01-29",
+    "t": "Relever la tête et sauver le pays ? Jon de Lorraine",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Sélection de départ · longs entretiens sans coupe"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Thinkerview",
+    "d": 8589,
+    "id": "0QSlS8ifBbo",
+    "l": "fr",
+    "p": "2026-07-29",
+    "t": "Bruno Le Maire sans filtre",
+    "tags": [
+     "Politique française"
+    ],
+    "w": "Sélection de départ · longs entretiens sans coupe"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Sarah Knafo",
+    "d": 3566,
+    "id": "BngSiZt_3IM",
+    "l": "fr",
+    "p": "2026-09-25",
+    "t": "Débat sur l'intelligence artificielle : Sarah Knafo face à la classe politique",
+    "tags": [
+     "IA",
+     "Politique française"
+    ],
+    "w": "Ton choix · prises de parole de Sarah Knafo"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Sarah Knafo",
+    "d": 1168,
+    "id": "BXrbDbN7_K0",
+    "l": "fr",
+    "p": "2026-10-23",
+    "t": "Sarah Knafo : je réponds aux accusations de Complément d'enquête",
+    "tags": [
+     "Politique française"
+    ],
+    "w": "Ton choix · prises de parole de Sarah Knafo"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Sarah Knafo",
+    "d": 530,
+    "id": "2ReP5Pb0EKw",
+    "l": "fr",
+    "p": "2026-01-12",
+    "t": "Sarah Knafo : « Jamais je ne ferai perdre la droite »",
+    "tags": [
+     "Politique française"
+    ],
+    "w": "Ton choix · prises de parole de Sarah Knafo"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Mister Geopolitix",
+    "d": 1908,
+    "id": "ExM2zIJZiWo",
+    "l": "fr",
+    "p": "2022-10-18",
+    "t": "Comprendre la géopolitique du Moyen-Orient en 30 min",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Sélection de départ · géopolitique accessible"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Mister Geopolitix",
+    "d": 138,
+    "id": "3fGafkRbggk",
+    "l": "fr",
+    "p": "2025-02-05",
+    "t": "Mieux comprendre la RDC et le Rwanda",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Sélection de départ · géopolitique accessible"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Mister Geopolitix",
+    "d": 1339,
+    "id": "fUQvUOwu6es",
+    "l": "fr",
+    "p": "2021-03-06",
+    "t": "Comment cartographier notre planète ?",
+    "tags": [
+     "Géographie & cartes"
+    ],
+    "w": "Sélection de départ · géopolitique accessible"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Mister Geopolitix",
+    "d": 636,
+    "id": "oYZhXPaNR2w",
+    "l": "fr",
+    "p": "2021-09-19",
+    "t": "Voici pourquoi l'humain crée des fake news (8 raisons)",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Sélection de départ · géopolitique accessible"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Mister Geopolitix",
+    "d": 936,
+    "id": "HLlEALjQKOY",
+    "l": "fr",
+    "p": "2021-06-19",
+    "t": "La réalité du métier d'humanitaire",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Sélection de départ · géopolitique accessible"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "VA Plus",
+    "d": 1615,
+    "id": "WiTBG_T-c1E",
+    "l": "fr",
+    "p": "2021-11-15",
+    "t": "Notre vidéo la plus importante",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Ton choix · format magazine de VA Plus"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "VA Plus",
+    "d": 346,
+    "id": "O923StevMR8",
+    "l": "fr",
+    "p": "2022-04-07",
+    "t": "La vidéo la plus importante de notre chaîne",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Ton choix · format magazine de VA Plus"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "LEGEND",
+    "d": 49,
+    "id": "0855lIq1Hg4",
+    "l": "fr",
+    "p": "2024-10-07",
+    "t": "Guillaume Pley dévoile comment fonctionne le média LEGEND à Mathieu Kassovitz",
+    "tags": [
+     "Médias"
+    ],
+    "w": "Ton choix · grands entretiens"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "LEGEND",
+    "d": 39,
+    "id": "x3b4qQVx0NM",
+    "l": "fr",
+    "p": "2024-04-25",
+    "t": "Journaliste pour Brut : pourquoi on ne fait plus confiance aux médias ?",
+    "tags": [
+     "Médias"
+    ],
+    "w": "Ton choix · grands entretiens"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "RealLifeLore",
+    "d": 2407,
+    "id": "BubAF7KSs64",
+    "l": "en",
+    "p": "2022-08-31",
+    "t": "How Geography Made The US Ridiculously OP",
+    "tags": [
+     "Géographie & cartes"
+    ],
+    "w": "Sélection de départ · géographie et géopolitique"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "RealLifeLore",
+    "d": 1575,
+    "id": "ki-hoy-3ea8",
+    "l": "en",
+    "p": "2022-01-31",
+    "t": "How 1 Photo From Space Explains ALL of History",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Sélection de départ · géographie et géopolitique"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "RealLifeLore",
+    "d": 876,
+    "id": "ZfFvLJyPf3o",
+    "l": "en",
+    "p": "2020-05-19",
+    "t": "How Earth's Geography Will Change With Climate Change",
+    "tags": [
+     "Climat & CO2",
+     "Géographie & cartes"
+    ],
+    "w": "Sélection de départ · géographie et géopolitique"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "RealLifeLore",
+    "d": 413,
+    "id": "W9fnmLPpAvM",
+    "l": "en",
+    "p": "2020-09-30",
+    "t": "Why South America's Geography is Way Weirder Than You Think",
+    "tags": [
+     "Géographie & cartes"
+    ],
+    "w": "Sélection de départ · géographie et géopolitique"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "RealLifeLore",
+    "d": 1098,
+    "id": "dVpEEBcE8tc",
+    "l": "en",
+    "p": "2021-09-14",
+    "t": "Why New Orleans' Geography Sucks",
+    "tags": [
+     "Géographie & cartes"
+    ],
+    "w": "Sélection de départ · géographie et géopolitique"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "RealLifeLore",
+    "d": 840,
+    "id": "eAL1kYjsVHE",
+    "l": "en",
+    "p": "2021-08-17",
+    "t": "Why Mexico City's Geography Sucks",
+    "tags": [
+     "Géographie & cartes"
+    ],
+    "w": "Sélection de départ · géographie et géopolitique"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "RealLifeLore",
+    "d": 999,
+    "id": "pySHMxf_Qvk",
+    "l": "en",
+    "p": "2022-02-11",
+    "t": "How Maps Lie To You",
+    "tags": [
+     "Géographie & cartes"
+    ],
+    "w": "Sélection de départ · géographie et géopolitique"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "LEGEND",
+    "d": 6050,
+    "id": "kBkLI2n6QJE",
+    "l": "fr",
+    "p": "2026-11-11",
+    "t": "FEMME TRANSGENRE : ELLE REGRETTE SA TRANSITION ET VIT UN ENFER DEPUIS SON CHANGEMENT DE S*XE",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Ton choix · grands entretiens"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "LEGEND",
+    "d": 3197,
+    "id": "Ur99xxoddVg",
+    "l": "fr",
+    "p": "2026-11-10",
+    "t": "UNE NUIT AVEC LES PROSTITUÉES DU BOIS DE BOULOGNE ! (S*XE, VIOLENCE, PROXÉNÈTES, CLIENTS…)",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Ton choix · grands entretiens"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "LEGEND",
+    "d": 7419,
+    "id": "WxHGWHieTGA",
+    "l": "fr",
+    "p": "2026-11-08",
+    "t": "CE HACKER TRAQUE LES PIRES ESCROCS DU NET (PARTIE 2) ! CHANTAGE S*XUEL, CÉLÉBRITÉS ESCROQUÉES…",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Ton choix · grands entretiens"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "LEGEND",
+    "d": 5226,
+    "id": "-LPYFbpAVrE",
+    "l": "fr",
+    "p": "2026-08-26",
+    "t": "IL A RENCONTRÉ LES HOMMES LES PLUS DANGEREUX DU MONDE (TALIBANS, GANGS LATINOS, ETC.)",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Ton choix · grands entretiens"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "VA Plus",
+    "d": 495,
+    "id": "xsdhqdAKSdA",
+    "l": "fr",
+    "p": "2026-11-11",
+    "t": "Teddy Riner, Sylvain Durif, Francis Lalanne… les Français font leur choix !",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Ton choix · format magazine de VA Plus"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "VA Plus",
+    "d": 1750,
+    "id": "gndNBUx16Tc",
+    "l": "fr",
+    "p": "2026-11-08",
+    "t": "Il a suivi un dealer pendant un an : ce qu'il a découvert (avec Alexandre Macé Dubois)",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Ton choix · format magazine de VA Plus"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "VA Plus",
+    "d": 1479,
+    "id": "kW59MnVfplU",
+    "l": "fr",
+    "p": "2026-11-06",
+    "t": "GAUCHE INTELLECTUELLE : quand la VIOLENCE devient une VERTU",
+    "tags": [
+     "Politique française"
+    ],
+    "w": "Ton choix · format magazine de VA Plus"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "VA Plus",
+    "d": 2080,
+    "id": "ElEVobtxBUk",
+    "l": "fr",
+    "p": "2026-07-24",
+    "t": "L'effondrement du mouvement LGBTQ+ (décryptage)",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Ton choix · format magazine de VA Plus"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Sarah Knafo",
+    "d": 181,
+    "id": "goUYpSShliM",
+    "l": "fr",
+    "p": "2026-11-10",
+    "t": "Le meilleur argument contre Jean-Luc Mélenchon, c’est de lire son programme !",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Ton choix · prises de parole de Sarah Knafo"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Sarah Knafo",
+    "d": 1354,
+    "id": "F3avcFVMUTU",
+    "l": "fr",
+    "p": "2026-11-09",
+    "t": "Sarah Knafo sur BFMTV : Mélenchon est multipropriétaire et il veut réquisitionner votre logement !",
+    "tags": [
+     "Politique française"
+    ],
+    "w": "Ton choix · prises de parole de Sarah Knafo"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Sarah Knafo",
+    "d": 438,
+    "id": "cPG6m7uRC4s",
+    "l": "fr",
+    "p": "2026-10-29",
+    "t": "Propriété privée : mon mesage à Jean-Luc Mélenchon ! 🤯",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Ton choix · prises de parole de Sarah Knafo"
+   }
+  ],
+  "label": "Géopolitique & politique",
+  "order": 6
+ },
+ "histoire": {
+  "items": [
+   {
+    "a": "2026-11-06",
+    "c": "Histony",
+    "d": 6678,
+    "id": "qAp_EaLZhWQ",
+    "l": "fr",
+    "p": "2022-03-05",
+    "s": {
+     "n": 1,
+     "name": "Histony – Tout savoir sur le Titanic"
+    },
+    "t": "Tout savoir sur le Titanic – partie 1",
+    "tags": [
+     "Époque moderne"
+    ],
+    "w": "Fait partie d'une série · histoire par un historien"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Histony",
+    "d": 5531,
+    "id": "jjMHsVhCLKg",
+    "l": "fr",
+    "p": "2022-03-09",
+    "s": {
+     "n": 4,
+     "name": "Histony – Tout savoir sur le Titanic"
+    },
+    "t": "Tout savoir sur le Titanic – partie 4",
+    "tags": [
+     "Époque moderne"
+    ],
+    "w": "Fait partie d'une série · histoire par un historien"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Histony",
+    "d": 6845,
+    "id": "wdbwDP7rNGw",
+    "l": "fr",
+    "p": "2021-09-02",
+    "t": "Traverser l'Atlantique au XIXe siècle",
+    "tags": [
+     "Époque moderne"
+    ],
+    "w": "Sélection de départ · histoire par un historien"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Histony",
+    "d": 6570,
+    "id": "suj4O-VobZQ",
+    "l": "fr",
+    "p": "2020-04-06",
+    "t": "Histoire du clivage gauche/droite",
+    "tags": [
+     "Histoire générale"
+    ],
+    "w": "Sélection de départ · histoire par un historien"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Histony",
+    "d": 6956,
+    "id": "QeggeljFWg4",
+    "l": "fr",
+    "p": "2020-04-15",
+    "t": "Histoire, mémoire & politique",
+    "tags": [
+     "Histoire générale"
+    ],
+    "w": "Sélection de départ · histoire par un historien"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Manon Bril",
+    "d": 598,
+    "id": "Mct70eT96TM",
+    "l": "fr",
+    "p": "2024-06-27",
+    "t": "Les femmes trancheuses de têtes",
+    "tags": [
+     "Époque moderne"
+    ],
+    "w": "Sélection de départ · histoire par une docteure en histoire"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Manon Bril",
+    "d": 508,
+    "id": "gzJxYB-rLIU",
+    "l": "fr",
+    "p": "2019-12-27",
+    "t": "Comment s'évader d'un labyrinthe à tous les coups ? (avec Manon Bril)",
+    "tags": [
+     "Histoire générale"
+    ],
+    "w": "Sélection de départ · histoire par une docteure en histoire"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Autres créateurs",
+    "c2": "À Travers l’Histoire",
+    "d": 1526,
+    "id": "_Q6Xj6kLijw",
+    "l": "fr",
+    "p": "2026-05-27",
+    "t": "L'histoire complète de la France en 25 minutes",
+    "tags": [
+     "Histoire de France"
+    ],
+    "w": "Sélection de départ · trouvée en cherchant ce thème"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Autres créateurs",
+    "c2": "Histoires du Monde",
+    "d": 2290,
+    "id": "OfbQQEiF80Q",
+    "l": "fr",
+    "p": "2020-08-30",
+    "t": "L'histoire de France en 38 minutes",
+    "tags": [
+     "Histoire de France"
+    ],
+    "w": "Sélection de départ · trouvée en cherchant ce thème"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "FranceLocalHistory",
+    "d": 2516,
+    "id": "vypt9y0Ru7g",
+    "l": "fr",
+    "p": "2026-10-23",
+    "t": "Toute l'histoire de la France en 42 minutes",
+    "tags": [
+     "Histoire de France"
+    ],
+    "w": "Sélection de départ · trouvée en cherchant ce thème"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "UPR TV",
+    "d": 11746,
+    "id": "k34iCt7ghiU",
+    "l": "fr",
+    "p": "2014-01-19",
+    "t": "François Asselineau – L'histoire de France (conférence)",
+    "tags": [
+     "Histoire de France"
+    ],
+    "w": "Ton choix · conférences longues de François Asselineau"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "UPR TV",
+    "d": 8323,
+    "id": "Wq6NP2h0Fo4",
+    "l": "fr",
+    "p": "2018-11-11",
+    "t": "Les vrais enseignements de la Première Guerre mondiale",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Ton choix · conférences longues de François Asselineau"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "UPR TV",
+    "d": 14615,
+    "id": "Qj5utZJm1dA",
+    "l": "fr",
+    "p": "2014-10-31",
+    "t": "Les origines cachées de la « construction européenne »",
+    "tags": [
+     "Europe & UE"
+    ],
+    "w": "Ton choix · conférences longues de François Asselineau"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "OverSimplified",
+    "d": 1695,
+    "id": "lsbcN9-jU1Y",
+    "l": "en",
+    "p": "2024-01-19",
+    "s": {
+     "n": 1,
+     "name": "OverSimplified – The Second Punic War"
+    },
+    "t": "The Second Punic War (Part 1)",
+    "tags": [
+     "Antiquité"
+    ],
+    "w": "Sélection de départ · grandes périodes racontées en animation"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "OverSimplified",
+    "d": 1549,
+    "id": "N4-iJvZ8jFs",
+    "l": "en",
+    "p": "2025-06-17",
+    "t": "The Russian Revolution",
+    "tags": [
+     "Époque moderne"
+    ],
+    "w": "Sélection de départ · grandes périodes racontées en animation"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "OverSimplified",
+    "d": 1019,
+    "id": "xBYVNjxwLHM",
+    "l": "en",
+    "p": "2025-12-31",
+    "t": "The War That Changed English",
+    "tags": [
+     "Histoire générale"
+    ],
+    "w": "Sélection de départ · grandes périodes racontées en animation"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Kings and Generals",
+    "d": 1479,
+    "id": "s40yYSWkrzk",
+    "l": "en",
+    "p": "2021-10-07",
+    "t": "Battle of Granicus 334 BC – Alexander's Conquests",
+    "tags": [
+     "Antiquité"
+    ],
+    "w": "Sélection de départ · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Kings and Generals",
+    "d": 3114,
+    "id": "2QBA6ZPmj3Q",
+    "l": "en",
+    "p": "2019-07-25",
+    "t": "Pyrrhus and the Pyrrhic War",
+    "tags": [
+     "Antiquité"
+    ],
+    "w": "Sélection de départ · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Kings and Generals",
+    "d": 1423,
+    "id": "mZzaaORehzs",
+    "l": "en",
+    "p": "2021-05-23",
+    "t": "Battle of Agincourt 1415 – Hundred Years' War",
+    "tags": [
+     "Moyen Âge"
+    ],
+    "w": "Sélection de départ · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Kings and Generals",
+    "d": 909,
+    "id": "qCfxCth9gzM",
+    "l": "en",
+    "p": "2020-11-22",
+    "t": "The Crusader-Mongol Alliance",
+    "tags": [
+     "Moyen Âge"
+    ],
+    "w": "Sélection de départ · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Kings and Generals",
+    "d": 1532,
+    "id": "WTC8vdLGAtE",
+    "l": "en",
+    "p": "2024-02-08",
+    "t": "Battle of Trenton 1776 – American Independence War",
+    "tags": [
+     "Époque moderne"
+    ],
+    "w": "Sélection de départ · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Kings and Generals",
+    "d": 1275,
+    "id": "akciSbEka_E",
+    "l": "en",
+    "p": "2024-11-05",
+    "t": "American Civil War begins with Fort Sumter and Bull Run",
+    "tags": [
+     "Époque moderne"
+    ],
+    "w": "Sélection de départ · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Kings and Generals",
+    "d": 5446,
+    "id": "_jDBQijICTo",
+    "l": "en",
+    "p": "2021-03-23",
+    "t": "Battle of Greece and Battle of Crete – World War II",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Sélection de départ · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Kings and Generals",
+    "d": 1134,
+    "id": "kPqYKZY6Iac",
+    "l": "en",
+    "p": "2022-10-18",
+    "s": {
+     "loose": true,
+     "n": 48,
+     "name": "Kings and Generals – Pacific War"
+    },
+    "t": "Battle for Henderson Field – Pacific War #48",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Sélection de départ · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Kings and Generals",
+    "d": 20638,
+    "id": "kxfP_BSnmyw",
+    "l": "en",
+    "p": "2023-09-19",
+    "t": "First Crusade – Full Story, Every Battle",
+    "tags": [
+     "Moyen Âge"
+    ],
+    "w": "Sélection de départ · trouvée en cherchant ce thème"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Autres créateurs",
+    "c2": "History on Maps",
+    "d": 571,
+    "id": "I_vNNKzwVq4",
+    "l": "en",
+    "p": "2022-08-12",
+    "t": "Full History of France: From Ancient Times to Today",
+    "tags": [
+     "Histoire de France"
+    ],
+    "w": "Sélection de départ · trouvée en cherchant ce thème"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "FranceLocalHistory",
+    "d": 2121,
+    "id": "iSDV2QXiTjY",
+    "l": "fr",
+    "p": "2026-11-11",
+    "t": "Toute l'histoire de la Première Guerre mondiale en 35 minutes",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "FranceLocalHistory",
+    "d": 2106,
+    "id": "pagpxtX9sw0",
+    "l": "fr",
+    "p": "2026-11-10",
+    "t": "Pourquoi 14 pays d'Afrique utilisent encore la monnaie de la France ? En 35 minutes",
+    "tags": [
+     "Histoire de France"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "FranceLocalHistory",
+    "d": 2193,
+    "id": "iHHGE_IXc94",
+    "l": "fr",
+    "p": "2026-11-09",
+    "t": "Pourquoi la Corée du Sud est devenue riche et la Corée du Nord pauvre ? En 36 minutes",
+    "tags": [
+     "Histoire générale"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "FranceLocalHistory",
+    "d": 2367,
+    "id": "xoyqY5uJ-1o",
+    "l": "fr",
+    "p": "2026-10-28",
+    "t": "Toute l'histoire de la Révolution française en 40 minutes",
+    "tags": [
+     "Époque moderne"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "FranceLocalHistory",
+    "d": 2247,
+    "id": "isfUTdLmwWU",
+    "l": "fr",
+    "p": "2026-10-29",
+    "t": "Pourquoi la France a gagné la guerre d'Algérie… et perdu l'Algérie ? En 37 minutes",
+    "tags": [
+     "Histoire générale"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Kings and Generals",
+    "d": 961,
+    "id": "MEgIHN63ojU",
+    "l": "en",
+    "p": "2021-10-19",
+    "s": {
+     "loose": true,
+     "name": "Kings and Generals – Pacific War"
+    },
+    "t": "How Europe Colonized Asia - Pacific War #0.1 DOCUMENTARY",
+    "tags": [
+     "Guerres mondiales",
+     "Europe & UE"
+    ],
+    "w": "Fait partie d'une série · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Kings and Generals",
+    "d": 997,
+    "id": "rHgbG1HsIrY",
+    "l": "en",
+    "p": "2021-10-26",
+    "s": {
+     "loose": true,
+     "name": "Kings and Generals – Pacific War"
+    },
+    "t": "How the Meiji Restoration Turned Japan into an Empire - Pacific War #0.2",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Fait partie d'une série · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Kings and Generals",
+    "d": 1008,
+    "id": "7vQ6nxBRGd8",
+    "l": "en",
+    "p": "2021-11-02",
+    "s": {
+     "loose": true,
+     "name": "Kings and Generals – Pacific War"
+    },
+    "t": "Rise of Ultranationalism in Japan - Pacific War #0.3 DOCUMENTARY",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Fait partie d'une série · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Kings and Generals",
+    "d": 979,
+    "id": "DY2CUazAaaY",
+    "l": "en",
+    "p": "2021-11-09",
+    "s": {
+     "loose": true,
+     "name": "Kings and Generals – Pacific War"
+    },
+    "t": "How America Became an Empire - Pacific War #0.4 DOCUMENTARY",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Fait partie d'une série · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Kings and Generals",
+    "d": 1062,
+    "id": "TnYHe80ZvBw",
+    "l": "en",
+    "p": "2021-11-16",
+    "s": {
+     "loose": true,
+     "name": "Kings and Generals – Pacific War"
+    },
+    "t": "China at War - Pacific War #0.5 DOCUMENTARY",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Fait partie d'une série · histoire militaire en cartes animées"
+   }
+  ],
+  "label": "Histoire",
+  "order": 5
+ },
+ "ingenierie": {
+  "items": [
+   {
+    "a": "2026-11-06",
+    "c": "Monsieur Bidouille",
+    "d": 2010,
+    "id": "QbTrTaFylOs",
+    "l": "fr",
+    "p": "2022-07-31",
+    "t": "ITER est-il obsolète ? L'avenir de la fusion nucléaire",
+    "tags": [
+     "Nucléaire"
+    ],
+    "w": "Sélection de départ · coulisses de l'industrie et du nucléaire"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Monsieur Bidouille",
+    "d": 1824,
+    "id": "kax3mKAJfIg",
+    "l": "fr",
+    "p": "2026-07-28",
+    "t": "Faut-il construire la plus grande expérience du monde ?",
+    "tags": [
+     "Industrie & infrastructures"
+    ],
+    "w": "Sélection de départ · coulisses de l'industrie et du nucléaire"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Monsieur Bidouille",
+    "d": 1505,
+    "id": "AMzaRhpaqNU",
+    "l": "fr",
+    "p": "2025-07-23",
+    "t": "Le délicat problème des vieux ponts ferroviaires",
+    "tags": [
+     "Industrie & infrastructures"
+    ],
+    "w": "Sélection de départ · coulisses de l'industrie et du nucléaire"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Monsieur Bidouille",
+    "d": 2560,
+    "id": "Cirg1NmGaKU",
+    "l": "fr",
+    "p": "2026-09-28",
+    "t": "Pourquoi enrichir l'uranium est si difficile ?",
+    "tags": [
+     "Nucléaire"
+    ],
+    "w": "Sélection de départ · coulisses de l'industrie et du nucléaire"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Monsieur Bidouille",
+    "d": 2004,
+    "id": "UDIdE8n6FoM",
+    "l": "fr",
+    "p": "2025-12-09",
+    "t": "La mesure la plus précise possible",
+    "tags": [
+     "Industrie & infrastructures"
+    ],
+    "w": "Sélection de départ · coulisses de l'industrie et du nucléaire"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Monsieur Bidouille",
+    "d": 1221,
+    "id": "lnM7UVT2i-o",
+    "l": "fr",
+    "p": "2020-04-17",
+    "t": "Comment les makers ont créé une usine géante en une semaine contre le covid",
+    "tags": [
+     "Industrie & infrastructures"
+    ],
+    "w": "Sélection de départ · coulisses de l'industrie et du nucléaire"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Monsieur Bidouille",
+    "d": 2945,
+    "id": "7aQZOzjjlC0",
+    "l": "fr",
+    "p": "2024-12-17",
+    "t": "À l'intérieur d'une usine d'aluminium",
+    "tags": [
+     "Industrie & infrastructures"
+    ],
+    "w": "Sélection de départ · coulisses de l'industrie et du nucléaire"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Monsieur Bidouille",
+    "d": 2246,
+    "id": "MZkmz24Nwbs",
+    "l": "fr",
+    "p": "2025-12-17",
+    "t": "Ce réacteur nucléaire ne produira pas d'énergie",
+    "tags": [
+     "Nucléaire"
+    ],
+    "w": "Sélection de départ · coulisses de l'industrie et du nucléaire"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Monsieur Bidouille",
+    "d": 1222,
+    "id": "O5RGCTvkXfM",
+    "l": "fr",
+    "p": "2022-06-30",
+    "t": "Les trains-usines : à l'intérieur d'un chantier ferroviaire",
+    "tags": [
+     "Industrie & infrastructures"
+    ],
+    "w": "Sélection de départ · coulisses de l'industrie et du nucléaire"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Monsieur Bidouille",
+    "d": 1712,
+    "id": "JVkg7Ookt6Y",
+    "l": "fr",
+    "p": "2025-11-24",
+    "t": "Au cœur d'une centrale nucléaire",
+    "tags": [
+     "Nucléaire"
+    ],
+    "w": "Sélection de départ · coulisses de l'industrie et du nucléaire"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Real Engineering",
+    "d": 1091,
+    "hn": 2,
+    "hnAt": "2026-11-11",
+    "id": "RVxgyz_avQM",
+    "l": "en",
+    "p": "2023-04-01",
+    "t": "How NASA Reinvented the Rocket Engine",
+    "tags": [
+     "Industrie & infrastructures"
+    ],
+    "w": "Sélection de départ · ingénierie expliquée"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Real Engineering",
+    "d": 2453,
+    "hn": 2,
+    "hnAt": "2026-11-11",
+    "id": "EhhOin2p5Qs",
+    "l": "en",
+    "p": "2023-11-04",
+    "t": "The Insane Engineering of the F-16",
+    "tags": [
+     "Industrie & infrastructures"
+    ],
+    "w": "Sélection de départ · ingénierie expliquée"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Real Engineering",
+    "d": 987,
+    "hn": 1,
+    "hnAt": "2026-11-11",
+    "id": "wk6Qr6OO5Xo",
+    "l": "en",
+    "p": "2020-05-23",
+    "t": "The Insane Engineering of the A-10 Warthog",
+    "tags": [
+     "Industrie & infrastructures"
+    ],
+    "w": "Sélection de départ · ingénierie expliquée"
+   }
+  ],
+  "label": "Ingénierie & industrie",
+  "order": 3
  },
  "musique": {
   "items": [
    {
     "a": "2026-11-06",
     "c": "Rick Beato",
+    "d": 2314,
     "id": "3Ym7X_wCsPQ",
     "l": "en",
+    "p": "2021-09-09",
     "s": {
      "name": "Rick Beato – What Makes This Song Great?"
     },
@@ -2493,8 +2985,10 @@
    {
     "a": "2026-11-06",
     "c": "Rick Beato",
+    "d": 550,
     "id": "sr0bUxuzYAM",
     "l": "en",
+    "p": "2018-12-07",
     "s": {
      "name": "Rick Beato – What Makes This Song Great?"
     },
@@ -2507,8 +3001,10 @@
    {
     "a": "2026-11-06",
     "c": "Rick Beato",
+    "d": 918,
     "id": "9ifWvMsBk3c",
     "l": "en",
+    "p": "2019-12-02",
     "s": {
      "name": "Rick Beato – What Makes This Song Great?"
     },
@@ -2521,8 +3017,10 @@
    {
     "a": "2026-11-06",
     "c": "Rick Beato",
+    "d": 1563,
     "id": "ynFNt4tgBJ0",
     "l": "en",
+    "p": "2019-07-11",
     "s": {
      "name": "Rick Beato – What Makes This Song Great?"
     },
@@ -2535,8 +3033,10 @@
    {
     "a": "2026-11-06",
     "c": "Rick Beato",
+    "d": 1148,
     "id": "v_Jqt9DyjMs",
     "l": "en",
+    "p": "2019-12-29",
     "s": {
      "name": "Rick Beato – What Makes This Song Great?"
     },
@@ -2549,8 +3049,10 @@
    {
     "a": "2026-11-06",
     "c": "Rick Beato",
+    "d": 1231,
     "id": "KXlBA-98i5w",
     "l": "en",
+    "p": "2019-06-23",
     "s": {
      "name": "Rick Beato – What Makes This Song Great?"
     },
@@ -2563,8 +3065,10 @@
    {
     "a": "2026-11-06",
     "c": "Rick Beato",
+    "d": 857,
     "id": "44NUPu7cVfI",
     "l": "en",
+    "p": "2021-01-07",
     "s": {
      "name": "Rick Beato – What Makes This Song Great?"
     },
@@ -2577,8 +3081,10 @@
    {
     "a": "2026-11-06",
     "c": "Rick Beato",
+    "d": 1232,
     "id": "X33YyowZZxQ",
     "l": "en",
+    "p": "2020-08-04",
     "s": {
      "name": "Rick Beato – What Makes This Song Great?"
     },
@@ -2591,8 +3097,10 @@
    {
     "a": "2026-11-06",
     "c": "Rick Beato",
+    "d": 2993,
     "id": "-EvEazpUlE0",
     "l": "en",
+    "p": "2017-04-24",
     "t": "Sounding off with music YouTuber Adam Neely",
     "tags": [
      "Analyse de morceaux"
@@ -2602,8 +3110,10 @@
    {
     "a": "2026-11-06",
     "c": "Adam Neely",
+    "d": 690,
     "id": "Xl4HDoKMmvQ",
     "l": "en",
+    "p": "2022-09-28",
     "t": "The Music Theory of CBAT (the reddit guy song)",
     "tags": [
      "Théorie musicale"
@@ -2613,282 +3123,1375 @@
    {
     "a": "2026-11-06",
     "c": "Adam Neely",
+    "d": 1397,
     "id": "hxaFQOac6kM",
     "l": "en",
+    "p": "2022-05-26",
     "t": "Can I pass an AP Music Theory Exam?",
     "tags": [
      "Théorie musicale"
     ],
     "w": "Sélection de départ · théorie musicale"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Rick Beato",
+    "d": 786,
+    "id": "OeRNRXaVKbI",
+    "l": "en",
+    "p": "2026-11-09",
+    "s": {
+     "loose": true,
+     "name": "Rick Beato – What Makes This Song Great?"
+    },
+    "t": "What Makes This Song Great? \"Easy Lover\" Philip Bailey & Phil Collins",
+    "tags": [
+     "Analyse de morceaux"
+    ],
+    "w": "Fait partie d'une série · un producteur décortique les morceaux"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Rick Beato",
+    "d": 854,
+    "id": "mGhTkgDYzfk",
+    "l": "en",
+    "p": "2025-06-06",
+    "s": {
+     "loose": true,
+     "name": "Rick Beato – What Makes This Song Great?"
+    },
+    "t": "(NEW) What Makes This Song Great? Led Zeppelin",
+    "tags": [
+     "Analyse de morceaux"
+    ],
+    "w": "Fait partie d'une série · un producteur décortique les morceaux"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Rick Beato",
+    "d": 1181,
+    "id": "VVZFkI9HgJY",
+    "l": "en",
+    "p": "2024-06-04",
+    "s": {
+     "loose": true,
+     "name": "Rick Beato – What Makes This Song Great?"
+    },
+    "t": "What Makes This Song Great? \"Walking on the Moon\" The Police",
+    "tags": [
+     "Analyse de morceaux"
+    ],
+    "w": "Fait partie d'une série · un producteur décortique les morceaux"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Rick Beato",
+    "d": 807,
+    "id": "mX0IInspcgg",
+    "l": "en",
+    "p": "2023-10-09",
+    "s": {
+     "loose": true,
+     "name": "Rick Beato – What Makes This Song Great?"
+    },
+    "t": "What Makes This Song Great? \"Smoke On The Water\" Deep Purple",
+    "tags": [
+     "Analyse de morceaux"
+    ],
+    "w": "Fait partie d'une série · un producteur décortique les morceaux"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Rick Beato",
+    "d": 1131,
+    "id": "VuCAFvcrtVc",
+    "l": "en",
+    "p": "2023-03-08",
+    "s": {
+     "loose": true,
+     "name": "Rick Beato – What Makes This Song Great?"
+    },
+    "t": "What Makes This Song Great? \"Mr. Brightside\" The Killers",
+    "tags": [
+     "Analyse de morceaux"
+    ],
+    "w": "Fait partie d'une série · un producteur décortique les morceaux"
    }
   ],
   "label": "Musique",
   "order": 9
  },
- "auto": {
+ "philo": {
   "items": [
    {
     "a": "2026-11-06",
-    "c": "Vilebrequin",
-    "id": "vb5FAQjfkB8",
+    "c": "Monsieur Phi",
+    "d": 1217,
+    "id": "Uu6K0uR9bus",
     "l": "fr",
-    "t": "Renault Avantime : le plus gros échec automobile français",
+    "p": "2017-09-04",
+    "t": "La morale des gens heureux : l'utilitarisme",
     "tags": [
-     "Histoire de l'auto"
+     "Philosophie morale"
     ],
-    "w": "Ton choix · essais et culture automobile"
+    "w": "Sélection de départ · philosophie par un prof de philo"
    },
    {
     "a": "2026-11-06",
-    "c": "Vilebrequin",
-    "id": "DiBHMf4tgak",
+    "c": "Monsieur Phi",
+    "d": 6971,
+    "id": "FhuF81yJOUI",
     "l": "fr",
-    "t": "La pire Lamborghini : essai du Lamborghini Urus",
+    "p": "2020-12-14",
+    "t": "La philo morale",
     "tags": [
-     "Essais"
+     "Philosophie morale"
     ],
-    "w": "Ton choix · essais et culture automobile"
+    "w": "Sélection de départ · philosophie par un prof de philo"
    },
    {
     "a": "2026-11-06",
-    "c": "Vilebrequin",
-    "id": "rjX5MeKARFI",
+    "c": "Monsieur Phi",
+    "d": 1540,
+    "e": 0,
+    "id": "LfhoynwQ3oA",
     "l": "fr",
-    "t": "Le permis va sauter ! Essai de la BMW M2 Compétition 410 ch",
+    "p": "2026-10-01",
+    "t": "Un philosophe note des scènes cultes de science-fiction",
     "tags": [
-     "Essais"
+     "Philosophie morale"
     ],
-    "w": "Ton choix · essais et culture automobile"
+    "w": "Sélection de départ · philosophie par un prof de philo"
    },
    {
     "a": "2026-11-06",
-    "c": "Vilebrequin",
-    "id": "9ftp0hrrIDQ",
+    "c": "Le Précepteur",
+    "d": 64,
+    "id": "fI61MzGgI2M",
     "l": "fr",
-    "t": "Essai Mercedes McLaren SLR : échouer en beauté",
+    "p": "2026-03-12",
+    "t": "Le stoïcisme, c'est quoi ?",
     "tags": [
-     "Essais"
+     "Philosophie morale"
     ],
-    "w": "Ton choix · essais et culture automobile"
+    "w": "Sélection de départ · philosophie par un prof de philo"
    },
    {
     "a": "2026-11-06",
-    "c": "Vilebrequin",
-    "id": "olWSZ4kDCtw",
+    "c": "Le Précepteur",
+    "d": 5174,
+    "id": "g1C5OSuP66Q",
     "l": "fr",
-    "t": "Essai Honda NSX : la Ferrari japonaise",
+    "p": "2021-04-06",
+    "t": "Spinoza est putaclic – avec Le Précepteur",
     "tags": [
-     "Essais"
+     "Philosophie morale"
     ],
-    "w": "Ton choix · essais et culture automobile"
+    "w": "Sélection de départ · philosophie par un prof de philo"
    },
    {
     "a": "2026-11-06",
-    "c": "Vilebrequin",
-    "id": "dz-N7JHDWDw",
+    "c": "Le Précepteur",
+    "d": 7463,
+    "id": "Cf2Vf8RJZfg",
     "l": "fr",
-    "t": "Essai Volkswagen Phaeton W12 : le luxe ultime",
+    "p": "2023-06-05",
+    "t": "Réconcilier le corps et l'esprit",
     "tags": [
-     "Essais"
+     "Philosophie morale"
     ],
-    "w": "Ton choix · essais et culture automobile"
+    "w": "Sélection de départ · philosophie par un prof de philo"
    },
    {
     "a": "2026-11-06",
-    "c": "Vilebrequin",
-    "id": "n2kdKu6njXI",
+    "c": "Le Précepteur",
+    "d": 5684,
+    "id": "P0iVVOPElaA",
     "l": "fr",
-    "t": "Cadillac Fleetwood 1980 : hier ne meurt jamais",
+    "p": "2025-12-22",
+    "t": "La manipulation pour 2027 a déjà commencé : un philosophe explique",
     "tags": [
-     "Histoire de l'auto"
+     "Philosophie morale"
     ],
-    "w": "Ton choix · essais et culture automobile"
+    "w": "Sélection de départ · philosophie par un prof de philo"
    },
    {
     "a": "2026-11-06",
-    "c": "Vilebrequin",
-    "id": "0SmZ_ToNkSA",
+    "c": "Le Mock",
+    "d": 471,
+    "id": "IOF_-dCt11E",
     "l": "fr",
-    "t": "Quelle voiture pour 500 € ? (guide achat occasion)",
+    "p": "2020-02-28",
+    "t": "Comment Théophile Gautier a inventé « Delacroix »",
     "tags": [
-     "Guide d'achat"
+     "Littérature"
     ],
-    "w": "Ton choix · essais et culture automobile"
+    "w": "Sélection de départ · littérature classique"
    },
    {
     "a": "2026-11-06",
-    "c": "Vilebrequin",
-    "id": "OeG55UbMu1U",
+    "c": "Le Mock",
+    "d": 4357,
+    "id": "zWEDZaGW7NE",
     "l": "fr",
-    "t": "Guide achat : quelle voiture pour 100 000 € ?",
+    "p": "2023-05-11",
+    "t": "Les classiques de la littérature ne l'ont pas toujours été",
     "tags": [
-     "Guide d'achat"
+     "Littérature"
     ],
-    "w": "Ton choix · essais et culture automobile"
+    "w": "Sélection de départ · littérature classique"
    },
    {
     "a": "2026-11-06",
-    "c": "Vilebrequin",
-    "id": "VBkge3I56oc",
+    "c": "Le Mock",
+    "d": 4800,
+    "id": "ntnitckAgWA",
     "l": "fr",
-    "t": "Les marques avec la pire fiabilité (et les conseils pour les repérer)",
+    "p": "2020-12-26",
+    "t": "Conférence : ces classiques qui nous parlent d'aujourd'hui",
     "tags": [
-     "Guide d'achat"
+     "Littérature"
     ],
-    "w": "Ton choix · essais et culture automobile"
+    "w": "Sélection de départ · littérature classique"
    },
    {
     "a": "2026-11-06",
-    "c": "Vilebrequin",
-    "id": "f8HTgdREXxE",
+    "c": "Le Mock",
+    "d": 898,
+    "id": "tGHh8L5BFZM",
     "l": "fr",
-    "t": "Le pire daily du monde (Sylvain présente sa voiture)",
+    "p": "2021-06-24",
+    "t": "Le plus grand roman du XXe siècle ?",
     "tags": [
-     "Essais"
+     "Littérature"
     ],
-    "w": "Ton choix · essais et culture automobile"
+    "w": "Sélection de départ · littérature classique"
    },
    {
     "a": "2026-11-06",
-    "c": "Vilebrequin",
-    "id": "dE7aHyX_0PY",
+    "c": "Linguisticae",
+    "d": 1279,
+    "id": "C4e_EEPHml0",
     "l": "fr",
-    "t": "On a trouvé notre reconversion : l'escouade Vilebrequin",
+    "p": "2015-08-04",
+    "t": "L'histoire des langues",
     "tags": [
-     "Essais"
+     "Langue française"
     ],
-    "w": "Ton choix · essais et culture automobile"
+    "w": "Sélection de départ · linguistique"
    },
    {
     "a": "2026-11-06",
-    "c": "Vilebrequin",
-    "id": "hRElcwjFWog",
+    "c": "Autres créateurs",
+    "c2": "Jean Pruvost",
+    "d": 838,
+    "id": "STFg1rMn2Hk",
     "l": "fr",
-    "t": "À la recherche de la voiture la moins puissante – le Mondial de l'Auto",
+    "p": "2020-12-21",
+    "t": "La story de la langue française",
     "tags": [
-     "Essais"
+     "Langue française"
     ],
-    "w": "Ton choix · essais et culture automobile"
+    "w": "Sélection de départ · trouvée en cherchant ce thème"
    },
    {
     "a": "2026-11-06",
-    "c": "Vilebrequin",
-    "id": "chnU2mreBJM",
+    "c": "Autres créateurs",
+    "c2": "Accès éditions",
+    "d": 517,
+    "id": "Ji_WjbCB8tc",
     "l": "fr",
-    "t": "Pierre et Sylvain racontent la folle histoire de Vilebrequin",
+    "p": "2016-09-16",
+    "t": "Histoire du français",
     "tags": [
-     "Histoire de l'auto"
+     "Langue française"
     ],
-    "w": "Ton choix · essais et culture automobile"
+    "w": "Sélection de départ · trouvée en cherchant ce thème"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Linguisticae",
+    "d": 2128,
+    "id": "6mpjaF3smTA",
+    "l": "fr",
+    "p": "2023-05-30",
+    "t": "LE FIGARO EN ROUE LIBRE",
+    "tags": [
+     "Philosophie morale"
+    ],
+    "w": "Sélection de départ · linguistique"
    }
   ],
-  "label": "Automobile",
-  "order": 10
+  "label": "Philo, lettres & langue",
+  "order": 8
  },
- "comm": {
+ "sciences": {
   "items": [
    {
     "a": "2026-11-06",
-    "c": "Thierry Watelet",
-    "id": "VD5CCbx7IX4",
+    "c": "Science Étonnante",
+    "d": 1207,
+    "id": "trWrEWfhTVg",
     "l": "fr",
-    "t": "L'art oratoire par Thierry Watelet",
+    "p": "2016-04-08",
+    "t": "Le deep learning",
     "tags": [
-     "Art oratoire"
+     "IA"
     ],
-    "w": "Ton choix · art oratoire et rhétorique"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Thierry Watelet",
-    "id": "jA0oe8YSmTg",
-    "l": "fr",
-    "t": "1er principe de la rhétorique : la sincérité",
-    "tags": [
-     "Rhétorique"
-    ],
-    "w": "Ton choix · art oratoire et rhétorique"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Thierry Watelet",
-    "id": "xCJpoeldNlE",
-    "l": "fr",
-    "t": "Pour convaincre lors de la prise de parole, soyez vous-même !",
-    "tags": [
-     "Art oratoire"
-    ],
-    "w": "Ton choix · art oratoire et rhétorique"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Thierry Watelet",
-    "id": "3snBVDtxuU8",
-    "l": "fr",
-    "t": "Un expert en éloquence partage ses meilleurs conseils pour les dirigeants",
-    "tags": [
-     "Art oratoire",
-     "Communication d'entreprise"
-    ],
-    "w": "Ton choix · Thierry Watelet invité"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Thierry Watelet",
-    "id": "BPPDGE9rVVc",
-    "l": "fr",
-    "t": "Thierry Watelet : l'éloquence au service de l'entreprise",
-    "tags": [
-     "Communication d'entreprise"
-    ],
-    "w": "Ton choix · Thierry Watelet invité"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Thierry Watelet",
-    "id": "tFh6IxUqVS4",
-    "l": "fr",
-    "t": "La parole, outil premier et essentiel – Thierry Watelet",
-    "tags": [
-     "Art oratoire"
-    ],
-    "w": "Ton choix · Thierry Watelet invité"
-   },
-   {
-    "a": "2026-11-06",
-    "c": "Thierry Watelet",
-    "id": "rwSL6kD3aq0",
-    "l": "fr",
-    "t": "« Être et parler à son écran » et « Être et raconter » – Thierry Watelet",
-    "tags": [
-     "Art oratoire"
-    ],
-    "w": "Ton choix · Thierry Watelet invité"
+    "w": "Sélection de départ · physique et IA par un docteur en physique"
    },
    {
     "a": "2026-11-06",
     "c": "Autres créateurs",
-    "id": "lomBrws_MyE",
+    "c2": "Le Blob",
+    "d": 479,
+    "id": "O4wFxNl4uWM",
     "l": "fr",
-    "t": "L'éloquence du gazouillis",
+    "p": "2024-03-18",
+    "t": "Trou noir : l'hypothèse de Stephen Hawking testée en labo",
     "tags": [
-     "Rhétorique"
+     "Astronomie"
     ],
-    "w": "Sélection de départ · trouvée en cherchant Thierry Watelet"
+    "w": "Sélection de départ · trouvée en cherchant ce thème"
    },
    {
     "a": "2026-11-06",
     "c": "Autres créateurs",
-    "id": "eqThAtMzoTM",
+    "c2": "Ça se passe là-haut",
+    "d": 490,
+    "id": "GkVIXH1gKYA",
     "l": "fr",
-    "t": "Cours d'art oratoire #14",
+    "p": "2018-12-31",
+    "t": "La gravitation quantique à boucles transforme les trous noirs en trous blancs",
     "tags": [
-     "Art oratoire"
+     "Astronomie",
+     "Physique"
     ],
-    "w": "Sélection de départ · trouvée en cherchant Thierry Watelet"
+    "w": "Sélection de départ · trouvée en cherchant ce thème"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Science Étonnante",
+    "d": 1149,
+    "id": "v3eSu9ac7Wk",
+    "l": "fr",
+    "p": "2022-07-15",
+    "t": "Le plus gros problème de la mécanique quantique : la mesure",
+    "tags": [
+     "Physique"
+    ],
+    "w": "Sélection de départ · trouvée en cherchant ce thème"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Autres créateurs",
+    "c2": "Professeur Fabrizio Bucella",
+    "d": 803,
+    "id": "vU9g3HwlUYg",
+    "l": "fr",
+    "p": "2026-01-03",
+    "t": "Que faire si vous tombez dans un trou noir ?",
+    "tags": [
+     "Astronomie"
+    ],
+    "w": "Sélection de départ · trouvée en cherchant ce thème"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Autres créateurs",
+    "c2": "Perduchan",
+    "d": 838,
+    "id": "xThsKav2TpE",
+    "l": "fr",
+    "p": "2026-05-25",
+    "t": "L'électricité n'est pas ce que vous croyez : le paradoxe le plus choquant",
+    "tags": [
+     "Physique"
+    ],
+    "w": "Sélection de départ · trouvée en cherchant ce thème"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Balade Mentale",
+    "d": 971,
+    "id": "66HgM5z0MBc",
+    "l": "fr",
+    "p": "2021-05-09",
+    "t": "L'univers est-il infini ?",
+    "tags": [
+     "Astronomie"
+    ],
+    "w": "Sélection de départ · astronomie et cosmos, très visuel"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Balade Mentale",
+    "d": 1068,
+    "id": "37M2Cv5RZsM",
+    "l": "fr",
+    "p": "2022-04-17",
+    "t": "Univers parallèles et multivers, combien sont-ils ?",
+    "tags": [
+     "Astronomie"
+    ],
+    "w": "Sélection de départ · astronomie et cosmos, très visuel"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Balade Mentale",
+    "d": 429,
+    "id": "0j6Cy6IGzGU",
+    "l": "fr",
+    "p": "2017-11-03",
+    "t": "Voyage dans le système solaire",
+    "tags": [
+     "Astronomie"
+    ],
+    "w": "Sélection de départ · astronomie et cosmos, très visuel"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Balade Mentale",
+    "d": 1098,
+    "id": "JkQs9baTyGs",
+    "l": "fr",
+    "p": "2021-10-24",
+    "t": "Toutes les formes possibles de galaxies dans l'univers",
+    "tags": [
+     "Astronomie"
+    ],
+    "w": "Sélection de départ · astronomie et cosmos, très visuel"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Balade Mentale",
+    "d": 715,
+    "id": "_p1YSNa1Tdw",
+    "l": "fr",
+    "p": "2019-05-19",
+    "t": "Le calendrier cosmique : tout le temps qui s'est écoulé",
+    "tags": [
+     "Astronomie"
+    ],
+    "w": "Sélection de départ · astronomie et cosmos, très visuel"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Balade Mentale",
+    "d": 1671,
+    "id": "NFJk2fmIidU",
+    "l": "fr",
+    "p": "2024-09-22",
+    "t": "Des milliards d'autres planètes !",
+    "tags": [
+     "Astronomie"
+    ],
+    "w": "Sélection de départ · astronomie et cosmos, très visuel"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Balade Mentale",
+    "d": 926,
+    "id": "SX2Nvsa2EnA",
+    "l": "fr",
+    "p": "2022-01-09",
+    "t": "En cachant le Soleil, ils découvrent de nouvelles planètes",
+    "tags": [
+     "Astronomie"
+    ],
+    "w": "Sélection de départ · astronomie et cosmos, très visuel"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Balade Mentale",
+    "d": 403,
+    "id": "O4Wa9vc69ew",
+    "l": "fr",
+    "p": "2016-03-09",
+    "t": "Le son de l'univers : les sons des planètes",
+    "tags": [
+     "Astronomie"
+    ],
+    "w": "Sélection de départ · astronomie et cosmos, très visuel"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Fouloscopie",
+    "d": 1029,
+    "id": "hlnZA89hVwo",
+    "l": "fr",
+    "p": "2020-10-08",
+    "t": "Guide de survie dans une foule en panique",
+    "tags": [
+     "Comportements humains"
+    ],
+    "w": "Sélection de départ · science des foules par un chercheur"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Fouloscopie",
+    "d": 4453,
+    "id": "r2oiCmsCDWM",
+    "l": "fr",
+    "p": "2020-10-06",
+    "t": "Ce que la foule dit de nous – Mehdi Moussaïd",
+    "tags": [
+     "Comportements humains"
+    ],
+    "w": "Sélection de départ · science des foules par un chercheur"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Fouloscopie",
+    "d": 191,
+    "id": "CygtLxxDnlA",
+    "l": "fr",
+    "p": "2024-04-14",
+    "t": "Comment fonctionne la foule ? (avec Fouloscopie)",
+    "tags": [
+     "Comportements humains"
+    ],
+    "w": "Sélection de départ · science des foules par un chercheur"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Fouloscopie",
+    "d": 2452,
+    "id": "XhC9EnAj7mU",
+    "l": "fr",
+    "p": "2026-01-19",
+    "t": "Un influenceur peut-il réellement influencer une élection ? (avec Fouloscopie)",
+    "tags": [
+     "Comportements humains"
+    ],
+    "w": "Sélection de départ · science des foules par un chercheur"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Micmaths",
+    "d": 820,
+    "id": "tYf3CpbqAVo",
+    "l": "fr",
+    "p": "2020-11-17",
+    "t": "Le calcul qui divise : 6÷2(1+2)",
+    "tags": [
+     "Mathématiques"
+    ],
+    "w": "Sélection de départ · maths récréatives"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Micmaths",
+    "d": 1106,
+    "id": "DKvV1S3B4Uc",
+    "l": "fr",
+    "p": "2018-07-02",
+    "t": "Le théorème de Launay",
+    "tags": [
+     "Mathématiques"
+    ],
+    "w": "Sélection de départ · maths récréatives"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Hygiène Mentale",
+    "d": 552,
+    "id": "wtJwVZGuiOY",
+    "l": "fr",
+    "p": "2014-10-07",
+    "s": {
+     "n": 2,
+     "name": "Hygiène Mentale – la série"
+    },
+    "t": "L'ouverture d'esprit et ses limites",
+    "tags": [
+     "Esprit critique"
+    ],
+    "w": "Sélection de départ · esprit critique et méthode"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Hygiène Mentale",
+    "d": 1246,
+    "id": "2XPtzAQxMPw",
+    "l": "fr",
+    "p": "2015-05-06",
+    "s": {
+     "n": 3,
+     "name": "Hygiène Mentale – la série"
+    },
+    "t": "L'autodéfense intellectuelle : des outils pour la recherche d'information",
+    "tags": [
+     "Esprit critique"
+    ],
+    "w": "Sélection de départ · esprit critique et méthode"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Hygiène Mentale",
+    "d": 3688,
+    "id": "h5PrMtmonkU",
+    "l": "fr",
+    "p": "2022-06-28",
+    "t": "L'approche bayésienne peut-elle enrichir la pensée critique ?",
+    "tags": [
+     "Esprit critique"
+    ],
+    "w": "Sélection de départ · esprit critique et méthode"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Veritasium",
+    "d": 1635,
+    "hn": 8,
+    "hnAt": "2026-11-11",
+    "id": "DxL2HoqLbyA",
+    "l": "en",
+    "p": "2023-07-01",
+    "t": "The Most Misunderstood Concept in Physics",
+    "tags": [
+     "Physique"
+    ],
+    "w": "Sélection de départ · physique contre-intuitive"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Veritasium",
+    "d": 1387,
+    "hn": 6,
+    "hnAt": "2026-11-11",
+    "id": "-QTkPfq7w1A",
+    "l": "en",
+    "p": "2025-06-30",
+    "t": "The most counterintuitive device you'll ever see",
+    "tags": [
+     "Physique"
+    ],
+    "w": "Sélection de départ · physique contre-intuitive"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Veritasium",
+    "d": 126,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "mqo1lQL59VI",
+    "l": "en",
+    "p": "2025-02-14",
+    "t": "This Is The Perfect Bowling Strategy",
+    "tags": [
+     "Physique"
+    ],
+    "w": "Sélection de départ · physique contre-intuitive"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "3Blue1Brown",
+    "d": 309,
+    "hn": 23,
+    "hnAt": "2026-11-11",
+    "id": "kjBOesZCoqc",
+    "l": "en",
+    "p": "2016-08-05",
+    "s": {
+     "n": 0,
+     "name": "3Blue1Brown – Essence of linear algebra"
+    },
+    "t": "Essence of linear algebra – preview",
+    "tags": [
+     "Mathématiques"
+    ],
+    "w": "Fait partie d'une série · les maths visualisées, référence mondiale"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "3Blue1Brown",
+    "d": 592,
+    "hn": 26,
+    "hnAt": "2026-11-11",
+    "id": "fNk_zzaMoSs",
+    "l": "en",
+    "p": "2016-08-06",
+    "s": {
+     "n": 1,
+     "name": "3Blue1Brown – Essence of linear algebra"
+    },
+    "t": "Vectors",
+    "tags": [
+     "Mathématiques"
+    ],
+    "w": "Sélection de départ · les maths visualisées, référence mondiale"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "3Blue1Brown",
+    "d": 659,
+    "hn": 4,
+    "hnAt": "2026-11-11",
+    "id": "kYB8IZa5AuE",
+    "l": "en",
+    "p": "2016-08-07",
+    "s": {
+     "n": 3,
+     "name": "3Blue1Brown – Essence of linear algebra"
+    },
+    "t": "Linear transformations and matrices",
+    "tags": [
+     "Mathématiques"
+    ],
+    "w": "Sélection de départ · les maths visualisées, référence mondiale"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "3Blue1Brown",
+    "d": 603,
+    "hn": 8,
+    "hnAt": "2026-11-11",
+    "id": "Ip3X9LOh2dk",
+    "l": "en",
+    "p": "2016-08-10",
+    "s": {
+     "n": 6,
+     "name": "3Blue1Brown – Essence of linear algebra"
+    },
+    "t": "The determinant",
+    "tags": [
+     "Mathématiques"
+    ],
+    "w": "Sélection de départ · les maths visualisées, référence mondiale"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "3Blue1Brown",
+    "d": 852,
+    "hn": 2,
+    "hnAt": "2026-11-11",
+    "id": "LyGKycYT2v0",
+    "l": "en",
+    "p": "2016-08-24",
+    "s": {
+     "n": 9,
+     "name": "3Blue1Brown – Essence of linear algebra"
+    },
+    "t": "Dot products and duality",
+    "tags": [
+     "Mathématiques"
+    ],
+    "w": "Sélection de départ · les maths visualisées, référence mondiale"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "3Blue1Brown",
+    "d": 790,
+    "hn": 1,
+    "hnAt": "2026-11-11",
+    "id": "BaM7OCEm3G0",
+    "l": "en",
+    "p": "2016-09-01",
+    "s": {
+     "n": 11,
+     "name": "3Blue1Brown – Essence of linear algebra"
+    },
+    "t": "Cross products in the light of linear transformations",
+    "tags": [
+     "Mathématiques"
+    ],
+    "w": "Sélection de départ · les maths visualisées, référence mondiale"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "3Blue1Brown",
+    "d": 1036,
+    "hn": 7,
+    "hnAt": "2026-11-11",
+    "id": "PFDu9oVAE-g",
+    "l": "en",
+    "p": "2016-09-15",
+    "s": {
+     "n": 14,
+     "name": "3Blue1Brown – Essence of linear algebra"
+    },
+    "t": "Eigenvectors and eigenvalues",
+    "tags": [
+     "Mathématiques"
+    ],
+    "w": "Sélection de départ · les maths visualisées, référence mondiale"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Kurzgesagt",
+    "d": 466,
+    "hn": 4,
+    "hnAt": "2026-11-11",
+    "id": "Pj-h6MEgE7I",
+    "l": "en",
+    "p": "2022-05-17",
+    "t": "You Are Not Where You Think You Are",
+    "tags": [
+     "Physique"
+    ],
+    "w": "Sélection de départ · sciences en animation"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Kurzgesagt",
+    "d": 1051,
+    "hn": 1,
+    "hnAt": "2026-11-11",
+    "id": "_y9JuojAIg0",
+    "l": "en",
+    "p": "2026-10-08",
+    "t": "We Finally Know More About Humanity's First Civilization",
+    "tags": [
+     "Physique"
+    ],
+    "w": "Sélection de départ · sciences en animation"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Kurzgesagt",
+    "d": 554,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "yDAAlojz8NU",
+    "l": "en",
+    "p": "2026-03-10",
+    "t": "This Is the Scariest Place in The Universe",
+    "tags": [
+     "Astronomie"
+    ],
+    "w": "Sélection de départ · sciences en animation"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Kurzgesagt",
+    "d": 754,
+    "hn": 6,
+    "hnAt": "2026-11-11",
+    "id": "wo_e0EvEZn8",
+    "l": "en",
+    "p": "2025-03-18",
+    "t": "Why Your Brain Blinds You For 2 Hours Every Day",
+    "tags": [
+     "Comportements humains"
+    ],
+    "w": "Sélection de départ · sciences en animation"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "3Blue1Brown",
+    "d": 599,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "k7RM-ot2NWY",
+    "l": "en",
+    "p": "2016-08-06",
+    "s": {
+     "n": 2,
+     "name": "3Blue1Brown – Essence of linear algebra"
+    },
+    "t": "Linear combinations, span, and basis vectors | Chapter 2, Essence of linear algebra",
+    "tags": [
+     "Mathématiques"
+    ],
+    "w": "Fait partie d'une série · les maths visualisées, référence mondiale"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "3Blue1Brown",
+    "d": 604,
+    "hn": 2,
+    "hnAt": "2026-11-11",
+    "id": "XkY2DOUCWMU",
+    "l": "en",
+    "p": "2016-08-08",
+    "s": {
+     "n": 4,
+     "name": "3Blue1Brown – Essence of linear algebra"
+    },
+    "t": "Matrix multiplication as composition | Chapter 4, Essence of linear algebra",
+    "tags": [
+     "Mathématiques"
+    ],
+    "w": "Fait partie d'une série · les maths visualisées, référence mondiale"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "3Blue1Brown",
+    "d": 286,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "rHLEWRxRGiM",
+    "l": "en",
+    "p": "2016-08-09",
+    "s": {
+     "n": 5,
+     "name": "3Blue1Brown – Essence of linear algebra"
+    },
+    "t": "Three-dimensional linear transformations | Chapter 5, Essence of linear algebra",
+    "tags": [
+     "Mathématiques"
+    ],
+    "w": "Fait partie d'une série · les maths visualisées, référence mondiale"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "3Blue1Brown",
+    "d": 729,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "uQhTuRlWMxw",
+    "l": "en",
+    "p": "2016-08-15",
+    "s": {
+     "n": 7,
+     "name": "3Blue1Brown – Essence of linear algebra"
+    },
+    "t": "Inverse matrices, column space and null space | Chapter 7, Essence of linear algebra",
+    "tags": [
+     "Mathématiques"
+    ],
+    "w": "Fait partie d'une série · les maths visualisées, référence mondiale"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "3Blue1Brown",
+    "d": 267,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "v8VSDg_WQlA",
+    "l": "en",
+    "p": "2016-08-16",
+    "s": {
+     "n": 8,
+     "name": "3Blue1Brown – Essence of linear algebra"
+    },
+    "t": "Nonsquare matrices as transformations between dimensions | Chapter 8, Essence of linear algebra",
+    "tags": [
+     "Mathématiques"
+    ],
+    "w": "Fait partie d'une série · les maths visualisées, référence mondiale"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Numberphile",
+    "d": 1185,
+    "hn": 5,
+    "hnAt": "2026-11-11",
+    "id": "bAnwMdfcMVw",
+    "l": "en",
+    "p": "2026-10-15",
+    "t": "No More Heroes - Terence Tao Talks to Numberphile About AI",
+    "tags": [
+     "IA"
+    ],
+    "w": "Découverte · citée par 3Blue1Brown et Micmaths"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Numberphile",
+    "d": 1785,
+    "hn": 0,
+    "hnAt": "2026-11-11",
+    "id": "3geDF-DAwpg",
+    "l": "en",
+    "p": "2026-09-18",
+    "t": "SOLVED: Navier-Stokes cracked by AI - Numberphile",
+    "tags": [
+     "IA"
+    ],
+    "w": "Découverte · citée par 3Blue1Brown et Micmaths"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Confessions d'Histoire",
+    "d": 910,
+    "id": "FJ5BY8Yd95o",
+    "l": "fr",
+    "p": "2015-06-05",
+    "t": "La Première Croisade - Baudouin 1er - Kiliç Arslan - Alexis Comnène",
+    "tags": [
+     "Physique"
+    ],
+    "w": "Découverte · citée par Balade Mentale et Histony"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Confessions d'Histoire",
+    "d": 1758,
+    "id": "YNCkYrI4CP4",
+    "l": "fr",
+    "p": "2015-12-04",
+    "t": "Aliénor & Conséquences (La 2ème Croisade) - Aliénor d'Aquitaine, Louis VII",
+    "tags": [
+     "Physique"
+    ],
+    "w": "Découverte · citée par Balade Mentale et Histony"
    }
   ],
-  "label": "Éloquence & communication",
-  "order": 11
+  "label": "Sciences",
+  "order": 2
+ },
+ "tech": {
+  "items": [
+   {
+    "a": "2026-11-06",
+    "c": "Micode",
+    "d": 1486,
+    "e": 0,
+    "id": "9YRk_7pYWXo",
+    "l": "fr",
+    "p": "2024-07-02",
+    "t": "Le jour où un employé a rançonné son propre patron",
+    "tags": [
+     "Cybersécurité"
+    ],
+    "w": "Sélection de départ · enquêtes cybersécurité"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Micode",
+    "d": 2482,
+    "e": 0,
+    "id": "gXtp6C-3JKo",
+    "l": "fr",
+    "p": "2024-12-27",
+    "t": "Le virus le plus flippant de l'Histoire",
+    "tags": [
+     "Cybersécurité"
+    ],
+    "w": "Sélection de départ · enquêtes cybersécurité"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Micode",
+    "d": 319,
+    "id": "PDllw6Y3CuY",
+    "l": "fr",
+    "p": "2023-06-21",
+    "t": "Qui se cache derrière les arnaques par SMS ? Micode raconte son enquête",
+    "tags": [
+     "Cybersécurité"
+    ],
+    "w": "Sélection de départ · enquêtes cybersécurité"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Micode",
+    "d": 879,
+    "id": "4FYBf0VY-k0",
+    "l": "fr",
+    "p": "2025-01-03",
+    "t": "Micode décrypte les scènes de hacking et d'IA au cinéma",
+    "tags": [
+     "Cybersécurité"
+    ],
+    "w": "Sélection de départ · enquêtes cybersécurité"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Underscore_",
+    "id": "jvudfH02Z0g",
+    "l": "fr",
+    "t": "Il hacke une intelligence artificielle avec un masque",
+    "tags": [
+     "IA",
+     "Cybersécurité"
+    ],
+    "w": "Sélection de départ · émission tech et IA",
+    "x": 1
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Underscore_",
+    "d": 588,
+    "e": 0,
+    "id": "uvnZOjPeV6M",
+    "l": "fr",
+    "p": "2023-03-23",
+    "t": "Pourquoi ChatGPT vient de se faire détrôner",
+    "tags": [
+     "IA"
+    ],
+    "w": "Sélection de départ · émission tech et IA"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Underscore_",
+    "d": 1211,
+    "e": 0,
+    "id": "S_kBkezX1ME",
+    "l": "fr",
+    "p": "2024-08-14",
+    "t": "Des chercheurs en IA s'apprêtent à décoder la communication animale",
+    "tags": [
+     "IA"
+    ],
+    "w": "Sélection de départ · émission tech et IA"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Aywen",
+    "d": 871,
+    "id": "juQyLfgAiSI",
+    "l": "fr",
+    "p": "2025-10-28",
+    "t": "J'ai ouvert un site sur le Dark Web",
+    "tags": [
+     "Cybersécurité"
+    ],
+    "w": "Ton choix · informatique et défis de code"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Aywen",
+    "d": 614,
+    "id": "N6wD3DNZsj0",
+    "l": "fr",
+    "p": "2025-06-14",
+    "t": "Un abonné a tenté de me hacker en m'envoyant un jeu",
+    "tags": [
+     "Cybersécurité"
+    ],
+    "w": "Ton choix · informatique et défis de code"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Aywen",
+    "d": 1066,
+    "id": "0l4rQi9RcJc",
+    "l": "fr",
+    "p": "2024-07-09",
+    "t": "J'ai forcé 8 développeurs à coder un jeu sans se parler",
+    "tags": [
+     "Programmation"
+    ],
+    "w": "Ton choix · informatique et défis de code"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Aywen",
+    "d": 789,
+    "id": "iklvKvf3rQU",
+    "l": "fr",
+    "p": "2025-06-30",
+    "t": "J'ai forcé 10 développeurs à coder un jeu de stratégie sans se parler",
+    "tags": [
+     "Programmation"
+    ],
+    "w": "Ton choix · informatique et défis de code"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Aywen",
+    "d": 1152,
+    "id": "IIyZSnjMB3I",
+    "l": "fr",
+    "p": "2025-12-02",
+    "t": "J'ai forcé 9 développeurs à coder un jeu Roblox sans se parler",
+    "tags": [
+     "Programmation"
+    ],
+    "w": "Ton choix · informatique et défis de code"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Aywen",
+    "d": 1788,
+    "id": "jYJtSADkpwM",
+    "l": "fr",
+    "p": "2026-05-26",
+    "t": "J'ai laissé 4 IA coder un jeu d'horreur",
+    "tags": [
+     "IA",
+     "Programmation"
+    ],
+    "w": "Ton choix · informatique et défis de code"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Aywen",
+    "d": 1021,
+    "id": "MKkk6qRqwWg",
+    "l": "fr",
+    "p": "2025-10-22",
+    "s": {
+     "n": 1,
+     "name": "Aywen – Je code vos idées"
+    },
+    "t": "Je code vos idées les plus débiles",
+    "tags": [
+     "Programmation"
+    ],
+    "w": "Ton choix · informatique et défis de code"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Aywen",
+    "d": 726,
+    "id": "H5VyDTUIFAQ",
+    "l": "fr",
+    "p": "2025-04-01",
+    "s": {
+     "n": 2,
+     "name": "Aywen – Je code vos idées"
+    },
+    "t": "Je code vos idées les plus stupides #2",
+    "tags": [
+     "Programmation"
+    ],
+    "w": "Ton choix · informatique et défis de code"
+   },
+   {
+    "a": "2026-11-06",
+    "c": "Aywen",
+    "d": 1157,
+    "id": "vZTPPrtzkTg",
+    "l": "fr",
+    "p": "2023-06-28",
+    "t": "La vérité sur ma vidéo la plus dangereuse (#3)",
+    "tags": [
+     "Programmation"
+    ],
+    "w": "Ton choix · informatique et défis de code"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "ElecTruc",
+    "d": 668,
+    "id": "7zM9Oy7aINk",
+    "l": "fr",
+    "p": "2026-11-11",
+    "t": "Voiture électrique : elle tombe en panne là où personne ne regarde",
+    "tags": [
+     "Programmation"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "ElecTruc",
+    "d": 1578,
+    "id": "LLkAW2Iv3h8",
+    "l": "fr",
+    "p": "2026-11-04",
+    "t": "Voitures chinoises : le piège commence APRÈS l'achat !",
+    "tags": [
+     "Programmation"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "ElecTruc",
+    "d": 1121,
+    "id": "JIE42Czs4co",
+    "l": "fr",
+    "p": "2026-10-30",
+    "t": "Le PIÈGE du leasing à 200 €/mois (et c’est pire que prévu)",
+    "tags": [
+     "Programmation"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "ElecTruc",
+    "d": 1636,
+    "id": "C6DlxBHJdRk",
+    "l": "fr",
+    "p": "2026-10-16",
+    "t": "BYD : la plus grosse arnaque de l'histoire automobile ?",
+    "tags": [
+     "Cybersécurité"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "ElecTruc",
+    "d": 570,
+    "id": "JvaF1BT6ltc",
+    "l": "fr",
+    "p": "2026-05-07",
+    "t": "Voiture électrique : la plus grosse arnaque de l'histoire automobile ?",
+    "tags": [
+     "Cybersécurité"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "ElecTruc",
+    "d": 914,
+    "id": "vOPlc5KkpaI",
+    "l": "fr",
+    "p": "2026-04-17",
+    "t": "Le moteur que l'Europe voulait INTERDIRE vient de l'HUMILIER",
+    "tags": [
+     "Programmation"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Aywen",
+    "d": 1114,
+    "id": "MfUjveHz2Tk",
+    "l": "fr",
+    "p": "2026-11-08",
+    "t": "J'ai testé 3 projets Github Viraux pour voir de quoi l'avenir est fait",
+    "tags": [
+     "Programmation"
+    ],
+    "w": "Ton choix · informatique et défis de code"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Aywen",
+    "d": 1561,
+    "id": "rit3cNKGNfs",
+    "l": "fr",
+    "p": "2026-10-31",
+    "t": "J'ai laissé 2 IA créer un jeu Ultra Réaliste sur Unreal Engine (c'est abusé)",
+    "tags": [
+     "IA"
+    ],
+    "w": "Ton choix · informatique et défis de code"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Aywen",
+    "d": 1223,
+    "id": "s9N3MCOrN7I",
+    "l": "fr",
+    "p": "2026-10-29",
+    "t": "J’ai installé toutes les pubs arnaques que j’ai vues (pire idée)",
+    "tags": [
+     "Cybersécurité"
+    ],
+    "w": "Ton choix · informatique et défis de code"
+   },
+   {
+    "a": "2026-11-11",
+    "c": "Aywen",
+    "d": 727,
+    "id": "2Npjc9fhwTU",
+    "l": "fr",
+    "p": "2025-01-29",
+    "s": {
+     "n": 3,
+     "name": "Aywen – Je code vos idées"
+    },
+    "t": "Je code vos idées les plus stupides",
+    "tags": [
+     "Programmation"
+    ],
+    "w": "Fait partie d'une série · informatique et défis de code"
+   }
+  ],
+  "label": "Tech & numérique",
+  "order": 4
  }
 }
