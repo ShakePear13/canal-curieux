@@ -1348,6 +1348,19 @@
      "Climat & CO2"
     ],
     "w": "Fait partie d'une série · énergie et climat par Jancovici"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "Jean-Marc Jancovici",
+    "d": 2485,
+    "id": "Ua15pQWN7sw",
+    "l": "fr",
+    "p": "2026-11-13",
+    "t": "DANS LES 5 ANS, ON VA SE PRENDRE DES BAFFES.",
+    "tags": [
+     "Énergie"
+    ],
+    "w": "Ton choix · énergie et climat par Jancovici"
    }
   ],
   "label": "Énergie & climat",
@@ -1867,7 +1880,8 @@
     "tags": [
      "Bourse"
     ],
-    "w": "Ton choix · patrimoine et investissement expliqués"
+    "w": "Ton choix · patrimoine et investissement expliqués",
+    "x": 1
    },
    {
     "a": "2026-11-11",
@@ -1995,6 +2009,75 @@
      "Bourse"
     ],
     "w": "Sélection de départ · bases de l'investissement, analyste financier"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "Finary",
+    "d": 3016,
+    "id": "X83r-u_cm_M",
+    "l": "fr",
+    "p": "2026-11-15",
+    "t": "Ce cours sur l’IA devrait être obligatoire (avec Defend Intelligence)",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Ton choix · patrimoine et investissement expliqués"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "Finary",
+    "d": 1491,
+    "id": "cX-uKc8DkpY",
+    "l": "fr",
+    "p": "2026-11-13",
+    "t": "SpaceX, OpenAI, Anthropic : le piège de la Bourse",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Ton choix · patrimoine et investissement expliqués"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "Nicolas Chéron",
+    "d": 1006,
+    "id": "eOBevc8mtuo",
+    "l": "fr",
+    "p": "2026-11-15",
+    "t": "Comment Porsche est en train de tout perdre",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Ton choix · stratégie boursière et lecture des marchés"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "The Plain Bagel",
+    "d": 972,
+    "hn": 0,
+    "hnAt": "2026-11-16",
+    "id": "V6Vm1LU0kbQ",
+    "l": "en",
+    "p": "2026-11-13",
+    "t": "Canada Just Made Some Big Tax Changes",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Sélection de départ · bases de l'investissement, analyste financier"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "Patrick Boyle",
+    "d": 2269,
+    "hn": 1,
+    "hnAt": "2026-11-16",
+    "id": "6dOFQHTVzEg",
+    "l": "en",
+    "p": "2026-11-15",
+    "t": "The Risk Factors Nvidia Forgot to Mention",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Sélection de départ · ex-gérant de fonds, finance et marchés"
    }
   ],
   "label": "Finance & bourse",
@@ -2648,6 +2731,73 @@
     "t": "Why Russia Thinks It Can Attack Europe and WIN",
     "tags": [
      "Europe & UE"
+    ],
+    "w": "Sélection de départ · géographie et géopolitique"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "LEGEND",
+    "d": 7049,
+    "id": "DQ2O_pctb1o",
+    "l": "fr",
+    "p": "2026-11-15",
+    "t": "CE QUE VOUS MANGEZ VOUS T*E : SUCRES CACHÉS, SALADES CHLORÉES, SAUMONS TOXIQUES… IL BALANCE TOUT !",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Ton choix · grands entretiens"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "LEGEND",
+    "d": 4565,
+    "id": "usYjvK7Xrl0",
+    "l": "fr",
+    "p": "2026-11-13",
+    "t": "ON VA VIVRE UN IMMENSE KRACH BOURSIER ! CET EXPERT NOUS EXPLIQUE COMMENT S’Y PRÉPARER",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Ton choix · grands entretiens"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "VA Plus",
+    "d": 1768,
+    "id": "4l7A1JZDj-4",
+    "l": "fr",
+    "p": "2026-11-15",
+    "t": "Ce que son tour de France lui a révélé sur les Français — Henri d’Anselme",
+    "tags": [
+     "Politique française"
+    ],
+    "w": "Ton choix · format magazine de VA Plus"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "VA Plus",
+    "d": 1550,
+    "id": "S2QDiqKll9c",
+    "l": "fr",
+    "p": "2026-11-13",
+    "t": "Présidentielles 2027 : le PIRE du programme LFI (décryptage)",
+    "tags": [
+     "Politique française"
+    ],
+    "w": "Ton choix · format magazine de VA Plus"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "RealLifeLore",
+    "d": 2508,
+    "hn": 0,
+    "hnAt": "2026-11-16",
+    "id": "NcsU6Z8J8lw",
+    "l": "en",
+    "p": "2026-11-14",
+    "t": "How the Cascadia Megaquake Will Change America Forever",
+    "tags": [
+     "Géopolitique"
     ],
     "w": "Sélection de départ · géographie et géopolitique"
    }
@@ -3668,6 +3818,170 @@
      "Guerres mondiales"
     ],
     "w": "Fait partie d'une série · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "FranceLocalHistory",
+    "d": 2407,
+    "id": "YkVJOce1W7E",
+    "l": "fr",
+    "p": "2026-11-15",
+    "t": "Toute l'histoire des rois de France en 40 minutes",
+    "tags": [
+     "Histoire de France"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "FranceLocalHistory",
+    "d": 2368,
+    "id": "SOfPX0PAwa4",
+    "l": "fr",
+    "p": "2026-11-14",
+    "t": "Toute l'histoire de la Seconde Guerre mondiale en 39 minutes",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "FranceLocalHistory",
+    "d": 2153,
+    "id": "Ie467jclfVs",
+    "l": "fr",
+    "p": "2026-11-13",
+    "t": "Toute l’histoire de l’Algérie en 35 minutes",
+    "tags": [
+     "Histoire générale"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "Kings and Generals",
+    "d": 4816,
+    "hn": 0,
+    "hnAt": "2026-11-16",
+    "id": "scZAjqFA7kk",
+    "l": "en",
+    "p": "2026-11-15",
+    "t": "Hunyadi vs the Ottomans: The Full Story Behind the Legend",
+    "tags": [
+     "Histoire générale"
+    ],
+    "w": "Sélection de départ · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "Kings and Generals",
+    "d": 979,
+    "hn": 0,
+    "hnAt": "2026-11-16",
+    "id": "vhmHhCEwoSk",
+    "l": "en",
+    "p": "2026-11-12",
+    "t": "Why Iran Couldn't Defeat Saddam Hussein - Iran-Iraq War DOCUMENTARY",
+    "tags": [
+     "Histoire générale"
+    ],
+    "w": "Sélection de départ · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "Kings and Generals",
+    "d": 1234,
+    "hn": 0,
+    "hnAt": "2026-11-16",
+    "id": "PID0vt52-vY",
+    "l": "en",
+    "p": "2022-02-22",
+    "s": {
+     "loose": true,
+     "name": "Kings and Generals – Pacific War"
+    },
+    "t": "Japanese Invasion of Timor - Pacific War #14 Animated DOCUMENTARY",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Fait partie d'une série · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "Kings and Generals",
+    "d": 1320,
+    "hn": 0,
+    "hnAt": "2026-11-16",
+    "id": "QOOJcr2DQSQ",
+    "l": "en",
+    "p": "2022-03-01",
+    "s": {
+     "loose": true,
+     "name": "Kings and Generals – Pacific War"
+    },
+    "t": "Fall of Java - Pacific War #15 Animated DOCUMENTARY",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Fait partie d'une série · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "Kings and Generals",
+    "d": 1038,
+    "hn": 0,
+    "hnAt": "2026-11-16",
+    "id": "oyu7z7wQNqg",
+    "l": "en",
+    "p": "2022-03-08",
+    "s": {
+     "loose": true,
+     "name": "Kings and Generals – Pacific War"
+    },
+    "t": "Fall of Rangoon - Pacific War #16 Animated DOCUMENTARY",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Fait partie d'une série · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "Kings and Generals",
+    "d": 1145,
+    "hn": 0,
+    "hnAt": "2026-11-16",
+    "id": "z-0liSYA60M",
+    "l": "en",
+    "p": "2022-03-15",
+    "s": {
+     "loose": true,
+     "name": "Kings and Generals – Pacific War"
+    },
+    "t": "How the US Responded to Pearl Harbor - Pacific War #17 DOCUMENTARY",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Fait partie d'une série · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "Kings and Generals",
+    "d": 1135,
+    "hn": 0,
+    "hnAt": "2026-11-16",
+    "id": "7FO4o-N2fKk",
+    "l": "en",
+    "p": "2022-03-22",
+    "s": {
+     "loose": true,
+     "name": "Kings and Generals – Pacific War"
+    },
+    "t": "Hideki Tojo: Bringing Japan Into the War - Pacific War #18 DOCUMENTARY",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Fait partie d'une série · histoire militaire en cartes animées"
    }
   ],
   "label": "Histoire",
@@ -4615,6 +4929,116 @@
      "Analyse de morceaux"
     ],
     "w": "Fait partie d'une série · un producteur décortique les morceaux"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "Rick Beato",
+    "d": 1208,
+    "hn": 0,
+    "hnAt": "2026-11-16",
+    "id": "ct_NV4sXOds",
+    "l": "en",
+    "p": "2026-11-13",
+    "t": "The Most Difficult Song Breakdown I've Ever Done",
+    "tags": [
+     "Analyse de morceaux"
+    ],
+    "w": "Sélection de départ · un producteur décortique les morceaux"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "Rick Beato",
+    "d": 812,
+    "hn": 0,
+    "hnAt": "2026-11-16",
+    "id": "M7a4t0U4MCM",
+    "l": "en",
+    "p": "2020-09-08",
+    "s": {
+     "loose": true,
+     "name": "Rick Beato – What Makes This Song Great?"
+    },
+    "t": "What Makes This Song Great? \"\"Love, Reign O'er Me\" The Who",
+    "tags": [
+     "Analyse de morceaux"
+    ],
+    "w": "Fait partie d'une série · un producteur décortique les morceaux"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "Rick Beato",
+    "d": 1190,
+    "hn": 0,
+    "hnAt": "2026-11-16",
+    "id": "rUmgITeGWG4",
+    "l": "en",
+    "p": "2020-08-26",
+    "s": {
+     "loose": true,
+     "name": "Rick Beato – What Makes This Song Great?"
+    },
+    "t": "What Makes This Song Great? \"Cardinal Motion\" Crowfield",
+    "tags": [
+     "Analyse de morceaux"
+    ],
+    "w": "Fait partie d'une série · un producteur décortique les morceaux"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "Rick Beato",
+    "d": 1154,
+    "hn": 0,
+    "hnAt": "2026-11-16",
+    "id": "SCyvVDNGhDc",
+    "l": "en",
+    "p": "2020-07-09",
+    "s": {
+     "loose": true,
+     "name": "Rick Beato – What Makes This Song Great?"
+    },
+    "t": "What Makes This Song Great? \"The Scientist\" Coldplay",
+    "tags": [
+     "Analyse de morceaux"
+    ],
+    "w": "Fait partie d'une série · un producteur décortique les morceaux"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "Rick Beato",
+    "d": 1449,
+    "hn": 1,
+    "hnAt": "2026-11-16",
+    "id": "9k55l7LMA7w",
+    "l": "en",
+    "p": "2020-06-30",
+    "s": {
+     "loose": true,
+     "name": "Rick Beato – What Makes This Song Great?"
+    },
+    "t": "What Makes This Song Great? \"Black\" Pearl Jam",
+    "tags": [
+     "Analyse de morceaux"
+    ],
+    "w": "Fait partie d'une série · un producteur décortique les morceaux"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "Rick Beato",
+    "d": 992,
+    "hn": 0,
+    "hnAt": "2026-11-16",
+    "id": "r45L38Eyhpw",
+    "l": "en",
+    "p": "2020-05-27",
+    "s": {
+     "loose": true,
+     "name": "Rick Beato – What Makes This Song Great?"
+    },
+    "t": "What Makes This Song Great? \"Amelia\" Joni Mitchell",
+    "tags": [
+     "Analyse de morceaux"
+    ],
+    "w": "Fait partie d'une série · un producteur décortique les morceaux"
    }
   ],
   "label": "Musique",
@@ -4909,7 +5333,8 @@
     "tags": [
      "Philosophie morale"
     ],
-    "w": "Sélection de départ · philosophie par un prof de philo"
+    "w": "Sélection de départ · philosophie par un prof de philo",
+    "x": 1
    },
    {
     "a": "2026-11-11",
@@ -6035,6 +6460,19 @@
      "Mathématiques"
     ],
     "w": "Sélection de départ · les maths visualisées, référence mondiale"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "Balade Mentale",
+    "d": 1387,
+    "id": "hCnZQlKCJC4",
+    "l": "fr",
+    "p": "2026-11-15",
+    "t": "La plus étrange découverte au fond des océans : le souffle brûlant des abysses",
+    "tags": [
+     "Physique"
+    ],
+    "w": "Sélection de départ · astronomie et cosmos, très visuel"
    }
   ],
   "label": "Sciences",
@@ -6472,6 +6910,32 @@
     "l": "fr",
     "p": "2025-07-30",
     "t": "J’ai infiltré une pyramide de Ponzi",
+    "tags": [
+     "Programmation"
+    ],
+    "w": "Sélection de départ · enquêtes cybersécurité"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "Aywen",
+    "d": 1100,
+    "id": "EL2Q82KPJpQ",
+    "l": "fr",
+    "p": "2026-11-12",
+    "t": "J'ai laissé 10 devs créer un jeu Roblox (et il doit rapporter de l’argent)",
+    "tags": [
+     "Programmation"
+    ],
+    "w": "Ton choix · informatique et défis de code"
+   },
+   {
+    "a": "2026-11-16",
+    "c": "Micode",
+    "d": 2008,
+    "id": "x8csw1oU7nk",
+    "l": "fr",
+    "p": "2026-11-12",
+    "t": "Le livre qu'on ne pouvait pas ouvrir",
     "tags": [
      "Programmation"
     ],

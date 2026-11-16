@@ -1,13 +1,18 @@
 {
  "dernier": {
   "ajouts": {
-   "histoire": 5,
-   "musique": 6
+   "energie": 1,
+   "finance": 5,
+   "geopol": 5,
+   "histoire": 10,
+   "musique": 6,
+   "sciences": 1,
+   "tech": 2
   },
-  "date": "2026-11-11",
+  "date": "2026-11-16",
   "decouvertes": [],
-  "hn": 33,
-  "indisponibles": 0,
+  "hn": 16,
+  "indisponibles": 2,
   "liens_colles": 0,
   "problemes": [
    "Oceanverse : chaîne non identifiée, lien à fournir."
@@ -19,21 +24,98 @@
    "Rick Beato – What Makes This Song Great? : +5"
   ],
   "titres": [
-   "Rick Beato — Shinedown (The Band I Went Platinum With) Finally Sets The Record Straight",
-   "Kings and Generals — Invasion of New Britain - Pacific War #9 Animated DOCUMENTARY",
-   "Kings and Generals — Fall of Malaya - Pacific War #10 Animated DOCUMENTARY",
-   "Kings and Generals — Battle of Makassar Strait - Pacific War #11 Animated DOCUMENTARY",
-   "Kings and Generals — Fall of Singapore - Pacific War #12 Animated DOCUMENTARY",
-   "Kings and Generals — Japanese Invasion of Sumatra - Pacific War #13 Animated DOCUMENTARY",
-   "Rick Beato — What Makes This Song Great? Ep.102 U2 \"I Still Haven't Found What I'm Looking For\"",
-   "Rick Beato — What Makes This Song Great? “Since U Been Gone” Kelly Clarkson",
-   "Rick Beato — What Makes This Song Great? \"Do You Feel Like We Do\"  Peter Frampton",
-   "Rick Beato — What Makes This Song Great? \"Waste\" Phish",
-   "Rick Beato — What Makes This Song Great? \"Weak and Powerless\" A Perfect Circle"
+   "FranceLocalHistory — Toute l'histoire des rois de France en 40 minutes",
+   "FranceLocalHistory — Toute l'histoire de la Seconde Guerre mondiale en 39 minutes",
+   "FranceLocalHistory — Toute l’histoire de l’Algérie en 35 minutes",
+   "LEGEND — CE QUE VOUS MANGEZ VOUS T*E : SUCRES CACHÉS, SALADES CHLORÉES, SAUMONS TOXIQUES… IL BALANCE TOUT !",
+   "LEGEND — ON VA VIVRE UN IMMENSE KRACH BOURSIER ! CET EXPERT NOUS EXPLIQUE COMMENT S’Y PRÉPARER",
+   "VA Plus — Ce que son tour de France lui a révélé sur les Français — Henri d’Anselme",
+   "VA Plus — Présidentielles 2027 : le PIRE du programme LFI (décryptage)",
+   "Finary — Ce cours sur l’IA devrait être obligatoire (avec Defend Intelligence)",
+   "Finary — SpaceX, OpenAI, Anthropic : le piège de la Bourse",
+   "Aywen — J'ai laissé 10 devs créer un jeu Roblox (et il doit rapporter de l’argent)",
+   "Nicolas Chéron — Comment Porsche est en train de tout perdre",
+   "Jean-Marc Jancovici — DANS LES 5 ANS, ON VA SE PRENDRE DES BAFFES.",
+   "Micode — Le livre qu'on ne pouvait pas ouvrir",
+   "The Plain Bagel — Canada Just Made Some Big Tax Changes",
+   "Patrick Boyle — The Risk Factors Nvidia Forgot to Mention",
+   "RealLifeLore — How the Cascadia Megaquake Will Change America Forever",
+   "Balade Mentale — La plus étrange découverte au fond des océans : le souffle brûlant des abysses",
+   "Kings and Generals — Hunyadi vs the Ottomans: The Full Story Behind the Legend",
+   "Kings and Generals — Why Iran Couldn't Defeat Saddam Hussein - Iran-Iraq War DOCUMENTARY",
+   "Rick Beato — The Most Difficult Song Breakdown I've Ever Done",
+   "Kings and Generals — Japanese Invasion of Timor - Pacific War #14 Animated DOCUMENTARY",
+   "Kings and Generals — Fall of Java - Pacific War #15 Animated DOCUMENTARY",
+   "Kings and Generals — Fall of Rangoon - Pacific War #16 Animated DOCUMENTARY",
+   "Kings and Generals — How the US Responded to Pearl Harbor - Pacific War #17 DOCUMENTARY",
+   "Kings and Generals — Hideki Tojo: Bringing Japan Into the War - Pacific War #18 DOCUMENTARY",
+   "Rick Beato — What Makes This Song Great? \"\"Love, Reign O'er Me\" The Who",
+   "Rick Beato — What Makes This Song Great? \"Cardinal Motion\" Crowfield",
+   "Rick Beato — What Makes This Song Great? \"The Scientist\" Coldplay",
+   "Rick Beato — What Makes This Song Great? \"Black\" Pearl Jam",
+   "Rick Beato — What Makes This Song Great? \"Amelia\" Joni Mitchell"
   ],
-  "total": 431
+  "total": 459
  },
  "historique": [
+  {
+   "ajouts": {
+    "energie": 1,
+    "finance": 5,
+    "geopol": 5,
+    "histoire": 10,
+    "musique": 6,
+    "sciences": 1,
+    "tech": 2
+   },
+   "date": "2026-11-16",
+   "decouvertes": [],
+   "hn": 16,
+   "indisponibles": 2,
+   "liens_colles": 0,
+   "problemes": [
+    "Oceanverse : chaîne non identifiée, lien à fournir."
+   ],
+   "quota": 212,
+   "reattribuees": 0,
+   "series": [
+    "Kings and Generals – Pacific War : +5",
+    "Rick Beato – What Makes This Song Great? : +5"
+   ],
+   "titres": [
+    "FranceLocalHistory — Toute l'histoire des rois de France en 40 minutes",
+    "FranceLocalHistory — Toute l'histoire de la Seconde Guerre mondiale en 39 minutes",
+    "FranceLocalHistory — Toute l’histoire de l’Algérie en 35 minutes",
+    "LEGEND — CE QUE VOUS MANGEZ VOUS T*E : SUCRES CACHÉS, SALADES CHLORÉES, SAUMONS TOXIQUES… IL BALANCE TOUT !",
+    "LEGEND — ON VA VIVRE UN IMMENSE KRACH BOURSIER ! CET EXPERT NOUS EXPLIQUE COMMENT S’Y PRÉPARER",
+    "VA Plus — Ce que son tour de France lui a révélé sur les Français — Henri d’Anselme",
+    "VA Plus — Présidentielles 2027 : le PIRE du programme LFI (décryptage)",
+    "Finary — Ce cours sur l’IA devrait être obligatoire (avec Defend Intelligence)",
+    "Finary — SpaceX, OpenAI, Anthropic : le piège de la Bourse",
+    "Aywen — J'ai laissé 10 devs créer un jeu Roblox (et il doit rapporter de l’argent)",
+    "Nicolas Chéron — Comment Porsche est en train de tout perdre",
+    "Jean-Marc Jancovici — DANS LES 5 ANS, ON VA SE PRENDRE DES BAFFES.",
+    "Micode — Le livre qu'on ne pouvait pas ouvrir",
+    "The Plain Bagel — Canada Just Made Some Big Tax Changes",
+    "Patrick Boyle — The Risk Factors Nvidia Forgot to Mention",
+    "RealLifeLore — How the Cascadia Megaquake Will Change America Forever",
+    "Balade Mentale — La plus étrange découverte au fond des océans : le souffle brûlant des abysses",
+    "Kings and Generals — Hunyadi vs the Ottomans: The Full Story Behind the Legend",
+    "Kings and Generals — Why Iran Couldn't Defeat Saddam Hussein - Iran-Iraq War DOCUMENTARY",
+    "Rick Beato — The Most Difficult Song Breakdown I've Ever Done",
+    "Kings and Generals — Japanese Invasion of Timor - Pacific War #14 Animated DOCUMENTARY",
+    "Kings and Generals — Fall of Java - Pacific War #15 Animated DOCUMENTARY",
+    "Kings and Generals — Fall of Rangoon - Pacific War #16 Animated DOCUMENTARY",
+    "Kings and Generals — How the US Responded to Pearl Harbor - Pacific War #17 DOCUMENTARY",
+    "Kings and Generals — Hideki Tojo: Bringing Japan Into the War - Pacific War #18 DOCUMENTARY",
+    "Rick Beato — What Makes This Song Great? \"\"Love, Reign O'er Me\" The Who",
+    "Rick Beato — What Makes This Song Great? \"Cardinal Motion\" Crowfield",
+    "Rick Beato — What Makes This Song Great? \"The Scientist\" Coldplay",
+    "Rick Beato — What Makes This Song Great? \"Black\" Pearl Jam",
+    "Rick Beato — What Makes This Song Great? \"Amelia\" Joni Mitchell"
+   ],
+   "total": 459
+  },
   {
    "ajouts": {
     "histoire": 5,
@@ -52,19 +134,6 @@
    "series": [
     "Kings and Generals – Pacific War : +5",
     "Rick Beato – What Makes This Song Great? : +5"
-   ],
-   "titres": [
-    "Rick Beato — Shinedown (The Band I Went Platinum With) Finally Sets The Record Straight",
-    "Kings and Generals — Invasion of New Britain - Pacific War #9 Animated DOCUMENTARY",
-    "Kings and Generals — Fall of Malaya - Pacific War #10 Animated DOCUMENTARY",
-    "Kings and Generals — Battle of Makassar Strait - Pacific War #11 Animated DOCUMENTARY",
-    "Kings and Generals — Fall of Singapore - Pacific War #12 Animated DOCUMENTARY",
-    "Kings and Generals — Japanese Invasion of Sumatra - Pacific War #13 Animated DOCUMENTARY",
-    "Rick Beato — What Makes This Song Great? Ep.102 U2 \"I Still Haven't Found What I'm Looking For\"",
-    "Rick Beato — What Makes This Song Great? “Since U Been Gone” Kelly Clarkson",
-    "Rick Beato — What Makes This Song Great? \"Do You Feel Like We Do\"  Peter Frampton",
-    "Rick Beato — What Makes This Song Great? \"Waste\" Phish",
-    "Rick Beato — What Makes This Song Great? \"Weak and Powerless\" A Perfect Circle"
    ],
    "total": 431
   },
@@ -168,5 +237,5 @@
    "total": 310
   }
  ],
- "maj": "2026-11-11"
+ "maj": "2026-11-16"
 }
