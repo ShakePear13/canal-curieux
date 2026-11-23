@@ -668,6 +668,36 @@
      "Monnaie & banques centrales"
     ],
     "w": "Sélection de départ · référence de la vulgarisation économique en français"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Money & Macro",
+    "d": 1461,
+    "hn": 0,
+    "hnAt": "2026-11-23",
+    "id": "WTF-5kgcHC4",
+    "l": "en",
+    "p": "2026-11-19",
+    "t": "How to actually solve the affordability crisis",
+    "tags": [
+     "Capitalisme & croissance"
+    ],
+    "w": "Sélection de départ · macroéconomie par un économiste"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Wendover Productions",
+    "d": 1143,
+    "hn": 0,
+    "hnAt": "2026-11-23",
+    "id": "HDfFSvCD8j0",
+    "l": "en",
+    "p": "2026-11-21",
+    "t": "The Airport Lounge Race",
+    "tags": [
+     "Capitalisme & croissance"
+    ],
+    "w": "Sélection de départ · économie et logistique du monde réel"
    }
   ],
   "label": "Économie",
@@ -1361,6 +1391,19 @@
      "Énergie"
     ],
     "w": "Ton choix · énergie et climat par Jancovici"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Le Réveilleur",
+    "d": 1773,
+    "id": "640j5Lvgz4Q",
+    "l": "fr",
+    "p": "2026-11-16",
+    "t": "On n'a pas assez de cuivre pour la transition... vraiment ?",
+    "tags": [
+     "Énergie"
+    ],
+    "w": "Sélection de départ · climat et énergie, sources à l'appui"
    }
   ],
   "label": "Énergie & climat",
@@ -1880,8 +1923,7 @@
     "tags": [
      "Bourse"
     ],
-    "w": "Ton choix · patrimoine et investissement expliqués",
-    "x": 1
+    "w": "Ton choix · patrimoine et investissement expliqués"
    },
    {
     "a": "2026-11-11",
@@ -2074,6 +2116,60 @@
     "l": "en",
     "p": "2026-11-15",
     "t": "The Risk Factors Nvidia Forgot to Mention",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Sélection de départ · ex-gérant de fonds, finance et marchés"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Finary",
+    "d": 1385,
+    "id": "3xuS8R09ztY",
+    "l": "fr",
+    "p": "2026-11-22",
+    "t": "Ce placement ne rapporte presque plus rien",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Ton choix · patrimoine et investissement expliqués"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Finary",
+    "d": 1147,
+    "id": "gPQK0MTFI18",
+    "l": "fr",
+    "p": "2026-11-18",
+    "t": "Aujourd'hui, le monde entier s'arrête pour un jeu vidéo.",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Ton choix · patrimoine et investissement expliqués"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Finary",
+    "d": 2973,
+    "id": "3kbrL1UCVnw",
+    "l": "fr",
+    "p": "2026-11-17",
+    "t": "Le plus gros scandale de l’IA expliqué",
+    "tags": [
+     "Bourse"
+    ],
+    "w": "Ton choix · patrimoine et investissement expliqués"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Patrick Boyle",
+    "d": 2232,
+    "hn": 0,
+    "hnAt": "2026-11-23",
+    "id": "7MYXy0ROFM8",
+    "l": "en",
+    "p": "2026-11-21",
+    "t": "Why Would Anyone Spend $1 Billion on GTA 6?",
     "tags": [
      "Bourse"
     ],
@@ -2523,7 +2619,7 @@
    {
     "a": "2026-11-11",
     "c": "LEGEND",
-    "d": 6050,
+    "d": 6009,
     "id": "kBkLI2n6QJE",
     "l": "fr",
     "p": "2026-11-11",
@@ -2536,7 +2632,7 @@
    {
     "a": "2026-11-11",
     "c": "LEGEND",
-    "d": 3197,
+    "d": 3156,
     "id": "Ur99xxoddVg",
     "l": "fr",
     "p": "2026-11-10",
@@ -2549,7 +2645,7 @@
    {
     "a": "2026-11-11",
     "c": "LEGEND",
-    "d": 7419,
+    "d": 7373,
     "id": "WxHGWHieTGA",
     "l": "fr",
     "p": "2026-11-08",
@@ -2737,7 +2833,7 @@
    {
     "a": "2026-11-16",
     "c": "LEGEND",
-    "d": 7049,
+    "d": 7008,
     "id": "DQ2O_pctb1o",
     "l": "fr",
     "p": "2026-11-15",
@@ -2796,6 +2892,125 @@
     "l": "en",
     "p": "2026-11-14",
     "t": "How the Cascadia Megaquake Will Change America Forever",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Sélection de départ · géographie et géopolitique"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Sarah Knafo",
+    "d": 3553,
+    "id": "DTUrRRgFq0A",
+    "l": "fr",
+    "p": "2026-11-21",
+    "t": "Sarah Knafo fait le procès de Jean-Luc Mélenchon",
+    "tags": [
+     "Politique française"
+    ],
+    "w": "Ton choix · prises de parole de Sarah Knafo"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Sarah Knafo",
+    "d": 2532,
+    "id": "Zso30CqWRYM",
+    "l": "fr",
+    "p": "2026-11-17",
+    "t": "Sarah Knafo débat face à Julien Aubert",
+    "tags": [
+     "Politique française"
+    ],
+    "w": "Ton choix · prises de parole de Sarah Knafo"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "LEGEND",
+    "d": 5261,
+    "id": "6V2BBJfOdXU",
+    "l": "fr",
+    "p": "2026-11-22",
+    "t": "SCIENTOLOGIE : SECTE OU RELIGION ? ON VOUS RÉVÈLE TOUT (ADEPTES CÉLÈBRES, PURIFICATION, ARGENT…)",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Ton choix · grands entretiens"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "LEGEND",
+    "d": 4968,
+    "id": "5eU-K1HEmIs",
+    "l": "fr",
+    "p": "2026-11-20",
+    "t": "GTA, COCA-COLA, TESLA… LES STRATÉGIES SECRÈTES DES MARQUES LES PLUS PUISSANTES DU MONDE",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Ton choix · grands entretiens"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "LEGEND",
+    "d": 6114,
+    "id": "wnTyXQ2pQyM",
+    "l": "fr",
+    "p": "2026-11-18",
+    "t": "MIGRANT AFGHAN : IL RÊVAIT DE PARIS POUR FUIR L’ENFER MAIS FINIT DANS UN GHETTO PARISIEN ABOMINABLE",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Ton choix · grands entretiens"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "VA Plus",
+    "d": 2366,
+    "id": "RWdPtRJj_zc",
+    "l": "fr",
+    "p": "2026-11-22",
+    "t": "Pourquoi Louise Montangon dérange ?",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Ton choix · format magazine de VA Plus"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "VA Plus",
+    "d": 3845,
+    "id": "pJE5bN2UeFY",
+    "l": "fr",
+    "p": "2026-11-20",
+    "t": "Zemmour : 2 millions d'expulsions, comment faire ? (Grand Entretien – Présidentielle 2027)",
+    "tags": [
+     "Politique française"
+    ],
+    "w": "Ton choix · format magazine de VA Plus"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "VA Plus",
+    "d": 944,
+    "id": "tjOWAtX4C0M",
+    "l": "fr",
+    "p": "2026-11-18",
+    "t": "Dans le quotidien d'un homme attaché à ses racines (avec les Mémoires de Jean-Louis)",
+    "tags": [
+     "Géopolitique"
+    ],
+    "w": "Ton choix · format magazine de VA Plus"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "RealLifeLore",
+    "d": 1901,
+    "hn": 0,
+    "hnAt": "2026-11-23",
+    "id": "OshGmNgfoIs",
+    "l": "en",
+    "p": "2026-11-21",
+    "t": "Why You Can't Drive Anywhere In This Part of Alaska",
     "tags": [
      "Géopolitique"
     ],
@@ -3982,6 +4197,185 @@
      "Guerres mondiales"
     ],
     "w": "Fait partie d'une série · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "FranceLocalHistory",
+    "d": 2187,
+    "id": "wiiLqezgebA",
+    "l": "fr",
+    "p": "2026-11-22",
+    "t": "Toute l'histoire des États-Unis en 36 minutes",
+    "tags": [
+     "Histoire générale"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "FranceLocalHistory",
+    "d": 2132,
+    "id": "hs4xT5Acsh4",
+    "l": "fr",
+    "p": "2026-11-21",
+    "t": "Pourquoi la France a abandonné le Québec ? En 35 minutes",
+    "tags": [
+     "Histoire générale"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "FranceLocalHistory",
+    "d": 2088,
+    "id": "XR1mqwOozdw",
+    "l": "fr",
+    "p": "2026-11-20",
+    "t": "Vendée 1793 : la République a-t-elle commis un génocide ? En 34 minutes",
+    "tags": [
+     "Histoire générale"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Kings and Generals",
+    "d": 31796,
+    "hn": 0,
+    "hnAt": "2026-11-23",
+    "id": "2vMW4yFup1A",
+    "l": "en",
+    "p": "2026-11-22",
+    "t": "American Civil War: The Complete Story - EVERY BATTLE EXPLAINED",
+    "tags": [
+     "Époque moderne"
+    ],
+    "w": "Sélection de départ · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Kings and Generals",
+    "d": 1281,
+    "hn": 0,
+    "hnAt": "2026-11-23",
+    "id": "zcB5KlHrczo",
+    "l": "en",
+    "p": "2026-11-19",
+    "t": "Who Really Wrote the Iliad and Odyssey?",
+    "tags": [
+     "Histoire générale"
+    ],
+    "w": "Sélection de départ · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Kings and Generals",
+    "d": 1229,
+    "hn": 0,
+    "hnAt": "2026-11-23",
+    "id": "BTs75T-Ree8",
+    "l": "en",
+    "p": "2026-11-17",
+    "t": "Spanish Civil War: How Franco Seized Power",
+    "tags": [
+     "Époque moderne"
+    ],
+    "w": "Sélection de départ · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Kings and Generals",
+    "d": 1076,
+    "hn": 0,
+    "hnAt": "2026-11-23",
+    "id": "E75hxwGbFHE",
+    "l": "en",
+    "p": "2022-03-29",
+    "s": {
+     "loose": true,
+     "name": "Kings and Generals – Pacific War"
+    },
+    "t": "Japanese Raids in the Indian Ocean - Pacific War #19 DOCUMENTARY",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Fait partie d'une série · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Kings and Generals",
+    "d": 1138,
+    "hn": 0,
+    "hnAt": "2026-11-23",
+    "id": "gZsxpgNwxYc",
+    "l": "en",
+    "p": "2022-04-05",
+    "s": {
+     "loose": true,
+     "name": "Kings and Generals – Pacific War"
+    },
+    "t": "Fall of Bataan & The Bataan Death March - Pacific War #20 DOCUMENTARY",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Fait partie d'une série · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Kings and Generals",
+    "d": 1127,
+    "hn": 0,
+    "hnAt": "2026-11-23",
+    "id": "TTM2HR3Mtyo",
+    "l": "en",
+    "p": "2022-04-12",
+    "s": {
+     "loose": true,
+     "name": "Kings and Generals – Pacific War"
+    },
+    "t": "Doolittle Raid: America Strikes Back - Pacific War #21 DOCUMENTARY",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Fait partie d'une série · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Kings and Generals",
+    "d": 1084,
+    "hn": 0,
+    "hnAt": "2026-11-23",
+    "id": "bdJ_373NyME",
+    "l": "en",
+    "p": "2022-04-19",
+    "s": {
+     "loose": true,
+     "name": "Kings and Generals – Pacific War"
+    },
+    "t": "Japanese Advance on Burma Road - Pacific War #22 DOCUMENTARY",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Fait partie d'une série · histoire militaire en cartes animées"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Kings and Generals",
+    "d": 1245,
+    "hn": 0,
+    "hnAt": "2026-11-23",
+    "id": "kMX7Y6Njc9A",
+    "l": "en",
+    "p": "2022-05-03",
+    "s": {
+     "loose": true,
+     "name": "Kings and Generals – Pacific War"
+    },
+    "t": "Battle of the Coral Sea - Pacific War #24 DOCUMENTARY",
+    "tags": [
+     "Guerres mondiales"
+    ],
+    "w": "Fait partie d'une série · histoire militaire en cartes animées"
    }
   ],
   "label": "Histoire",
@@ -5039,6 +5433,116 @@
      "Analyse de morceaux"
     ],
     "w": "Fait partie d'une série · un producteur décortique les morceaux"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Rick Beato",
+    "d": 4834,
+    "hn": 0,
+    "hnAt": "2026-11-23",
+    "id": "qZtkrEKVpuE",
+    "l": "en",
+    "p": "2026-11-18",
+    "t": "I Had To Travel To Australia To Find Out Why His Mixes Sound Amazing",
+    "tags": [
+     "Analyse de morceaux"
+    ],
+    "w": "Sélection de départ · un producteur décortique les morceaux"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Rick Beato",
+    "d": 1324,
+    "hn": 2,
+    "hnAt": "2026-11-23",
+    "id": "l1ZnWc-sFd0",
+    "l": "en",
+    "p": "2020-05-20",
+    "s": {
+     "loose": true,
+     "name": "Rick Beato – What Makes This Song Great?"
+    },
+    "t": "What Makes This Song Great? \"Smells Like Teen Spirit\" Nirvana",
+    "tags": [
+     "Analyse de morceaux"
+    ],
+    "w": "Fait partie d'une série · un producteur décortique les morceaux"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Rick Beato",
+    "d": 1181,
+    "hn": 0,
+    "hnAt": "2026-11-23",
+    "id": "oOAe7JO-dDY",
+    "l": "en",
+    "p": "2020-05-07",
+    "s": {
+     "loose": true,
+     "name": "Rick Beato – What Makes This Song Great?"
+    },
+    "t": "What Makes This Song Great? \"Freak on a Leash\" KORN",
+    "tags": [
+     "Analyse de morceaux"
+    ],
+    "w": "Fait partie d'une série · un producteur décortique les morceaux"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Rick Beato",
+    "d": 1239,
+    "hn": 0,
+    "hnAt": "2026-11-23",
+    "id": "dfoF88I-e7Q",
+    "l": "en",
+    "p": "2020-04-23",
+    "s": {
+     "loose": true,
+     "name": "Rick Beato – What Makes This Song Great?"
+    },
+    "t": "What Makes This Song Great? \"Goliath\" KARNIVOOL",
+    "tags": [
+     "Analyse de morceaux"
+    ],
+    "w": "Fait partie d'une série · un producteur décortique les morceaux"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Rick Beato",
+    "d": 987,
+    "hn": 1,
+    "hnAt": "2026-11-23",
+    "id": "lCN97ZS7Ax4",
+    "l": "en",
+    "p": "2020-04-15",
+    "s": {
+     "loose": true,
+     "name": "Rick Beato – What Makes This Song Great?"
+    },
+    "t": "What Makes This Song Great? \"Ramble On\" LED ZEPPELIN",
+    "tags": [
+     "Analyse de morceaux"
+    ],
+    "w": "Fait partie d'une série · un producteur décortique les morceaux"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Rick Beato",
+    "d": 654,
+    "hn": 0,
+    "hnAt": "2026-11-23",
+    "id": "NFwZCy8gvyw",
+    "l": "en",
+    "p": "2020-04-06",
+    "s": {
+     "loose": true,
+     "name": "Rick Beato – What Makes This Song Great?"
+    },
+    "t": "What Makes This Song Great? \"Seven Nation Army\" The White Stripes",
+    "tags": [
+     "Analyse de morceaux"
+    ],
+    "w": "Fait partie d'une série · un producteur décortique les morceaux"
    }
   ],
   "label": "Musique",
@@ -5344,6 +5848,19 @@
     "l": "fr",
     "p": "2026-10-23",
     "t": "HPI, TDAH, AUTISME... Quand les réseaux sociaux nous diagnostiquent",
+    "tags": [
+     "Philosophie morale"
+    ],
+    "w": "Sélection de départ · philosophie par un prof de philo"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Le Précepteur",
+    "d": 3641,
+    "id": "bSnRCXCzq8M",
+    "l": "fr",
+    "p": "2026-11-20",
+    "t": "L'ARTISTE FAIT-IL CE QU'IL VEUT ?",
     "tags": [
      "Philosophie morale"
     ],
@@ -6473,6 +6990,77 @@
      "Physique"
     ],
     "w": "Sélection de départ · astronomie et cosmos, très visuel"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Micmaths",
+    "d": 2021,
+    "id": "qEr9PEq-9MI",
+    "l": "fr",
+    "p": "2026-11-16",
+    "t": "Un problème de 50 ans résolu... mais il manque trois trous - Micmaths",
+    "tags": [
+     "Physique"
+    ],
+    "w": "Sélection de départ · maths récréatives"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Veritasium",
+    "d": 2328,
+    "hn": 1,
+    "hnAt": "2026-11-23",
+    "id": "uXuQF_PPg5U",
+    "l": "en",
+    "p": "2026-11-18",
+    "t": "Randomness is a lie. Let me explain",
+    "tags": [
+     "Physique"
+    ],
+    "w": "Sélection de départ · physique contre-intuitive"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Balade Mentale",
+    "d": 1357,
+    "id": "lHbbsFOeJ8o",
+    "l": "fr",
+    "p": "2026-11-22",
+    "t": "On a découvert d’autres Humains",
+    "tags": [
+     "Physique"
+    ],
+    "w": "Sélection de départ · astronomie et cosmos, très visuel"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "3Blue1Brown",
+    "d": 819,
+    "hn": 2,
+    "hnAt": "2026-11-23",
+    "id": "zqzk43bSdDI",
+    "l": "en",
+    "p": "2026-11-22",
+    "t": "Since last year, we asked: “What if AI solved the Riemann Hypothesis?”",
+    "tags": [
+     "IA"
+    ],
+    "w": "Sélection de départ · les maths visualisées, référence mondiale"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "3Blue1Brown",
+    "d": 2245,
+    "hn": 5,
+    "hnAt": "2026-11-23",
+    "id": "qbsb9DpdZ6s",
+    "l": "en",
+    "p": "2026-11-17",
+    "t": "This algorithm changed how I think about compression | Information theory, part 3",
+    "tags": [
+     "Physique"
+    ],
+    "w": "Sélection de départ · les maths visualisées, référence mondiale"
    }
   ],
   "label": "Sciences",
@@ -6940,6 +7528,58 @@
      "Programmation"
     ],
     "w": "Sélection de départ · enquêtes cybersécurité"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "ElecTruc",
+    "d": 1112,
+    "id": "Ji0l1RTcxdU",
+    "l": "fr",
+    "p": "2026-11-17",
+    "t": "BYD a dépassé MG en France… et le pire pourrait arriver en 2027",
+    "tags": [
+     "Programmation"
+    ],
+    "w": "Ton choix · chaîne que tu as ajoutée"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Aywen",
+    "d": 990,
+    "id": "rSsENXLffd0",
+    "l": "fr",
+    "p": "2026-11-20",
+    "t": "J'ai testé les sites pour gagner de l'argent \"sans rien faire\"",
+    "tags": [
+     "Programmation"
+    ],
+    "w": "Ton choix · informatique et défis de code"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Underscore_",
+    "d": 2707,
+    "id": "7Jk8FFFqLW0",
+    "l": "fr",
+    "p": "2026-11-20",
+    "t": "Cette limite physique va faire tomber Nvidia",
+    "tags": [
+     "Programmation"
+    ],
+    "w": "Sélection de départ · émission tech et IA"
+   },
+   {
+    "a": "2026-11-23",
+    "c": "Underscore_",
+    "d": 1957,
+    "id": "D-NRC_wnJbc",
+    "l": "fr",
+    "p": "2026-11-17",
+    "t": "\"Moi, les images IA, je les repère de loin\"",
+    "tags": [
+     "IA"
+    ],
+    "w": "Sélection de départ · émission tech et IA"
    }
   ],
   "label": "Tech & numérique",
